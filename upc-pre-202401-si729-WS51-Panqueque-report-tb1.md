@@ -396,7 +396,12 @@ Hallazgos:
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas
 
+**Segmento Psicólogos:**
 
+<img src="./media/image98.png"
+style="width:7.15104in;height:4.00539in" />
+
+**Segmento Pacientes:**
 <img src="./media/image26.png"
 style="width:7.34896in;height:4.13379in" />
 
