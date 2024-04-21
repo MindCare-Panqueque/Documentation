@@ -49,7 +49,7 @@ Relación de integrantes:
 
 
 
-#Project Report Collaboration Insights
+# Project Report Collaboration Insights
 URL del repositorio del proyecto:[https://github.com/MindCare-Panqueque](https://github.com/MindCare-Panqueque)
 
 | Estudiante                          | Tarea asignada                                                                                                                                                                                                                                                                                                                                                               |
