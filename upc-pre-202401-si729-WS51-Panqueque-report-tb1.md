@@ -1,184 +1,61 @@
-Universidad Peruana de ciencias aplicadas
+<div align="center">
+
+# Universidad Peruana de ciencias aplicadas
+### Informe del trabajo
 
 5to ciclo
 
 ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/c8a24a74-515a-436b-b7b9-ea1b2e418e60)
 
-Aplicaciones Web
+**Curso:** Desarrollo de Aplicaciones Open Source
 
-WS51
+**Sección:** WS51
 
-Juan Antonio Flores Moroco
+**Profesor:** Juan Antonio Flores Moroco
 
-"Informe de Trabajo Final"
+**Carrera:** Ingeniería de Software
 
-Grupo: Panqueque
+**Ciclo:** 2024-01
 
-Producto: MindCare
+**Startup:** Panqueque
+
+**Producto:** MindCare
 
 Relación de integrantes:
 
-- Barbara Susana Quezada Portalatino
+| Nombre                            | Código       |
+|-----------------------------------|--------------|
+| Barbara Susana Quezada Portalatino| u202211800   |
+| Jimena Tamara Cama Salvatierra | u202210778 |
+| Sebastian Nicolas Cachis Gonzales         | u202210846   |
+| Enzo Paolo Noblecilla Jimenez     | u202119447   |
+| Elias Yauri Paucar     | u202211817   |
 
-- Jimena Tamara Cama Salvatierra
 
-- Sebastian Nicolas Cachis Gonzales
+### Marzo del 2024
+</div>
 
-- Enzo Paolo Noblecilla Jimenez
+<div align="justify">
 
-- Elias Yauri Paucar
 
-Abril 2024
+| Versión   | Fecha       | Autor      | Descripción                                                                                      
+|-----------|-------------|------------|--------------------------------------------------------------------------------------------------|
+| TB1      |  28/03/2024| Jimena Cama | Creación del documento de trabajo en formato markdown. |
+|TB1|  31/03/2024    | Jimena Cama  |Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |
+| TB1     |  05/04/2024  | Jimena Cama |Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas    |
+| TB1      | 27/03/2024   | Sebastian Cachis |Elaboración de user personas, impact mapping, as-is y to-be |
+| TB1     |  02/04/2024   | Sebastian Cachis |Elaboración de user stories, product backlog |
+| TB1     |  09/04/2024   | Sebastian Cachis |Elaboración de prototipos de wireframes y mockups  |
 
-# Registro de versiones del informe
 
-<table>
-<colgroup>
-<col style="width: 11%" />
-<col style="width: 15%" />
-<col style="width: 15%" />
-<col style="width: 58%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><blockquote>
-<p>Versión</p>
-</blockquote></th>
-<th><blockquote>
-<p>Fecha</p>
-</blockquote></th>
-<th><blockquote>
-<p>Autor</p>
-</blockquote></th>
-<th><blockquote>
-<p>Descripción</p>
-</blockquote></th>
-</tr>
-<tr class="odd">
-<th rowspan="6">TB1</th>
-<th><blockquote>
-<p>28/03/2024</p>
-</blockquote></th>
-<th><blockquote>
-<p>Jimena Cama</p>
-</blockquote></th>
-<th>Identifiqué e implemente el User persona para el Needfinding, en
-base a las entrevistas realizadas. Así como, parte de los User Stories y
-el Product Backlog</th>
-</tr>
-<tr class="header">
-<th><blockquote>
-<p>31/03/2024</p>
-</blockquote></th>
-<th><blockquote>
-<p>Jimena Cama</p>
-</blockquote></th>
-<th>Diseñé el General Style Guideline para la Web Application. Además,
-de el Web Style Guideline. Mismamente, identifiqué el proceso del
-usuario dentro de nuestra Web Application en el Organization
-System.</th>
-</tr>
-<tr class="odd">
-<th><blockquote>
-<p>05/04/2024</p>
-</blockquote></th>
-<th><blockquote>
-<p>Jimena Cama</p>
-</blockquote></th>
-<th>En Product Design, actualicé el header y la sección de
-Contactáctanos.</th>
-</tr>
-<tr class="header">
-<th><blockquote>
-<p>27/03/2024</p>
-</blockquote></th>
-<th><blockquote>
-<p>Sebastian Cachis</p>
-</blockquote></th>
-<th>Identifiqué e implemente la descripción de nuestra start up, además
-de desarrollar el análisis competitivo y las estrategias que tomarias
-ante nuestros competidores</th>
-</tr>
-<tr class="odd">
-<th>02/04/2024</th>
-<th><blockquote>
-<p>Sebastian Cachis</p>
-</blockquote></th>
-<th>Diseñé el Domain-Driven Software Architecture de nuestra start up,
-empleando el C4 Model, además de los diagramas de clases como el de base
-de datos y aportar en el class dictionary.</th>
-</tr>
-<tr class="header">
-<th>09/04/2024</th>
-<th><blockquote>
-<p>Sebastian Cachis</p>
-</blockquote></th>
-<th>Realizé el se Software Deployment Evidence for Sprint Review y el
-Team Collaboration Insights during Spring, haciendo uso de nuestro
-repositorio compartido el Git Hub donde teníamos los commits realizados
-por los integrantes del grupo.</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+</div>
 
-# Student Outcome
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><strong>Criterio específico</strong></th>
-<th><strong>Acciones realizadas</strong></th>
-<th><strong>Conclusiones</strong></th>
-</tr>
-<tr class="odd">
-<th>Comunica oralmente sus ideas y/o resultados con objetividad a
-público de diferentes especialidades y niveles jerarquicos, en el marco
-del desarrollo de un proyecto en ingeniería.</th>
-<th><p>-Jimena Tamara Cama Salvatierra TB1, para esta entrega
-identifiqué el problema que solucionaremos, el principal segmento
-objetivo en el que nos enfocaremos. Así mismo, planteé algunas
-hipótesis, riesgos y soluciones respecto al desarrollo de esta. Tomé
-decisiones de diseño para la landing page.</p>
-<p>-Sebastian Nicolas Cachis Gonzales TB1, para esta entrega identifiqué
-el problema que solucionaremos, la descripción de la startup que nos
-enfocaremos. Así mismo, realicé el análisis de empresas competidoras y
-como enfrentarnos a un mercado ya existente, además del desarrollo del
-Domain-Driven Software Architecture y los diagramas consecuentes a
-esto</p>
-<p>-Enzo Paolo Noblecilla Jimenez TB1, para esta entrega identifique las
-hipótesis de nuestro proyecto, así mismo plantie varias cuestiones que
-se presentan al momento de crear nuestro proyecto</p></th>
-<th></th>
-</tr>
-<tr class="header">
-<th>Comunica en forma escrita ideas y/o resultados con objetividad a
-público de diferentes especialidades y niveles jerárquicos, en el marco
-del desarrollo de un proyecto en ingeniería..</th>
-<th><p>-Jimena Tamara Cama Salvatierra TB1, al identificar distintos
-aspectos base de nuestra start up tomé en cuenta las necesidades y
-limitaciones de los psicólogos y los pacientes, tanto para el lean ux
-canva como para la interfaz de la landing page.</p>
-<p>-Sebastian Nicolas Cachis Gonzales TB1, al identificar distintos
-aspectos base de nuestra start up tomé en cuenta las necesidades y
-limitaciones de los psicólogos y los pacientes, tanto para los diagramas
-del C4 model como para la base de datos que gestiona el contenido y
-material de las citas.</p>
-<p>-Enzo Paolo Noblecilla Jimenez TB1, al crear el empathy map tome en
-cuenta las opiniones del paciente y psicólogo planteando sus
-pensamientos y opiniones</p></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+### Studen Outcome
+| Criterio específico                                                                                                                                                                    | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Conclusiones |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.     | -Jimena Tamara Cama Salvatierra TB1, para esta entrega identifiqué el problema que solucionaremos, el principal segmento objetivo en el que nos enfocaremos. Así mismo, planteé algunas hipótesis, riesgos y soluciones respecto al desarrollo de esta. Tomé decisiones de diseño para la landing page. -Sebastian Nicolas Cachis Gonzales TB1, para esta entrega identifiqué el problema que solucionaremos, la descripción de la startup que nos enfocaremos. Así mismo, realicé el análisis de empresas competidoras y como enfrentarnos a un mercado ya existente, además del desarrollo del Domain-Driven Software Architecture y los diagramas consecuentes a esto -Enzo Paolo Noblecilla Jimenez TB1, para esta entrega identifique las hipótesis de nuestro proyecto, así mismo plantie varias cuestiones que se presentan al momento de crear nuestro proyecto |              |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.. | -Jimena Tamara Cama Salvatierra TB1, al identificar distintos aspectos base de nuestra start up tomé en cuenta las necesidades y limitaciones de los psicólogos y los pacientes, tanto para el lean ux canva como para la interfaz de la landing page. -Sebastian Nicolas Cachis Gonzales TB1, al identificar distintos aspectos base de nuestra start up tomé en cuenta las necesidades y limitaciones de los psicólogos y los pacientes, tanto para los diagramas del C4 model como para la base de datos que gestiona el contenido y material de las citas. -Enzo Paolo Noblecilla Jimenez TB1, al crear el empathy map tome en cuenta las opiniones del paciente y psicólogo planteando sus pensamientos y opiniones                                                                                                                                                |              |
 
 # Contenido
 
@@ -365,7 +242,7 @@ y muy enfocada en mis estudios, tanto grupales como individuales. Tengo
 facilidad para entender y ejemplificar los distintos temas que vemos,
 teniendo soltura para explicar
 
-![image](https://private-user-images.githubusercontent.com/130580982/324223290-195f9b72-ac6b-445d-98c1-54c81c08d1d1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM2NzQ4ODYsIm5iZiI6MTcxMzY3NDU4NiwicGF0aCI6Ii8xMzA1ODA5ODIvMzI0MjIzMjkwLTE5NWY5YjcyLWFjNmItNDQ1ZC05OGMxLTU0YzgxYzA4ZDFkMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyMVQwNDQzMDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xZjFjNjQ4OTYxMjY4MmM4ZWRlOTlhNmNjZjI2MGQ3MjAwYTYwNjUwOGVhZTNiZGI3NDI2MGVlZTYzNTM3NzRjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Bu0YyV9kGKB_SKvxsX5XOJ1xGF0ARZQhzpRHDILhEPo)
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/195f9b72-ac6b-445d-98c1-54c81c08d1d1)
 
 • Jimena Tamara Cama Salvatierra
 
@@ -375,7 +252,7 @@ curiosa, determinada y organizada. Con la experiencia en proyectos de
 startup y trabajos en equipo, trabajaré junto a mis compañeros para
 lograr un óptimo resultado del proyecto.
 
-![image](https://private-user-images.githubusercontent.com/130580982/324223292-ed5c6d5b-0736-40f8-a3f4-d7cb959db2b2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM2NzQ4ODYsIm5iZiI6MTcxMzY3NDU4NiwicGF0aCI6Ii8xMzA1ODA5ODIvMzI0MjIzMjkyLWVkNWM2ZDViLTA3MzYtNDBmOC1hM2Y0LWQ3Y2I5NTlkYjJiMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyMVQwNDQzMDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MTY4NTg2OTVmN2IyZTMxZjcyMzExNzZhNjE5ZDZjZTcyNTQ5NzVhZDJmMGMwMjhkZDJhOTY0ZWY4N2RkZTM1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.CAOUP7WUJelBvzttSOX43HoVrXqPXShxOtPtoO3aMyk)
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/ed5c6d5b-0736-40f8-a3f4-d7cb959db2b2)
 
 • Enzo Paolo Noblecilla Jimenez
 
@@ -385,7 +262,7 @@ esto estoy dispuesto a aprender nuevas cosas y a su vez aplicarlas al
 día a día. Soy paciente y tranquilo, ofreciendo al equipo una persona en
 la cual confía
 
-![image](https://private-user-images.githubusercontent.com/130580982/324223293-dc19a38e-1b6d-426c-9393-d4c534c9c9e8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM2NzQ4ODYsIm5iZiI6MTcxMzY3NDU4NiwicGF0aCI6Ii8xMzA1ODA5ODIvMzI0MjIzMjkzLWRjMTlhMzhlLTFiNmQtNDI2Yy05MzkzLWQ0YzUzNGM5YzllOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyMVQwNDQzMDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hYmY3MmM0ZWRhZDE1M2Q2NjY4NTA4YTBkZTJhMmRiMzEzNDg3YjE1ZTIwNTEyODgwMDczNjdjNzMwZDQwZmYyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.X8rwk4TPnmGlFeNuuCCCPEPzsZPRlRZfotMIjxmk2t8)
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/dc19a38e-1b6d-426c-9393-d4c534c9c9e8)
 
 • Barbara Susana Quezada Portalatino
 
@@ -395,7 +272,7 @@ perseverante, comprensiva y organizada. Junto a mis habilidades de
 liderazgo y trabajo en equipo en un ambiente de respeto, sé que lograré
 ejecutar la startup de nuestro proyecto de manera efectiva.
 
-![image](https://private-user-images.githubusercontent.com/130580982/324223294-8476be7b-0857-4f9a-b241-c9221e732779.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM2NzQ4ODYsIm5iZiI6MTcxMzY3NDU4NiwicGF0aCI6Ii8xMzA1ODA5ODIvMzI0MjIzMjk0LTg0NzZiZTdiLTA4NTctNGY5YS1iMjQxLWM5MjIxZTczMjc3OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyMVQwNDQzMDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZGU0ZmI1OWQ5MTdiMzkxNjY4MGRjYTA1ZDMxZjE0NGFiNmMwNjA4NDE2ZGE2YTExZjM2OGQ4ZjBhZWMwZjBhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.CUlwgav1clXKMHqC8Y0cQ8Rkcqf1BLSEPOhOMqwSSt8)
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/8476be7b-0857-4f9a-b241-c9221e732779)
 
 - Elias Yauri Paucar
 
@@ -406,8 +283,82 @@ que se me presente, me logro acoplar y congeniar fácilmente con un
 equipo. Me comprometo a dar mi mayor esfuerzo en realizar todos los
 puntos y actividades con respecto a este proyecto.
 
-![image](https://private-user-images.githubusercontent.com/130580982/324223295-1c7648e1-3c80-477f-83e8-ca3e561beaf4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM2NzQ4ODYsIm5iZiI6MTcxMzY3NDU4NiwicGF0aCI6Ii8xMzA1ODA5ODIvMzI0MjIzMjk1LTFjNzY0OGUxLTNjODAtNDc3Zi04M2U4LWNhM2U1NjFiZWFmNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyMVQwNDQzMDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00Y2ZjYTEyMjdiMzNmZWMyY2ZhYmZlZWQzM2ZmYTRkMDUxNjA2YjdmMmU2ZWNlZWFlZjMyM2ZiYTUyZDc0Y2Q0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.G4NBndDwJBAZU5mHTFS6wtiOqEnDF5iR7uJidQMwV4Q)
-1.2.2.3. Lean UX Hypothesis Statements.
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/1c7648e1-3c80-477f-83e8-ca3e561beaf4)
+
+## 1.2 Solution Profile
+### 1.2.1 Antecedentes y problemática
+
+Con el propósito de obtener una comprensión más profunda de las necesidades de nuestros dos segmentos, emplearemos la técnica de las "5W y 2H" para examinar los antecedentes históricos y los desafíos asociados. A continuación, compartimos la información recopilada.
+•	What (Qué):
+¿Cuál es la relación del problema con las personas?
+El problema al que se dirige esta plataforma está relacionado con la dificultad que enfrentan las personas para acceder a servicios de salud mental de manera conveniente y confiable, así como gozar de los beneficios que ofrece llevar una vida de terapia psicológica con profesionales de primera.
+
+•	When (Cuándo):
+¿Cuándo sucede el problema?
+El problema de sentirse sin herramientas para poder enfrentar problemas de salud mental puede surgir en cualquier momento en el que una persona necesite apoyo o atención.
+
+¿Cuándo utiliza el cliente el servicio?
+Los clientes pueden utilizar el servicio en momentos de estrés, ansiedad, depresión u otros problemas de salud mental que busquen tratar o buscar consejos profesionales de cómo controlarlos, así como en momentos programados para citas y sesiones terapéuticas.
+
+•	Where (Dónde):
+¿Dónde está el cliente cuando usa el producto?
+Los clientes pueden usar el producto desde cualquier lugar con acceso a internet, como sus hogares, lugares de trabajo o cualquier otro entorno privado. Pues nuestra plataforma busca atender las necesidades de nuestros pacientes en cualquier momento del día.
+
+•	Who (Quién):
+¿Quiénes están involucrados?
+Los principales involucrados en este contexto son los profesionales en salud mental, que abarcan psicólogos, psiquiatras, terapeutas y consejeros, quienes ofrecen sus servicios a través de nuestra plataforma digital. Además, los pacientes que buscan apoyo para enfrentar una variedad de desafíos emocionales y mentales también forman parte fundamental de nuestro ecosistema.
+
+¿Quién lo utilizará?
+La plataforma está diseñada específicamente para que la utilicen profesionales en salud mental que deseen ofrecer sus servicios a pacientes que requieran atención sobre sus problemas emocionales y personas que buscan apoyo para tratar profesionalmente su bienestar emocional.
+
+•	Why (Por qué):
+
+¿Cuál es la causa del problema?
+La causa del problema puede ser la falta de acceso fácil y confiable a servicios de salud mental, esto puede estar vinculado a la escasez de recursos en ciertas áreas geográficas, largos tiempos de espera para citas con profesionales de la salud mental y limitaciones en los sistemas de atención médica pública o privada. De la misma manera, otra causa es la estigmatización asociada con buscar ayuda para problemas de salud mental, pues, el miedo al juicio de los demás, la preocupación por el impacto en la carrera profesional, y la falta de comprensión sobre la salud mental pueden contribuir a esta estigmatización.
+
+•	How (Cómo):
+¿En qué condiciones los clientes usan nuestro producto?
+Los clientes pueden usar el producto en momentos de necesidad o según sus horarios disponibles. Pueden utilizar la plataforma cada vez que busquen tratar su problema emocional con un profesional confiable. Básicamente, las condiciones pueden ser diversas, desde situaciones cotidianas sobre los problemas personales de cada uno como en situaciones específicas donde signifique seguir exhaustivamente un tratamiento.
+
+¿Cómo nos conocieron los compradores?
+Los compradores pueden conocer el servicio a través de publicidad en línea, recomendaciones de profesionales de la salud, redes sociales, etc. Además, los médicos de atención primaria, los psicólogos y otros especialistas en salud mental pueden referir a sus pacientes a nuestra plataforma como una opción confiable para recibir atención especializada.
+
+¿Cómo prefieren los lectores acceder a nuestro contenido?
+Los lectores pueden preferir acceder al contenido a través de nuestra aplicación, pues proporciona una plataforma fácil de usar para interactuar con toda la comunidad y recibir notificaciones personalizadas sobre actualizaciones de los servicios que tenemos.
+
+¿Qué llevó a la persona a esta situación?
+Las personas pueden encontrarse en situaciones de estrés, ansiedad, depresión u otras condiciones de salud mental debido a una variedad de factores, como problemas personales, laborales, familiares, etc.
+
+•	How much (Cuánto):
+¿Cuánto están dispuestos a pagar los clientes por el servicio?
+Es posible ofrecer opciones de pago flexibles, como paquetes de sesiones o planes de suscripción, para adaptarse a las diferentes necesidades y presupuestos de los clientes. Nuestra plataforma está muy bien equipada con herramientas que tanto los psicólogos como pacientes podrán gozar y todo dependerá de los planes de suscripción de cada usuario.
+
+### 1.2.2 Lean UX Process
+#### 1.2.2.1. Lean UX Problem Statements
+
+El problema al que nos dirigimos con nuestra plataforma es la dificultad que enfrentan las personas para acceder a cuidado psicológico de manera conveniente y confiable. Esto se debe a la falta de recursos en ciertas áreas geográficas, largos tiempos de espera para citas con profesionales de la salud mental y limitaciones en los sistemas de atención médica pública o privada, así como la estigmatización asociada con buscar ayuda para problemas de salud mental. Por otro lado, las personas se encuentran en situaciones de estrés, ansiedad, depresión u otras condiciones de salud mental debido a una variedad de factores personales, laborales y familiares, lo que hace que busquen apoyo profesional, pero a menudo se sienten limitados por estas barreras.
+
+Nuestra plataforma busca abordar estas preocupaciones al ofrecer un espacio digital seguro y confiable para profesionales en salud mental y para aquellos que buscan apoyo. Con herramientas para administrar horarios, conectarse con pacientes interesados y acceso a una red de expertos en diversas áreas de la salud mental, buscamos proporcionar atención y apoyo adecuados a los pacientes, junto con recursos e información precisa sobre el cuidado de la salud mental.
+
+	¿Cómo podemos ayudar ?
+
+#### 1.2.2.2. Lean UX Assumptions
+
+Creo que mis clientes necesitan una plataforma digital donde puedan interactuar mutuamente para poder tratar un problema de salud mental, en donde también encuentren un medio por el cual brindar apoyo e información.
+Estas necesidades se pueden resolver con una plataforma diseñada para pacientes y psicólogos que incluya características como agendar citas con los psicólogos,  ver el horario de los psicólogos, así como para los psicólogos desvirar casos con otros psicólogos y publicar plantillas de tratamientos.
+Mis clientes iniciales serán psicólogos y psiquiatras en áreas urbanas, específicamente en Lima Metropolitana, donde haya una alta concentración de profesionales de la salud mental.
+El valor #1 que un cliente quiere de mi servicio es la accesibilidad y conveniencia para acceder a cuidado psicológico de calidad.
+El cliente también puede obtener estos beneficios adicionales como interactuar con otros profesionales de la salud mental para desvirtuar casos y compartir mejores prácticas. En el caso de los pacientes, podrán tener un plan de tratamiento personalizado.
+Voy a adquirir la mayoría de mis clientes a través de publicidad en redes sociales dirigida a profesionales de la salud mental en Lima Metropolitana, así como campañas de correo electrónico dirigidas a mi base de datos de contactos.
+Haré dinero a través de modelos de suscripción para psicólogos y psiquiatras que deseen utilizar nuestra plataforma.
+Mi competencia principal en el mercado serán otras plataformas similares que ofrecen servicios de telepsicología y gestión de citas para profesionales de la salud mental. También competiremos con los servicios de atención médica tradicionales, como clínicas y consultorios privados.
+Los venceremos distinguiéndonos de la competencia mediante una interfaz intuitiva, personalizada y fácil de usar, así como herramientas avanzadas de colaboración entre profesionales de la salud mental.
+Mi mayor riesgo es la resistencia al cambio por parte de algunos psicólogos hacia la adopción de tecnología.
+Resolveremos esto a través de la capacitación y soporte técnico integral para los usuarios. Además, ofreceremos períodos de prueba gratuitos para que los psicólogos experimenten con la plataforma y vean sus beneficios directamente.
+
+
+### 1.2.2.3. Lean UX Hypothesis Statements.
+
 * **Creemos** que al proporcionar información detallada y veraz sobre los perfiles y especialidades de los psicólogos en nuestra plataforma, lograremos una experiencia de usuario informada y satisfactoria, **sabremos** que hemos tenido éxito **cuando** recibamos retroalimentación positiva y valoraciones altas tanto de usuarios como psicólogos sobre la claridad y utilidad de la información proporcionada.
 
 * **Creemos** que al facilitar el acceso a servicios de salud mental a través de nuestra plataforma contribuiremos a reducir las barreras y problemas relacionados con la búsqueda de atención psicológica, **sabremos** que hemos tenido éxito **cuando** observemos una disminución significativa en las quejas o dificultades reportadas por los usuarios y autoridades relacionadas con la atención psicológica en la comunidad.
@@ -416,7 +367,181 @@ puntos y actividades con respecto a este proyecto.
 
 * **Creemos** que al garantizar la privacidad y la seguridad de los datos de los usuarios y psicólogos en nuestra plataforma, ganaremos confianza y credibilidad en nuestro servicio, **sabremos** que hemos tenido éxito **cuando** no se reporten incidentes de seguridad relacionados con la privacidad de los datos de los usuarios y psicólogos.
 
-2.3.2. User Task Matrix.
+### 1.2.2.4. Lean UX Canvas
+
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/22784e8b-06e3-4b05-b801-7b24f47c5a52)
+
+## 1.3. Segmentos objetivo
+
+La plataforma está diseñada específicamente para dos segmentos clave en el ámbito de la salud mental: psicólogos y pacientes que buscan apoyo profesional.
+Para los profesionales, ofrecemos un espacio digital seguro donde pueden gestionar información sensible de manera eficiente, como anotaciones y reportes de pacientes, además de administrar sus horarios de atención de manera organizada. Esto les permite centrarse en brindar la mejor atención posible a sus pacientes, sin preocuparse por la logística administrativa.
+Para los pacientes, nuestra plataforma ofrece la garantía de acceder a profesionales de alto calibre en el campo de la salud mental. Al registrarse, pueden encontrar el apoyo psicológico adecuado para abordar sus preocupaciones y desafíos personales. Saben que aquellos con quienes interactúan son expertos experimentados y reconocidos en sus respectivas áreas, lo que les brinda confianza y seguridad en el proceso de búsqueda de ayuda y orientación.
+
+# Capítulo II: Requirements Elicitation & Analysis
+
+## 2.1. Competidores
+
+### 2.1.1. Análisis competitivo
+
+| Competitive Analysis Landscape                             |                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                  |                                                                                                                          |                                                                                                                               |
+|------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| ¿Por qué llevar a cabo este análisis?                      | Para poder ver las fortalezas, cualidades, características y debilidades de las distintas empresas que ofrecen un producto similar al nuestro |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                  |                                                                                                                          |                                                                                                                               |
+| (En la cabecera colocar por cada competidor nombre y logo) |                                                                                                                                               | MindCare ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/fc01ff7c-71a1-4fd0-8c76-7587a79d46e2) | Bienestaremocional ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/b1ffcf8b-a802-4dfe-9297-dee9664fc663) | Betterhelp ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/6b951fd2-036d-45f4-8c91-5f27e2ad8b20) | Psychologytoday ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/3ae588a7-ac15-4509-b7a4-58d608611f38) |
+| Perfil                                                     | Overview                                                                                                                                      | Ofrece un espacio digital seguro y confiable para conectar a profesionales en salud mental con pacientes que buscan apoyo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Empresa que se centra en mejorar la salud mental y emocional                                                                     | Plataforma en línea que ofrece servicios de asesoramiento y terapia virtual                                              | Recursos y directorios para encontrar profesionales de la salud mental                                                        |
+|                                                            | Ventaja competitiva ¿Qué valor ofrece a los clientes?                                                                                         | Accesibilidad y conveniencia para acceder a cuidado psicológico de calidad, con una interfaz intuitiva, personalizada y fácil de usar                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Acceso conveniente y asequible a servicios de asesoramiento y terapia en línea                                                   | Radica en su conveniencia y accesibilidad al proporcionar servicios de asesoramiento y terapia en línea                  | Permite a los clientes encontrar fácilmente profesionales de la salud mental y acceder a recursos relacionados                |
+| Perfil de marketing                                        | Mercado objetivo                                                                                                                              | Profesionales en salud mental, específicamente psicólogos y psiquiatras y personas que necesitan apoyo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Buscan mejorar su salud mental y emocional                                                                                       | Buscan servicios de asesoramiento y terapia en línea                                                                     | Servicios de salud mental y profesionales de la psicología, terapia y consejería                                              |
+|                                                            | Estrategias de marketing                                                                                                                      | Campañas de correo electrónico dirigidas a bases de datos de contactos, y modelos de suscripción para psicólogos y psiquiatras                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Colaboraciones con empresas para ofrecer programas de bienestar a empleados                                                      | Publicidad en línea dirigida a través de redes sociales y motores de búsqueda                                            | Publicidad en línea dirigida a través de plataformas digitales y redes sociales                                               |
+| Perfil de producto                                         | Productos & Servicios                                                                                                                         | Agendar citas, ver horarios de profesionales, desvirtuar casos entre psicólogos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Talleres y programas de entrenamiento en habilidades emocionales                                                                 | Acceso a una red de profesionales de la salud mental                                                                     | Información sobre diferentes enfoques terapéuticos y tratamientos                                                             |
+|                                                            | Precios & Costos                                                                                                                              | Modelos de suscripción para psicólogos y psiquiatras, con opciones de pago flexibles                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Cuenta con un servicio freemium                                                                                                  | Entre aproximadamente $60 y $90 por semana para acceso ilimitado a sesiones de terapia en línea                          | Generalmente establecen sus propios honorarios, que pueden variar desde $50 a $250 o más por sesión                           |
+|                                                            | Canales de distribución (Web y/o Móvil)                                                                                                       | Plataforma web y aplicaciones móviles                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Plataforma web y aplicaciones móviles                                                                                            | Plataforma web y aplicaciones móviles                                                                                    | Plataforma web y aplicaciones móviles                                                                                         |
+| Análisis FODA                                              | Fortalezas                                                                                                                                    | Interfaz intuitiva y personalizada, acceso conveniente a servicios de salud mental                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Amplia gama de servicios, plataforma en línea y enfoque holístico                                                                | Acceso conveniente, amplia red de profesionales y tecnología avanzada                                                    | Amplia red de profesionales, reconocimiento de marca y recursos educativos                                                    |
+|                                                            | Debilidades                                                                                                                                   | Posible resistencia al cambio por parte de algunos psicólogos hacia la adopción de tecnología                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Crecimiento del mercado,  colaboraciones empresariales                                                                           | Crecimiento del mercado, expansión internacional                                                                         | Expansión de servicios y colaboraciones estratégicas                                                                          |
+|                                                            | Oportunidades                                                                                                                                 | Reducir barreras y problemas relacionados con la búsqueda de atención psicológica                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Competencia en línea y dependencia tecnológica                                                                                   | Limitaciones de la terapia en línea, costo para los terapeutas                                                           | Dependencia de la plataforma web y competencia en línea                                                                       |
+|                                                            | Amenazas                                                                                                                                      | Competencia de otras plataformas similares de telepsicología, así como de servicios de atención médica tradicionales                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Cambios en las regulaciones y competencia creciente                                                                              | Regulaciones cambiantes, competencia creciente                                                                           | Cambios en las regulaciones y competencia creciente                                                                           |
+
+### 2.1.2. Estrategias y tácticas frente a competidores
+
+Para destacarnos en el competitivo mercado de salud mental y emocional, nuestras estrategias se centran en la diferenciación de nuestra plataforma, colaboraciones estratégicas, innovación continua y enfoque en la experiencia del usuario. Nos distinguimos por nuestra accesibilidad y conveniencia, junto con una interfaz intuitiva y herramientas avanzadas de colaboración. Estableceremos asociaciones con empresas para ofrecer programas de bienestar a empleados, aprovechando nuestra amplia gama de servicios. Nos comprometemos a mantenernos a la vanguardia tecnológica, superando las resistencias al cambio con capacitación y soporte para profesionales. Además, nos esforzaremos por mejorar constantemente la experiencia del usuario, recopilando comentarios y realizando actualizaciones para abordar barreras en la búsqueda de atención psicológica. Estas estrategias nos permitirán fortalecer nuestra posición en el mercado y ofrecer un valor excepcional a nuestra audiencia.
+
+## 2.2. Entrevistas
+### 2.2.1. Diseño de entrevistas
+
+Psicólogos:
+
+¿Cuáles son los retos más grandes que enfrentan como profesionales de la salud mental al trabajar con pacientes?
+
+¿Qué herramientas o trucos usan para manejar sus horarios y conectarse mejor con sus pacientes?
+
+¿Qué cosas son imprescindibles al elegir una plataforma para brindar servicios, como la seguridad, la facilidad de uso o la integración con otras herramientas?
+
+¿Cómo ven ustedes el papel de la tecnología en su día a día
+¿Cómo creen que podría mejorar la atención a los pacientes?
+
+¿Cómo combaten el estigma asociado a buscar ayuda para problemas de salud mental en su práctica clínica?
+
+¿Qué funciones son cruciales en una plataforma digital para garantizar la confidencialidad y privacidad de los pacientes?
+
+¿Qué hacen para mantenerse al día con las últimas investigaciones y prácticas en el campo de la salud mental?
+
+¿Cómo saben si una sesión de terapia o asesoramiento fue efectiva y qué métodos usan para seguir el progreso de los pacientes?
+
+¿Qué sugerencias tienen para hacer que los servicios de salud mental a través de plataformas digitales sean más accesibles y de mejor calidad?
+
+Pacientes:
+
+¿Cuáles son los mayores desafíos que enfrentas al buscar ayuda para tus problemas de salud mental?
+
+¿Qué cosas consideras más importantes al elegir un terapeuta o consejero para recibir tratamiento o apoyo?
+
+¿Qué te impulsa a buscar apoyo en línea para tus problemas emocionales en lugar de buscar ayuda de manera tradicional?
+
+¿Cuáles son tus principales preocupaciones o obstáculos al intentar acceder a servicios de salud mental en tu área?
+
+¿Cómo crees que podrían abordarse estos obstáculos?
+
+¿Cómo describirías tu experiencia ideal al reservar y participar en sesiones de terapia o asesoramiento en línea?
+
+¿Qué cualidades valoras más en una plataforma digital de salud mental, como la facilidad de uso, la confidencialidad o la variedad de profesionales disponibles?
+
+¿Cómo han sido tus experiencias previas buscando ayuda con respecto al bienestar de tu salud mental?
+
+¿Qué tipo de apoyo adicional esperas recibir de una plataforma de salud mental en línea más allá de las sesiones de terapia o asesoramiento individual?
+
+¿Estarías dispuesto a invertir mensualmente en una plataforma de salud mental en línea que te brinde acceso para gestionar tu bienestar emocional?¿Por qué?
+
+### 2.2.2. Registro de entrevistas
+
+Segmento de psicólogos
+Sexo: Masculino
+Edad: 27 años
+Ubicación: Magdalena
+Link: Fabian_Lujan_Entrevista
+Duración: 9:47
+Resumen:
+El psicólogo Fabián comentó que uno de los desafíos más frecuentes a los que se enfrenta es al estigma asociado a buscar ayuda. Ahora, la manera en la que trabaja, generalmente utiliza herramientas digitales para gestionar horarios y conectarse con los pacientes. Prioriza la seguridad y confiabilidad al elegir plataformas de servicio. La tecnología es fundamental en su práctica diaria, desde tomar notas hasta grabar sesiones. Él intenta promover la normalización de la asistencia psicológica a través de publicaciones en línea. Así mismo, garantiza la confidencialidad de los pacientes y se mantiene actualizado con investigaciones y prácticas. De igual manera, evalúa la efectividad de las sesiones mediante comentarios y referencias de pacientes. Una idea que ofreció fue mejorar la calidad de los servicios digitales, enfocándonos en la privacidad, el anonimato y métodos de pago transparentes.
+
+Segmento de pacientes
+
+1.
+Sexo: Masculino
+Edad: 19 años
+Ubicaciones: Callao
+Link: https://drive.google.com/file/d/1UxNvJD1ELRn6rFeu9Q4g0sGyk8q5sZpH/view?usp=sharing 
+Duración: 7:45
+Resumen:
+En una entrevista, Ricardo Rivas compartió su experiencia positiva al buscar apoyo psicológico en línea a través de plataformas de búsqueda de psicólogos. Destacó la conveniencia y accesibilidad de encontrar profesionales calificados desde la comodidad de su hogar, lo que le brindó una sensación de control sobre su proceso de bienestar emocional. Ricardo enfatizó la importancia de sentirse cómodo y conectado con su terapeuta, y encontró que las opciones en línea le proporcionaron una amplia variedad de especialidades para elegir. Esta experiencia le permitió a Ricardo superar barreras geográficas y de tiempo, facilitando su acceso a la atención psicológica cuando más la necesitaba.
+
+2.
+Sexo: Masculino
+Edad: 18 años
+Ubicación: Ica
+Duración: 9:00
+
+Resumen:
+En la entrevista, Rodrigo Pisconti Palacios  abordó varios aspectos cruciales sobre la búsqueda de ayuda para problemas de salud mental y la utilización de plataformas de salud mental en línea. 
+De los cuales tenemos:
+
+Desafíos en la Búsqueda de Ayuda: El entrevistado identificó los principales desafíos como el estigma asociado a la salud mental, la falta de recursos o profesionales disponibles en mi área, y las dificultades para encontrar un terapeuta con quien pueda establecer una conexión genuina.    
+
+Importancia en la elección de un terapeuta: Para él, es crucial que el terapeuta o consejero tenga una especialización adecuada en los problemas específicos que estoy enfrentando, además de una actitud empática y un enfoque terapéutico que resuene conmigo.
+
+Preferencia por el Apoyo en Línea: Optó por el apoyo en línea debido a su accesibilidad inmediata, la comodidad de no tener que desplazarse físicamente, y la mayor facilidad para encontrar un terapeuta que se ajuste específicamente a mis necesidades.
+
+Preocupaciones y Obstáculos Acceso a Servicios de Salud Mental: Sus principales preocupaciones incluyen la falta de acceso a servicios asequibles y la escasez de información sobre las opciones de tratamiento disponibles.
+
+3.
+Sexo: Masculino
+Edad: 26 años
+Ubicaciones: Huaral
+Link: https://drive.google.com/file/d/1F-Q_fHcuICIHxOkiFg04s8OGttceqfsp/view?usp=sharing 
+Duración: 4:57
+Resumen:
+Franchesco Montesinos, un  psicólogo, compartió en una entrevista su experiencia en el campo de la psicología, destacando la importancia de la conexión humana y la empatía en su práctica. Señaló que el uso de plataformas en línea para psicólogos puede ser útil para llegar a más personas y brindar apoyo a aquellos que lo necesitan, pero enfatizó la importancia de mantener un equilibrio entre la tecnología y el contacto personal para ofrecer un tratamiento efectivo y compasivo.
+4.
+Sexo:Femenino
+Edad:72
+Ubicaciones:Ventanilla
+Link:hilma mauricio-paciente.mp4
+Duración: 2:59
+Resumen:
+Durante la entrevista, Hilma Mauricio, una paciente, expresó su deseo de recibir apoyo psicológico para mejorar su calidad de vida. Destacó la importancia de encontrar un especialista en salud mental que le brinde atención personalizada y sesiones altamente confidenciales, ya que desea mantener la privacidad de su tratamiento y evitar que información sensible se divulgue a sus conocidos. Prefiere la modalidad de consulta presencial, considerando que le resulta más práctico para abordar sus problemas de manera efectiva.
+En cuanto a nuestra página web, Hilma enfatizó que valora principalmente la calidad de los especialistas en salud mental que ofrecemos, más que la estética o el diseño del sitio. Aunque no ha podido encontrar un especialista hasta el momento, expresó su interés en utilizar una plataforma en línea donde pueda buscar ayuda psicológica tanto en modalidad presencial como en línea.
+Al finalizar la entrevista, Hilma manifestó su disposición a utilizar una página web que facilite la búsqueda de ayuda psicológica, reconociendo la importancia de tener acceso a profesionales capacitados y confiables.
+
+### 2.2.3. Análisis de entrevistas
+
+Respecto a las entrevistas registradas, realizamos un análisis de estas, donde daremos a conocer los hallazgos que obtuvimos gracias a los psicólogos y a los pacientes.
+
+En el segmento Psicólogos:
+Integración de tecnología en la práctica de los psicólogos.
+Hallazgos:
+Promoción de la normalización de la asistencia psicológica mediante publicaciones en redes.
+Preocupación por la privacidad y la protección de los datos de los pacientes en el entorno digital.
+
+
+En el segmento Pacientes:
+Buscar psicólogos o especialista de calidad para la mayor satisfacción del paciente 
+
+
+
+Hallazgos: 
+
+La accesibilidad inmediata y la conveniencia de recibir terapia sin desplazamientos físicos son factores significativos que impulsan a los individuos a buscar apoyo en línea.
+
+La habilidad de encontrar terapeutas que no solo posean una especialización relevante sino que también generen una conexión genuina y empática con el paciente es crucial.
+
+## 2.3. Needfinding
+### 2.3.1. User Personas
+
+Segmento Psicólogos:
+
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/fe466919-9b41-41c8-9bff-9cfaf77190d6)
+
+Segmento Pacientes:
+
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/5bb931c3-9b84-4bef-9ded-3398469fb3ac)
+
+### 2.3.2. User Task Matrix.
 
 | Task                            | Andrea (psicóloga) | Marcos (paciente) |
 |--------------------------------|---------------------|-------------------|
@@ -431,13 +556,123 @@ puntos y actividades con respecto a este proyecto.
 | Acceder a recursos sobre salud mental | Media        | Alta              | Media           | Alta            |
 | Ver perfiles profesionales      | Alta                | Media             | Alta            | Alta            |
 
-  2.3.3. User Journey Mapping. 
-  ![imagen 1](https://private-user-images.githubusercontent.com/130580982/324223303-d7fa1997-2ef3-4983-88ce-5a028017589c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM2ODAzMzAsIm5iZiI6MTcxMzY4MDAzMCwicGF0aCI6Ii8xMzA1ODA5ODIvMzI0MjIzMzAzLWQ3ZmExOTk3LTJlZjMtNDk4My04OGNlLTVhMDI4MDE3NTg5Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyMVQwNjEzNTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZmM3NjhkYTRmYzlmZWM5MGE1Njg0OTdhYTFhMzU1NjcxYzZlYmM3YTI2MjM2OTA3MzY1YzZiMTZjMTNhY2M1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Fyv-vU7mwmcoQhCPlnVOtkTYr3hWG-StdmwfHLax0zI)
- ![imagen 2](https://private-user-images.githubusercontent.com/130580982/324223304-b4b489d4-b819-41f9-83a0-f02ef8256b4d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM2ODAzMzAsIm5iZiI6MTcxMzY4MDAzMCwicGF0aCI6Ii8xMzA1ODA5ODIvMzI0MjIzMzA0LWI0YjQ4OWQ0LWI4MTktNDFmOS04M2EwLWYwMmVmODI1NmI0ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyMVQwNjEzNTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NWQ0NGJhYzM5NzI5MjIzYzExYTNjMGE4YmE5YWI5NWIwNDU4ZDM1OWY3MjRjODNhNWI5NTAzZWYwYTQyNzkzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.IbVEiHIrTezD1FHRkWC_qqM-GClxbZYiUvJV_iYQ5mQ)
-  2.3.4. Empathy Mapping.
-  ![imagen 1](https://private-user-images.githubusercontent.com/130580982/324223305-381cbe1e-322f-488b-a8f6-55e5cd37d5e8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM2ODAzMzAsIm5iZiI6MTcxMzY4MDAzMCwicGF0aCI6Ii8xMzA1ODA5ODIvMzI0MjIzMzA1LTM4MWNiZTFlLTMyMmYtNDg4Yi1hOGY2LTU1ZTVjZDM3ZDVlOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyMVQwNjEzNTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZTE3MGMxYWE0NjMxNDRmMWEzYzQ3MTkyZDYyMDA3OGU4YzIyNTNjYmVmNjk3ZmRjZjZjYjJmZDE2ZTg3NTNjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.YrrebF9xcWXm3o4VYKQMVLOoayjmoXEw8fIGWRq2fdo)
-   ![imagen 2](https://private-user-images.githubusercontent.com/130580982/324223306-f81a1518-a5da-4ee4-938f-1bf96c983ea5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM2ODAzMzAsIm5iZiI6MTcxMzY4MDAzMCwicGF0aCI6Ii8xMzA1ODA5ODIvMzI0MjIzMzA2LWY4MWExNTE4LWE1ZGEtNGVlNC05MzhmLTFiZjk2Yzk4M2VhNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyMVQwNjEzNTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00MTRiYzMwYjFkMTA5NzhjNzg0OWVjZjMyOTIwNjY0YTNlYjM1ZDc0MTk2OWFkNjg0OWFmMzZlMWNlZDU5YmM0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.IlHW6VwVdJPMgsGF5Dxk4b6pQ0PrxJIQ87d57vq24K4)
-  
+### 2.3.3. User Journey Mapping. 
+
+![imagen](https://github.com/MindCare-Panqueque/Informe/assets/130580982/d7fa1997-2ef3-4983-88ce-5a028017589c)
+
+![imagen](https://github.com/MindCare-Panqueque/Informe/assets/130580982/b4b489d4-b819-41f9-83a0-f02ef8256b4d)
+
+### 2.3.4. Empathy Mapping.
+
+![imagen](https://github.com/MindCare-Panqueque/Informe/assets/130580982/381cbe1e-322f-488b-a8f6-55e5cd37d5e8)
+
+![imagen](https://github.com/MindCare-Panqueque/Informe/assets/130580982/f81a1518-a5da-4ee4-938f-1bf96c983ea5)
+
+### 2.3.5. As-is Scenario Mapping
+
+El As-Is Scenario Mapping nos permite comprender en detalle cómo se desarrollaron los procesos y actividades en el contexto de nuestra plataforma para psicólogos. Este análisis nos ofrece una visión clara de los pasos involucrados, los puntos de fricción y las áreas de mejora potencial en el flujo de trabajo existente.
+
+AS-IS SCENARIO MAP (PSICÓLOGOS)
+Este análisis nos servirá como punto de partida para desarrollar estrategias que optimicen la experiencia de los psicólogos y les permitan brindar un mejor servicio a los pacientes.
+
+![imagen](https://github.com/MindCare-Panqueque/Informe/assets/130580982/5751a140-412b-4f52-9664-08ce752564b3)
+
+AS-IS SCENARIO MAP (PACIENTES)
+Este análisis nos proporcionará una visión clara de los pasos que siguen los pacientes, desde el registro inicial hasta la programación de citas y la participación en sesiones terapéuticas. Identificaremos cualquier obstáculo, dificultad o aspecto no optimizado en este proceso, lo que nos ayudará a entender cómo podemos mejorar la experiencia del usuario y satisfacer mejor sus necesidades emocionales y mentales.
+
+![imagen](https://github.com/MindCare-Panqueque/Informe/assets/130580982/dd3bce88-0361-4b28-b612-a46242e3f6d0)
+
+## 2.4. Ubiquitous Language
+
+Nos adentraremos en la definición de nuestro Ubiquitous Language, identificando y explicando los términos clave que utilizaremos a lo largo de este proyecto. Este proceso nos permitirá establecer una base sólida para la comunicación y el desarrollo de nuestra plataforma, asegurando que todos estemos alineados y trabajando hacia un objetivo compartido.
+
+* Terapeuta: Un profesional de la salud mental que proporciona servicios de asesoramiento y terapia a los pacientes.
+
+* Paciente: Persona que busca apoyo y tratamiento para problemas de salud mental y emocional.
+
+* Plataforma: La aplicación o sistema en línea que conecta a psicólogos y pacientes para brindar servicios de salud mental.
+
+* Cita: Una sesión programada entre un terapeuta y un paciente para recibir tratamiento o asesoramiento.
+
+* Perfil de Terapeuta: La información detallada sobre un terapeuta, que incluye su experiencia, especialización, horarios disponibles, etc.
+
+* Bienestar emocional: El estado de equilibrio y salud mental en el que una persona se siente cómoda consigo misma y su entorno.
+
+* Accesibilidad: La facilidad con la que los pacientes pueden acceder a servicios de salud mental a través de la plataforma.
+
+* Confidencialidad: La protección de la privacidad y la información personal de los pacientes durante las interacciones con la plataforma y los terapeutas.
+
+* Feedback: La retroalimentación proporcionada por los pacientes sobre su experiencia con la plataforma y los terapeutas.
+
+* Suscripción: Un plan de pago recurrente que permite a los terapeutas acceder a las herramientas y servicios de la plataforma.
+
+# Capítulo III: Requirements Specification
+
+## 3.1. To-Be Scenario Mapping
+
+Al adentrarnos en el TO-BE Scenario Mapping, exploramos nuevas estrategias, herramientas y mejoras en el diseño de la plataforma que nos permitirán superar los desafíos actuales y alcanzar un nivel superior de funcionalidad y comodidad.
+
+TO-BE SCENARIO MAP (PSICÓLOGOS)
+Desde la gestión de horarios hasta la interacción con los pacientes y la colaboración con otros profesionales de la salud mental, este escenario nos permite visualizar cómo se desarrolla el flujo de trabajo para los psicólogos, aprovechando nuevas estrategias y herramientas para superar los desafíos actuales.
+
+![imagen](https://github.com/MindCare-Panqueque/Informe/assets/130580982/9c20df85-89aa-4a96-94ab-30ce953b67e3)
+
+TO-BE SCENARIO MAP (PACIENTES)
+Aquí, delineamos las mejoras y optimizaciones que hemos implementado para garantizar una experiencia más cómoda, accesible y satisfactoria para los pacientes. Desde el registro inicial hasta la programación de citas y la participación en sesiones terapéuticas, este escenario nos permite visualizar cómo es el proceso de búsqueda de ayuda emocional y mental para los pacientes, aprovechando nuevas funcionalidades y herramientas diseñadas para mejorar su bienestar y satisfacción general.
+
+
+![imagen](https://github.com/MindCare-Panqueque/Informe/assets/130580982/86a23f03-1fc9-48a6-aff1-42adfc680318)
+
+## 3.2. User Stories
+
+| Historia de Usuario     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                         |                 |                    |                  |
+|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|-----------------|--------------------|------------------|
+| Número                  | US001                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Usuario                 | Psicólogo       | Nombre HU          | Gestión de Citas |
+| Prioridad               | Alta                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Riesgo                  | Medio           | Iteración          | Sprint 1         |
+| Estimación              | 5 horas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Programador responsable | Barbara Quezada | Actividades claves |                  |
+| Descripción             | Como psicólogo, quiero gestionar mis citas (agendar, reagendar, cancelar) a través de la plataforma, para tener un control eficiente de mi tiempo y compromisos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                         |                 |                    |                  |
+| Criterios de aceptacion | Escenario 01: Accede a la plataforma Dado que el psicólogo está registrado en la plataforma Cuando el psicólogo accede a su cuenta con sus credenciales Entonces el sistema lo dirige a su panel de control personalizado Escenario 02: Visualiza las etiquetas del estado de las citas Dado que el psicólogo ingresa a su panel de control de la plataforma Cuando el psicólogo hace clic en el botón “Gestión de mis citas” Y el psicólogo selecciona “Ver mis citas” Entonces el sistema muestra el estado actual de cada cita que posee el psicólogo (“Programada", "Confirmada", "Cancelada") Escenario 03: Agenda una nueva cita Dado que el psicólogo hace clic en el botón “Gestión de mis citas” Cuando el psicólogo selecciona la opción para agendar una nueva cita Entonces el sistema abre un formulario donde el psicólogo puede ingresar la fecha, hora y detalles del paciente para programar la cita correctamente Escenario 04: Reagenda una cita existente Dado que el psicólogo hace clic en el botón “Gestión de mis citas” Cuando el psicólogo selecciona una cita existente en su calendario Y elige la opción para reagendarla Entonces el sistema abre un formulario donde el psicólogo puede modificar la fecha y hora de la cita y confirmar los cambios Y el sistema le envía una notificación automática al paciente informando los cambios Escenario 05: Cancela una cita Dado que el psicólogo hace clic en el botón “Gestión de mis citas” Cuando el psicólogo selecciona una cita existente en su calendario Y  el psicólogo elige la opción para cancelarla Entonces el sistema muestra un mensaje de confirmación y, al confirmar la cancelación, la cita se elimina del calendario y se registra la cancelación Y el sistema le envía una notificación automática al paciente informando los cambios |                         |                 |                    |                  |
+
+## 3.3. Impact Mapping
+
+![imagen](https://github.com/MindCare-Panqueque/Informe/assets/130580982/1babd5ba-50ab-484a-bb1d-21c4f20ac5ba)
+
+## 3.4. Product Backlog
+
+Product Backlog de los psicólogos
+
+| #Order | User Story ID | Título                                          | Descripción                                                                                                                                                                                    | Story point |
+|--------|---------------|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| 1      | US001         | Gestión de Citas                                | Como psicólogo, quiero gestionar mis citas (agendar, reagendar, cancelar) a través de la plataforma, para tener un control eficiente de mi tiempo y compromisos.                               | 8           |
+| 2      | US002         | Perfil del Psicólogo                            | Como psicólogo, quiero crear y editar mi perfil profesional, incluyendo mi experiencia, especialidades y disponibilidad, para que los pacientes puedan conocerme mejor y elegir mis servicios. | 5           |
+| 3      | US003         | Historial de Pacientes                          | Como psicólogo, quiero acceder al historial clínico de mis pacientes, para tener un seguimiento detallado de su evolución y tratamientos previos.                                              | 10          |
+| 4      | US004         | Comunicación Segura                             | Como psicólogo, quiero comunicarme con mis pacientes a través de un sistema de mensajería seguro dentro de la plataforma, para garantizar la confidencialidad de la información.               | 8           |
+| 5      | US005         | Alertas y Recordatorios                         | Como psicólogo, quiero recibir alertas y recordatorios de mis próximas citas, para asegurarme de no olvidar ningún compromiso.                                                                 | 3           |
+| 6      | US006         | Registro y Autenticación                        | Como psicólogo, quiero registrarme y autenticarme en la plataforma de manera segura, para poder acceder a mis herramientas de trabajo y gestionar mis citas.                                   | 8           |
+| 7      | US007         | Feedback de Pacientes                           | Como psicólogo, quiero recibir valoraciones y comentarios de mis pacientes, para mejorar continuamente la calidad de mi atención.                                                              | 3           |
+| 8      | US008         | Integración con Plataformas de Videoconferencia | Como psicólogo, quiero que la plataforma se integre con herramientas de videoconferencia, para poder realizar sesiones virtuales con mis pacientes.                                            | 8           |
+
+Product Backlog de los pacientes:
+
+| #Order | User Story ID | Título                      | Descripción                                                                                                                             | Story point |
+|--------|---------------|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| 1      | US009         | Registro de Paciente        | Como paciente, quiero registrarme fácilmente en la plataforma para poder programar citas con psicólogos.                                | 3           |
+| 2      | US010         | Búsqueda de Psicólogos      | como paciente, quiero buscar psicólogos por especialidad, ubicación y valoraciones para encontrar el más adecuado para mis necesidades. | 5           |
+| 3      | US011         | Programar Citas             | Como paciente, quiero programar citas con psicólogos de manera sencilla y recibir confirmaciones y recordatorios de estas.              | 8           |
+| 4      | US012         | Historial de Citas          | Como paciente, quiero ver mi historial de citas pasadas y futuras para llevar un control de mis sesiones.                               | 5           |
+| 5      | US013         | Comunicación con Psicólogos | Como paciente, quiero comunicarme con mi psicólogo a través de la plataforma para discutir detalles previos a la cita.                  | 8           |
+| 6      | US014         | Valoraciones y Reseñas      | Como paciente, quiero dejar valoraciones y reseñas sobre los psicólogos con los que me he consultado para ayudar a otros pacientes.     | 3           |
+| 7      | US015         | Soporte Técnico             | Como paciente, quiero acceder a soporte técnico fácilmente para resolver cualquier problema que pueda tener con la plataforma.          | 3           |
+| 8      | US016         | Privacidad de Datos         | Como paciente, quiero que mi información personal y datos de salud estén protegidos y manejados con confidencialidad.                   | 10          |
+
+| #Order | User Story ID | Título                             | Descripción                                                                                           | Story point |
+|--------|---------------|------------------------------------|-------------------------------------------------------------------------------------------------------|-------------|
+| 1      | US017         | Creación de hipervínculos (Header) | Como visitante de la landing page quiero poder interactuar con la landing page.                       | 3           |
+| 2      | US018         | Sección Servicios                  | Como visitante de la landing page quiero poder contactarme con MindCare                               | 3           |
+| 3      | US019         | Seccion Contáctanos                | Como visitante de la landing page quiero tener conocimiento de lo que el servicio incluirá.           | 3           |
+| 4      | US020         | Seccion Planes                     | Como visitante de la landing page quiero poder conocer a que planes me puedo afiliar.                 | 3           |
+| 5      | US021         | Iniciar Sesión                     | Como visitante de la landing page quiero poder ser dirigido facilmente al apartado de iniciar sesión. | 3           |
+
 # Capítulo IV: Product Design. 
 
 ## 4.1. Style Guidelines.
@@ -733,7 +968,7 @@ de forma clara y fácil de entender para nuestros visitantes y usuarios.
 >
 > **Landing Page para Desktop Web Browser**
 >
-> ![image](https://private-user-images.githubusercontent.com/130580982/324223357-c16d616d-bcd0-4c62-b24a-d196734eb745.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM2NzYzNDEsIm5iZiI6MTcxMzY3NjA0MSwicGF0aCI6Ii8xMzA1ODA5ODIvMzI0MjIzMzU3LWMxNmQ2MTZkLWJjZDAtNGM2Mi1iMjRhLWQxOTY3MzRlYjc0NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyMVQwNTA3MjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01Y2QxZDU5ZWMxMjNmYjEwYjEwYWJkMzE0MzNhYmQ5NGY0ZmE1ODcyMzRlNjRiZjlhODZlMjI2NzdjYWMxMWFkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.GrBfc_Sy9Cs-0RiEjjEvv2ocqwYOTLUhXyk9BtTzZM8)
+> ![image](https://private-user-images.githubusercontent.com/130580982/324223350-3f38e9e8-3fb5-426c-a692-de22a9290c08.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM2Nzg3NDAsIm5iZiI6MTcxMzY3ODQ0MCwicGF0aCI6Ii8xMzA1ODA5ODIvMzI0MjIzMzUwLTNmMzhlOWU4LTNmYjUtNDI2Yy1hNjkyLWRlMjJhOTI5MGMwOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyMVQwNTQ3MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZmZlYmI0MzU3ODIyMzZmMjE0ZmVhZGMxOWM2NzI5ZjE2N2VhNzM1MjllNjUzOWMwZTZmMzRmZDczZjMyZjk5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Ag5YRN-fGu9HAVF2cQlY67rGaJVb1olo4anSoUFV-fA)
 >
 > **Landing Page para Mobile Web Browser**
 >
