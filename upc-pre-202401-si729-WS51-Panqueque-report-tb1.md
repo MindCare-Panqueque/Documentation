@@ -48,9 +48,6 @@ Relación de integrantes:
 | TB1     |  09/04/2024   | Sebastian Cachis |Elaboración de prototipos de wireframes y mockups  |
 
 
-</div>
-
-
 ### Studen Outcome
 | Criterio específico                                                                                                                                                                    | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Conclusiones |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
@@ -672,6 +669,8 @@ Product Backlog de los pacientes:
 | 3      | US019         | Seccion Contáctanos                | Como visitante de la landing page quiero tener conocimiento de lo que el servicio incluirá.           | 3           |
 | 4      | US020         | Seccion Planes                     | Como visitante de la landing page quiero poder conocer a que planes me puedo afiliar.                 | 3           |
 | 5      | US021         | Iniciar Sesión                     | Como visitante de la landing page quiero poder ser dirigido facilmente al apartado de iniciar sesión. | 3           |
+
+</div>
 
 # Capítulo IV: Product Design. 
 
@@ -1485,6 +1484,3 @@ Lucidchart</u>](https://lucid.app/lucidchart/7bdb2af3-d389-4575-988b-564a9c687ec
 ### 4.8.1. Database Diagram.
 
 ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/522d86f6-181c-4906-acdd-0c74f9e27891)
-
-
-
