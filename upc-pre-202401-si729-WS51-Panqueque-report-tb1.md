@@ -670,8 +670,6 @@ Product Backlog de los pacientes:
 | 4      | US020         | Seccion Planes                     | Como visitante de la landing page quiero poder conocer a que planes me puedo afiliar.                 | 3           |
 | 5      | US021         | Iniciar Sesión                     | Como visitante de la landing page quiero poder ser dirigido facilmente al apartado de iniciar sesión. | 3           |
 
-</div>
-
 # Capítulo IV: Product Design. 
 
 ## 4.1. Style Guidelines.
@@ -1742,3 +1740,5 @@ Tabla para poder identificarnos:
 | Elias Yauri Paucar                 | EliasYP     |
 
 ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/8324ae1c-c2a1-487b-9d65-0fd5870b6d79)
+
+</div>
