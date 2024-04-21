@@ -407,7 +407,37 @@ equipo. Me comprometo a dar mi mayor esfuerzo en realizar todos los
 puntos y actividades con respecto a este proyecto.
 
 ![image](https://private-user-images.githubusercontent.com/130580982/324223295-1c7648e1-3c80-477f-83e8-ca3e561beaf4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM2NzQ4ODYsIm5iZiI6MTcxMzY3NDU4NiwicGF0aCI6Ii8xMzA1ODA5ODIvMzI0MjIzMjk1LTFjNzY0OGUxLTNjODAtNDc3Zi04M2U4LWNhM2U1NjFiZWFmNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyMVQwNDQzMDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00Y2ZjYTEyMjdiMzNmZWMyY2ZhYmZlZWQzM2ZmYTRkMDUxNjA2YjdmMmU2ZWNlZWFlZjMyM2ZiYTUyZDc0Y2Q0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.G4NBndDwJBAZU5mHTFS6wtiOqEnDF5iR7uJidQMwV4Q)
+1.2.2.3. Lean UX Hypothesis Statements.
+* **Creemos** que al proporcionar información detallada y veraz sobre los perfiles y especialidades de los psicólogos en nuestra plataforma, lograremos una experiencia de usuario informada y satisfactoria, **sabremos** que hemos tenido éxito **cuando** recibamos retroalimentación positiva y valoraciones altas tanto de usuarios como psicólogos sobre la claridad y utilidad de la información proporcionada.
 
+* **Creemos** que al facilitar el acceso a servicios de salud mental a través de nuestra plataforma contribuiremos a reducir las barreras y problemas relacionados con la búsqueda de atención psicológica, **sabremos** que hemos tenido éxito **cuando** observemos una disminución significativa en las quejas o dificultades reportadas por los usuarios y autoridades relacionadas con la atención psicológica en la comunidad.
+
+* **Creemos** que al implementar un sistema de retroalimentación continua y mejoras basadas en la retroalimentación de usuarios y psicólogos, mejoramos constantemente la experiencia en la plataforma, **sabremos** que hemos tenido éxito **cuando** la tasa de retención de usuarios sea superior al 60% y la calificación promedio de la plataforma sea de al menos 4.5 estrellas en las evaluaciones de los usuarios.
+
+* **Creemos** que al garantizar la privacidad y la seguridad de los datos de los usuarios y psicólogos en nuestra plataforma, ganaremos confianza y credibilidad en nuestro servicio, **sabremos** que hemos tenido éxito **cuando** no se reporten incidentes de seguridad relacionados con la privacidad de los datos de los usuarios y psicólogos.
+
+2.3.2. User Task Matrix.
+
+| Task                            | Andrea (psicóloga) | Marcos (paciente) |
+|--------------------------------|---------------------|-------------------|
+| **Frecuencia**                 | **Importancia**     | **Frecuencia**   | **Importancia** |
+| Buscar psicólogos cercanos    | Media               | Media             | Alta            | Alta            |
+| Leer opiniones y reseñas de otros usuarios | Alta        | Alta              | Alta            | Media           |
+| Conocer especialidades y enfoques | Alta            | Alta              | Media           | Media           |
+| Ver disponibilidad y horarios | Alta                | Alta              | Alta            | Alta            |
+| Leer artículos y recursos      | Alta                | Alta              | Alta            | Alta            |
+| Enviar consultas o solicitar citas | Alta            | Media             | Alta            | Media           |
+| Acceder a información de contacto | Media            | Alta              | Alta            | Media           |
+| Acceder a recursos sobre salud mental | Media        | Alta              | Media           | Alta            |
+| Ver perfiles profesionales      | Alta                | Media             | Alta            | Alta            |
+
+  2.3.3. User Journey Mapping. 
+  ![imagen 1](https://private-user-images.githubusercontent.com/130580982/324223303-d7fa1997-2ef3-4983-88ce-5a028017589c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM2ODAzMzAsIm5iZiI6MTcxMzY4MDAzMCwicGF0aCI6Ii8xMzA1ODA5ODIvMzI0MjIzMzAzLWQ3ZmExOTk3LTJlZjMtNDk4My04OGNlLTVhMDI4MDE3NTg5Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyMVQwNjEzNTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZmM3NjhkYTRmYzlmZWM5MGE1Njg0OTdhYTFhMzU1NjcxYzZlYmM3YTI2MjM2OTA3MzY1YzZiMTZjMTNhY2M1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Fyv-vU7mwmcoQhCPlnVOtkTYr3hWG-StdmwfHLax0zI)
+ ![imagen 2](https://private-user-images.githubusercontent.com/130580982/324223304-b4b489d4-b819-41f9-83a0-f02ef8256b4d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM2ODAzMzAsIm5iZiI6MTcxMzY4MDAzMCwicGF0aCI6Ii8xMzA1ODA5ODIvMzI0MjIzMzA0LWI0YjQ4OWQ0LWI4MTktNDFmOS04M2EwLWYwMmVmODI1NmI0ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyMVQwNjEzNTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NWQ0NGJhYzM5NzI5MjIzYzExYTNjMGE4YmE5YWI5NWIwNDU4ZDM1OWY3MjRjODNhNWI5NTAzZWYwYTQyNzkzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.IbVEiHIrTezD1FHRkWC_qqM-GClxbZYiUvJV_iYQ5mQ)
+  2.3.4. Empathy Mapping.
+  ![imagen 1](https://private-user-images.githubusercontent.com/130580982/324223305-381cbe1e-322f-488b-a8f6-55e5cd37d5e8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM2ODAzMzAsIm5iZiI6MTcxMzY4MDAzMCwicGF0aCI6Ii8xMzA1ODA5ODIvMzI0MjIzMzA1LTM4MWNiZTFlLTMyMmYtNDg4Yi1hOGY2LTU1ZTVjZDM3ZDVlOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyMVQwNjEzNTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZTE3MGMxYWE0NjMxNDRmMWEzYzQ3MTkyZDYyMDA3OGU4YzIyNTNjYmVmNjk3ZmRjZjZjYjJmZDE2ZTg3NTNjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.YrrebF9xcWXm3o4VYKQMVLOoayjmoXEw8fIGWRq2fdo)
+   ![imagen 2](https://private-user-images.githubusercontent.com/130580982/324223306-f81a1518-a5da-4ee4-938f-1bf96c983ea5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM2ODAzMzAsIm5iZiI6MTcxMzY4MDAzMCwicGF0aCI6Ii8xMzA1ODA5ODIvMzI0MjIzMzA2LWY4MWExNTE4LWE1ZGEtNGVlNC05MzhmLTFiZjk2Yzk4M2VhNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyMVQwNjEzNTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00MTRiYzMwYjFkMTA5NzhjNzg0OWVjZjMyOTIwNjY0YTNlYjM1ZDc0MTk2OWFkNjg0OWFmMzZlMWNlZDU5YmM0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.IlHW6VwVdJPMgsGF5Dxk4b6pQ0PrxJIQ87d57vq24K4)
+  
 # Capítulo IV: Product Design. 
 
 ## 4.1. Style Guidelines.
@@ -547,6 +577,27 @@ de forma clara y fácil de entender para nuestros visitantes y usuarios.
     imagen que se mostrará cuando se comparta tu página en redes
     sociales.* **\<meta property="og:image" content="URL de la
     imagen"\>**
+ ##4.2.3. SEO Tags and Meta Tags
+
+- **Título de la Página (Title Tag):** `<title> MINDCARE (Encuentra Psicólogos: Terapia y Asesoramiento Profesional) </title>`
+
+- **Meta Descripción (Meta Description):** `<meta name="description" content="Encuentra psicólogos cerca o lejos de ti para terapia y asesoramiento profesional. Busca por especialización, ubicación y más. ¡Mejora tu bienestar hoy mismo!">`
+
+- **Meta Palabras Clave (Meta Keywords):** Nota: Aunque los motores de búsqueda como Google no suelen considerar las meta palabras clave para clasificar el contenido, aún se puede incluir si se desea. `<meta name="keywords" content="psicólogo, terapia, asesoramiento, salud mental, bienestar, encuentro, ayuda, consejo, consulta">`
+
+- **Meta Etiqueta de Autor (Author Meta Tag):** `<meta name="author" content=" MINDCARE ">`
+
+- **Meta Etiqueta de Robots (Robots Meta Tag):** Nota: Esto ayuda a controlar cómo los motores de búsqueda rastrean e indexan tu sitio. `<meta name="robots" content="index, follow">`
+
+- **Etiqueta Canonical (Canonical Tag):** Si tu sitio tiene contenido duplicado o similar en varias páginas, la etiqueta canonical ayuda a los motores de búsqueda a determinar la página preferida para indexar. `<link rel="canonical" href="URL de la página principal">`
+
+- **Etiqueta hreflang (Hreflang Tag):** Si el sitio está disponible en varios idiomas, estas etiquetas indican a los motores de búsqueda qué versión del contenido mostrar según el idioma del usuario en este caso solo nos especializamos en el idioma español. `<link rel="alternate" hreflang="es" href="URL de la versión en español">`
+
+- **Etiqueta de Título Social (Social Title Tag):** Especificar el título que se mostrará cuando se comparta tu página en redes sociales. `<meta property="og:title" content=" MINDCARE (Encuentra Psicólogos: Terapia y Asesoramiento Profesional)">`
+
+- **Etiqueta de Descripción Social (Social Description Tag):** Especifica la descripción que se mostrará cuando se comparta tu página en redes sociales. `<meta property="og:description" content=" Encuentra psicólogos cerca o lejos de ti para terapia y asesoramiento profesional. Busca por especialización, ubicación y más. ¡Mejora tu bienestar hoy mismo!">`
+
+- **Etiqueta de Imagen Social (Social Image Tag):** Especificar la imagen que se mostrará cuando se comparta tu página en redes sociales. `<meta property="og:image" content="URL de la imagen">`
 
 ### 4.2.4. Searching Systems. 
 
@@ -1204,3 +1255,23 @@ Lucidchart</u>](https://lucid.app/lucidchart/7bdb2af3-d389-4575-988b-564a9c687ec
 ### 4.8.1. Database Diagram.
 
 ![image](https://private-user-images.githubusercontent.com/130580982/324223316-522d86f6-181c-4906-acdd-0c74f9e27891.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM2NzgyMjAsIm5iZiI6MTcxMzY3NzkyMCwicGF0aCI6Ii8xMzA1ODA5ODIvMzI0MjIzMzE2LTUyMmQ4NmY2LTE4MWMtNDkwNi1hY2RkLTBjNzRmOWUyNzg5MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyMVQwNTM4NDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMDk3YmMzMzM5ZTExYmExZWEyZTZkMjVlYzlkZjUzZDgwZjZmNjg3OTY5ZmRjMDdlMTFhYTZiZDZkZDg5MTgwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.-xQQlDYAbrzwEFLu4MxEexIItx0DaSwH31hdKq5n5Y8)
+
+5.1.2. Gestión del Código Fuente.
+
+- **Selección de una Herramienta SCM:** Git, ya que es una de las opciones más populares y ampliamente utilizadas en la industria.
+
+- **Repositorio Remoto:** Configurar un repositorio remoto en servicios como GitHub, GitLab o Bitbucket, que permita almacenar el código fuente y colaborar con los compañeros del grupo.
+
+- **Estructura del Repositorio:** Organizar el repositorio en ramas para diferentes entornos como desarrollo, pruebas y producción.
+
+- **Flujo de Trabajo:** Definir un flujo de trabajo de ramificación, como Gitflow, que es un modelo sólido para manejar proyectos grandes.
+
+- **Integración Continua/Despliegue Continuo (CI/CD):** Implementar CI/CD para automatizar las pruebas y el despliegue de tu aplicación. Herramientas como Jenkins, Travis CI o GitHub Actions pueden ser útiles.
+
+- **Documentación:** La documentación se realizará en un archivo README.md dentro del repositorio.
+
+- **Seguridad:** Implementar prácticas de seguridad como revisión de código, escaneo de vulnerabilidades y gestión de secretos para proteger tu código.
+
+- **Backup y Recuperación:** Configurar backups automáticos de tu repositorio para proteger contra pérdidas de datos.
+
+- **Monitoreo:** Utilizar herramientas de monitoreo para rastrear cambios y alertar sobre problemas en tiempo real.
