@@ -1484,3 +1484,261 @@ Lucidchart</u>](https://lucid.app/lucidchart/7bdb2af3-d389-4575-988b-564a9c687ec
 ### 4.8.1. Database Diagram.
 
 ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/522d86f6-181c-4906-acdd-0c74f9e27891)
+
+# Capítulo V: Product Implementation, Validation & Deployment
+
+## 5.1. Software Configuration Management
+
+### 5.1.1. Software Development Environment Configuration
+
+Definir los requisitos: Antes de comenzar, es importante definir claramente los requisitos de la página web. Esto incluye las funcionalidades que se desea ofrecer.
+
+Elegir la Tecnología: Basado en los requisitos, selecciona el stack tecnológico adecuado. Para una página web, podrías considerar:
+
+* Frontend: Angular o Vue.js para una interfaz de usuario dinámica.
+
+* Backend: Node.js para manejar la lógica del servidor y las interacciones con la base de datos.
+
+* Base de Datos: MongoDB o MySQL para almacenar datos de psicólogos y usuarios.
+
+Configuración del Entorno de Desarrollo:
+
+* Editor de Código: Intel J Idea.
+
+* Control de versiones: Git, con repositorios en GitHub o GitLab.
+
+* Pruebas: Jest para JavaScript para pruebas unitarias.
+
+* Desarrollo Local: Vue.js para contenerizar y manejar dependencias.
+
+Diseño y Desarrollo:
+
+* UI/UX: Diseñar una interfaz amigable y accesible.
+
+* APIs: Desarrollar APIs RESTful o GraphQL para la comunicación entre el frontend y el backend.
+
+* Seguridad: Implementa autenticación y autorización
+
+Pruebas y QA: Realiza pruebas manuales y automatizadas para asegurar la calidad del software.
+
+Despliegue:
+
+* Servidores: Azure.
+
+* CI/CD: Configura pipelines de integración y despliegue continuo con Jenkins o GitHub Actions.
+
+Mantenimiento y Escalabilidad: Monitorear el rendimiento y planificar la escalabilidad para manejar el crecimiento de usuarios.
+
+### 5.1.2. Source Code Management
+
+Selección de una Herramienta SCM: Git ya que es una de las opciones más populares y es ampliamente utilizada en la industria.
+
+Repositorio Remoto: Configurar un repositorio remoto en servicios como GitHub, GitLab o Bitbucket, que permite almacenar el código fuente y colaborar con los compañeros del grupo.
+
+Estructura del Repositorio: Organizar el repositorio en ramas para diferentes entornos como desarrollo, pruebas y producción.
+
+Flujo de Trabajo: Definir un flujo de trabajo de ramificación, como vertevelo, que es un modelo sólido para manejar proyectos grandes.
+
+Integración Continua/Despliegue Continuo (CI/CD): Implementar CI/CD para automatizar las pruebas y el despliegue de tu aplicación. Herramientas como Jenkins, Travis CI o GitHub Actions pueden ser útiles.
+
+Documentación: La documentación será en README.md dentro del repositorio.
+
+Seguridad: Implementar prácticas de seguridad como revisión de código, escaneo de vulnerabilidades y gestión de secretos para proteger tu código.
+
+Backup y Recuperación: Configurar backups automáticos de tu repositorio para proteger contra pérdidas de datos.
+
+Monitoreo: Utilizar herramientas de monitoreo para rastrear cambios y alertar sobre problemas en tiempo real.
+
+### 5.1.3. Source Code Style Guide & Conventions
+
+1. HTML:
+
+* Utilizar nombres de clases y IDs descriptivos y significativos.
+
+* Indentar correctamente el código HTML para mejorar la legibilidad.
+
+* Utilizar etiquetas semánticas apropiadas por ejemplo, header, nav, main, footer para mejorar la accesibilidad y el SEO.
+
+* Utiliza comentarios para explicar secciones complejas o partes importantes del código HTML.
+
+2.	CSS:
+
+* Utilizar nombres de clases y selectores descriptivos y coherentes.
+
+* Agrupar propiedades relacionadas juntas y separar secciones de CSS con comentarios.
+
+* Preferir el uso de clases sobre IDs para estilos reutilizables.
+
+* Utiliza prefijos de vendedor y compatibilidad con navegadores cuando sea necesario.
+
+* Usar medidas relativas (como em, rem, %) siempre que sea posible para mejorar la flexibilidad y la accesibilidad.
+
+3.	JavaScript:
+
+* Utilizar nombres de variables y funciones descriptivas y significativos.
+
+* Utilizar comentarios para explicar la lógica compleja o el propósito de las funciones.
+
+* Utilizar espacios en blanco y sangrías para mejorar la legibilidad del código.
+
+* Evitar la creación de funciones globales y utilizar módulos o patrones de diseño para modularizar el código cuando sea posible.
+
+* Utiliza camelCase para nombrar variables y funciones.
+
+4.	Comentarios:
+
+* Utilizar comentarios para explicar el propósito de bloques de código, funciones o partes complejas del código.
+
+* Mantener los comentarios actualizados a medida que el código evoluciona.
+
+* Evitar comentarios obvios o redundantes que no añaden información útil.
+
+### 5.1.4. Software Deployment Configuration
+
+
+1. Preparación del Código: Asegurar de que el código esté listo para la producción, lo que incluye la minificación de archivos CSS y JavaScript, la optimización de imágenes y la eliminación de código de depuración o comentarios innecesarios.
+
+2. Control de versiones: Utilizar una herramienta de control de versiones como Git para mantener un historial de cambios y facilitar el despliegue de diferentes versiones.
+
+3. Pruebas Automatizadas: Implementa pruebas automatizadas para asegurar de que no haya errores en la aplicación antes de desplegarla.
+
+4. Entorno de Staging: Configurar un entorno de staging que imite el entorno de producción para realizar pruebas finales antes del despliegue.
+
+5. Servidor de Producción: Elegir un proveedor de hosting confiable y configurar el servidor de producción con las especificaciones necesarias para la aplicación.
+
+6. Base de Datos: Configurar la base de datos en el servidor de producción y asegúrese de que las credenciales y conexiones son seguras.
+
+7. CI/CD: Establecer un pipeline de integración y despliegue continuo para automatizar el proceso de despliegue utilizando herramientas como Jenkins, Travis CI o GitHub Actions.
+
+8. Monitoreo y Registro: Implementar soluciones de monitoreo y registro para rastrear el rendimiento de la aplicación y detectar problemas rápidamente.
+
+9. Backup y Recuperación: Configurar procedimientos de backup y recuperación para proteger los datos de los usuarios y la continuidad del negocio.
+
+10. Documentación: Documentar todo el proceso de despliegue y mantenimiento para que cualquier miembro del equipo pueda entenderlo y gestionarlo.
+
+
+## 5.2. Landing Page, Services & Applications Implementation
+
+### 5.2.1. Sprint 1
+
+#### 5.2.1.1. Sprint Planning 1
+
+| Sprint #                        | Sprint 1                                                                                                                                                 |
+|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background      |                                                                                                                                                          |
+| Date                            | 12/04/2024                                                                                                                                               |
+| Time                            | 9:00 AM                                                                                                                                                  |
+| Location                        | Reunión virtual en Discord                                                                                                                               |
+| Prepared by                     | Jimena Cama Salvatierra                                                                                                                                  |
+| Attendees (to planning meeting) | Barbara Susana Quezada Portalatino, Jimena Tamara Cama Salvatierra, Sebastian Nicolas Cachis Gonzales, Enzo Paolo Noblecilla Jimenez, Elias Yauri Paucar |
+| Sprint Goal & User stories      |                                                                                                                                                          |
+| Sprint 1 Goal                   | Elaborar y diseñar una landing page interactiva, llamativa, profesional e informativa para la aplicación web “Mind Care”                                 |
+| Sprint n Velocity               |                                                                                                                                                          |
+| Sum of story points             | 9                                                                                                                                                        |
+
+#### 5.2.1.2. Sprint Backlog 1
+
+Para el primer sprint backlog, reunimos las historias de usuario relacionadas con la landing page. La herramienta que utilizamos fue Trello. Gracias a esta, pudimos dividir las historias de usuario en tareas fáciles de realizar y repartirlas entre los miembros del grupo. Completamos la mayoría de los user stories, ya que el objetivo principal de este primer sprint era completar la landing page en su totalidad, con un diseño atractivo e intuitivo para el usuario. Sin embargo, aún no se implementa al 100% el funcionamiento de creación de cuenta e inicio de sesión.
+
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/1046b109-a2b3-4573-b0b2-e353ff5f1072)
+
+| Sprint #   | Sprint 1                           |       |                                          |                                                                                                  |                    |                 |                                               |
+|------------|------------------------------------|-------|------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------|-----------------|-----------------------------------------------|
+| User Story | Work-Item / Task                   |       |                                          |                                                                                                  |                    |                 |                                               |
+| ID         | Title                              | ID    | Title                                    | Description                                                                                      | Estimation (Hours) | Assigned To     | Status (To-do / InProcess / To-Review / Done) |
+| US001      | Creación de hipervínculos (Header) | TA001 | Funcionamiento correcto de hipervínculos | Cada hipervinculo redirige correctamente a la seción indicada                                    | ½ hora             | Jimena Cama     | Done                                          |
+|            |                                    | TA002 | Función sticky                           | El header se puede visualizar en toda la landing page sin ningún problema                        | ½ hora             | Jimena Cama     | Done                                          |
+| US002      | Sección funcionamiento             | TA001 | División de espacios                     | Los espacios se dividen correctamente para cada elemento                                         | ½ hora             | Elias Yauri     | Done                                          |
+|            |                                    | TA002 | Implementación del diseño                | Se agrega color, imagenes e información a las secciones                                          | ½ hora             | Elias Yauri     | Done                                          |
+| U003       | Sección contáctanos                | TA001 | Forms para enviar mensajes               | Se realiza un forms para enviar mensajes por si el usuario tiene alguna duda                     | 1 hora             | Jimena Cama     | Done                                          |
+| US004      | Sección planes                     | TA001 | Implementar información sobre los planes | Se realiza un grid para implementar los planes en orden, atractivos y llamativos para el usuario | 1 hora             | Barbara Quezada | Done                                          |
+| US005      | Creación de la cuenta              | TA001 | Ingreso de datos                         | Se realiza un forms en donde el usuario ingresa los datos                                        | ½ hora             | Elias Yauri     | Done                                          |
+| US006      | Iniciar Sesión                     | TA001 | Ingreso de datos                         | Se realiza un forms en donde el usuario ingresa los datos                                        | ½ hora             | Elias Yauri     | Done                                          |
+
+#### 5.2.1.3. Development Evidence for Sprint Review
+
+|                           Repository                           |     Branch     | Commint Id |                   Commint Message                   |                 Commint Message Body                | Commited on (Date) |
+|:--------------------------------------------------------------:|:--------------:|:----------:|:---------------------------------------------------:|:---------------------------------------------------:|:------------------:|
+| https://github.com/MindCare-Panqueque/MindCare-LandingPage.git |      Login     |   1be2512  |    feat: Initial setup of landing page structure    |    feat: Initial setup of landing page structure    |      7/04/2024     |
+|                                                                | Initial commit |   97f6c4a  |                    Initial commit                   |                    Initial commit                   |     11/04/2024     |
+|                                                                |     97f6c4a    |   4362662  |                     first commit                    |                     first commit                    |     11/04/2024     |
+|                                                                |     afb7c12    |   c0000ef  |          feat: add home, header, contact us         |          feat: add home, header, contact us         |     11/04/2024     |
+|                                                                |     c0000ef    |   d60b64f  | feat: added the footer and the transition animation | feat: added the footer and the transition animation |     11/04/2024     |
+|                                                                |     d60b64f    |   2ed9f90  |             feat: added planes and style            |             feat: added planes and style            |     11/04/2024     |
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+Durante el primer sprint de nuestro proyecto en MindCare, hemos logrado un avance parcial en la ejecución del despliegue de nuestra página inicial. Es importante destacar que esta página ofrece una variedad de secciones donde los usuarios pueden acceder a información relevante sobre nuestro producto y nuestra empresa. A través del trabajo en equipo, hemos llevado a cabo pruebas que respaldan este progreso y nos indican que estamos en la dirección correcta. Estamos comprometidos a continuar colaborando para alcanzar nuestros objetivos y llevar a MindCare al éxito.
+
+Sección de Iniciar Sesión: Dentro de la sección "Iniciar Sesión", ofrecemos a los usuarios la posibilidad de acceder a sus cuentas previamente creadas en la plataforma MindCare. En esta área, proporcionamos un formulario de inicio de sesión donde los usuarios tienen la oportunidad de ingresar su nombre de usuario o dirección de correo electrónico, junto con su contraseña correspondiente. Esto les permite acceder a sus perfiles de manera segura y conveniente.
+
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/cb25353e-a649-488c-8c13-338b9d5c2083)
+
+Sección de Crear cuenta: Se proporciona a los usuarios la posibilidad de registrarse en la plataforma MindCare para acceder a sus funcionalidades y contenido exclusivo. Esta sección incluye un formulario de registro en el que los usuarios pueden ingresar la información necesaria, como nombre, dirección de correo electrónico, contraseña, entre otros datos relevantes.
+
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/e7b6ea72-7489-40ca-9786-161910db9e3b)
+
+Sección de Inicio: En la sección "Inicio", damos la bienvenida a los usuarios a nuestra plataforma MindCare con una presentación atractiva y acogedora. Aquí capturamos la atención de los visitantes con una descripción concisa de lo que ofrecemos y cómo podemos ayudarles a mejorar su bienestar mental y emocional.
+
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/7b40fbce-61ff-4bb9-9387-54b6cfe8aab8)
+
+Sección de Servicios: En la sección de "Servicios", presentamos una amplia gama de opciones que ofrecemos en MindCare para satisfacer las necesidades de nuestros usuarios. Aquí, destacamos los diferentes servicios que proporcionamos, detallando cómo cada uno puede beneficiar a nuestros clientes.
+
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/15a794ae-ae94-4920-a765-e8cc59cf1b1b)
+
+Sección de Nosotros: En la sección "Nosotros", ofrecemos una visión profunda de quiénes somos en MindCare y cuál es nuestra misión. Aquí, compartimos la historia detrás de nuestra empresa, destacando nuestros valores fundamentales, nuestro equipo dedicado y nuestra pasión por mejorar la salud mental y emocional de las personas.
+
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/b7bf37cf-200f-44f4-b547-9f023a14c104)
+
+Sección de Planes:  En la sección de planes, el usuario puede visualizar e interactuar con los diferentes planes que cuenta nuestra plataforma.
+
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/d954a726-3fae-4147-9682-1c88840cfddc)
+
+Sección de Contacto: En la sección "Contáctanos", hemos integrado un formulario interactivo que permite a los usuarios enviar sus consultas, comentarios o sugerencias de manera eficiente. Este formulario ha sido diseñado para recolectar información básica del usuario, incluyendo su nombre, dirección de correo electrónico y el mensaje que desean transmitir.
+
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/750dba58-3942-40bd-a23f-6aca836c606d)
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Para esta entrega no fue contemplada la evidencia de documentación de los servicios
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Durante este sprint, se realizaron una serie de actividades relacionadas con la implementación de nuestro producto, incluida la creación de cuentas, la configuración de recursos del proveedor de servicios en la nube y la implementación de proyectos de desarrollo para integrar y automatizar el proceso de implementación. Como parte de estas actividades, creamos un repositorio en GitHub para administrar el código fuente de nuestros productos. Este repositorio nos proporciona un entorno colaborativo donde los miembros del equipo pueden trabajar juntos y realizar un seguimiento de las versiones del código.
+
+Además, desarrollamos una página de destino como parte de nuestra estrategia de implementación. La página de destino es una interfaz inicial que proporciona información relevante sobre nuestros productos y servicios. En su implementación, utilizamos tecnologías web modernas y seguimos prácticas de diseño centradas en el usuario para garantizar una experiencia atractiva y funcional para nuestros visitantes. La creación de una página de destino es un paso fundamental en nuestra estrategia de implementación porque es el punto de entrada para los usuarios interesados ​​en nuestros productos y servicios.
+
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/db9d34ff-b765-4bef-b017-e88d29d96711)
+
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/4898b6f8-d6bb-45b1-b6f4-287e66476a85)
+
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/7b40fbce-61ff-4bb9-9387-54b6cfe8aab8)
+
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/d954a726-3fae-4147-9682-1c88840cfddc)
+
+#### 5.2.1.8. Team Collaboration Insights during Spring
+
+| Alumno                             | Actividad                         |
+|------------------------------------|-----------------------------------|
+| Barbara Susana Quezada Portalatino | Implementacion del capitulo 4     |
+| Jimena Tamara Cama Salvatierra     | Implementacion del capitulo 3 y 5 |
+| Sebastian Nicolas Cachis Gonzales  | Implementacion del capitulo 1 y 5 |
+| Enzo Paolo Noblecilla Jimenez      | Implementacion del capitulo 2     |
+| Elias Yauri Paucar                 | Implementacion del capitulo 4     |
+
+Hemos desarrollado en conjunto un total de 13 commits para el desarrollo de nuestra landing page, tanto en creación de secciones, corrección de bugs, entre otras cosas.
+
+Tabla para poder identificarnos:
+
+
+| Alumno                             | Username (Github)                         |
+|------------------------------------|-----------------------------------|
+| Barbara Susana Quezada Portalatino | BarbaraQP15     |
+| Jimena Tamara Cama Salvatierra     | aksoonie |
+| Sebastian Nicolas Cachis Gonzales  | Sebastian Cachis |
+| Enzo Paolo Noblecilla Jimenez      | Enzo-codigo     |
+| Elias Yauri Paucar                 | EliasYP     |
+
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/8324ae1c-c2a1-487b-9d65-0fd5870b6d79)
