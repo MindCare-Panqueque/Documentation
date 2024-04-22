@@ -982,7 +982,7 @@ de forma clara y fácil de entender para nuestros visitantes y usuarios.
 >
 > **Landing Page para Desktop Web Browser**
 >
-> ![image](https://private-user-images.githubusercontent.com/130580982/324223357-c16d616d-bcd0-4c62-b24a-d196734eb745.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM2NzYzNDEsIm5iZiI6MTcxMzY3NjA0MSwicGF0aCI6Ii8xMzA1ODA5ODIvMzI0MjIzMzU3LWMxNmQ2MTZkLWJjZDAtNGM2Mi1iMjRhLWQxOTY3MzRlYjc0NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyMVQwNTA3MjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01Y2QxZDU5ZWMxMjNmYjEwYjEwYWJkMzE0MzNhYmQ5NGY0ZmE1ODcyMzRlNjRiZjlhODZlMjI2NzdjYWMxMWFkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.GrBfc_Sy9Cs-0RiEjjEvv2ocqwYOTLUhXyk9BtTzZM8)
+> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/c16d616d-bcd0-4c62-b24a-d196734eb745)
 >
 > **Landing Page para Mobile Web Browser**
 >
