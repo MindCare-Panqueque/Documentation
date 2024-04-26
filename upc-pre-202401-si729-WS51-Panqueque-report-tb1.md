@@ -653,6 +653,7 @@ Aquí, delineamos las mejoras y optimizaciones que hemos implementado para garan
 | EP006   | Funcionalidades del Paciente                 |
 | EP007   | Funcionalidades técnicas                     |
 
+**User Stories**
 
 | Story ID | US001 | Título | Interacción con hipervínculos en la landing page | Descripción | Como visitante en MindCare quiero poder interactuar con la landing page. |
 |---|---|---|---|---|---|
@@ -666,8 +667,129 @@ Aquí, delineamos las mejoras y optimizaciones que hemos implementado para garan
 | Criterios de aceptación | Escenario 1: Interacción con el hipervínculo<br>Dado que el visitante se encuentra en la landing page<br>Cuando el visitante haga clic en el hipervínculo de "Contáctanos"<br>Entonces el sistema dirigirá al visitante a la sección de contacto.<br><br>Escenario 2: Ingresa datos<br>Dado que el visitante se encuentra en la sección de contacto<br>Cuando el visitante haga clic en las barras de texto<br>Entonces el sistema guardará automáticamente el texto ingresado por el visitante.<br><br>Escenario 3: Enviar datos<br>Dado que el visitante se encuentra en la landing page<br>Cuando el visitante haga clic en el botón "submit"<br>Entonces el sistema leerá los textos ingresados <br>Y serán enviados a nuestro soporte técnico |  |  |  |  |
 
 
+| Story ID | US003 | Título | Interacción con la sección de “Servicios” | Descripción | Como visitante de la landing page quiero tener conocimiento de los servicios que brinda MindCare. |
+|---|---|---|---|---|---|
+| Epic ID | EP002 | Usuario | Visitante Landing |  |  |
+| Criterios de aceptación | Escenario 1: Interacción con el hipervínculo<br>Dado que el visitante se encuentra en la landing page<br>Cuando haga clic en el hipervínculo de “Servicios”<br>Entonces el sistema dirigirá al visitante a esa sección<br>Escenario 2: Interacción con cartillas<br>Dado que el visitante se encuentra en la sección “Servicios”<br>Entonces el visitante podrá ver más información de los servicios de MindCare |  |  |  |  |
+
+
+| Story ID | US004 | Título | Interacción con la sección de “Planes” | Descripción | Como visitante de la landing page quiero poder conocer a qué planes me puedo afiliar en MindCare. |
+|---|---|---|---|---|---|
+| Epic ID | EP002 | Usuario | Visitante Landing |  |  |
+| Criterios de aceptación | Escenario 1: Interacción con el hipervínculo<br>Dado que el visitante se encuentra en la landing page<br>Cuando haga clic en el hipervínculo de “Planes”<br>Entonces el sistema dirigirá al visitante a esa sección<br>Escenario 2: Interacción con cartillas<br>Dado que el visitante se encuentra en la sección “Planes”<br>Cuando pueda leer la información que ofrece cada plan y el costo<br>Entonces el sistema podrá crear una cuenta al visitante |  |  |  |  |
+
+
+| Story ID | US005 | Título | Ingreso a la interfaz de Iniciar Sesión | Descripción | Como visitante de la landing page quiero poder ser dirigido fácilmente al apartado de iniciar sesión. |
+|---|---|---|---|---|---|
+| Epic ID | EP001 | Usuario | Visitante Landing |  |  |
+| Criterios de aceptación | Escenario 1: Redirigir al visitante al apartado de inicio de sesión<br>Dado que el visitante se encuentra en la landing page y quiere iniciar sesión en MindCare<br>Cuando haga clic al botón de "iniciar sesión" <br>Entonces será enviado a la pestaña de inicio de sesión.<br>Escenario 2: Ingresar datos correctos de su cuenta<br>Dado que el visitante se encuentra en la pestaña de inicio de sesión<br>Cuando ingrese sus datos<br>Y le dé clic a Ingresar<br>Entonces podrá ingresar a las diferentes secciones que posee según su usuario.<br>Escenario 3: Ingresar datos incorrectos de su cuenta<br>Dado que el visitante se encuentra en la pestaña de inicio de sesión<br>Cuando ingrese datos incorrectos<br>Y le dé clic a Ingresar<br>Entonces recibirá un mensaje de error indicando que los datos son incorrectos. |  |  |  |  |
+
+
+| Story ID | US006 | Título | Ingreso a la interfaz de Crear Cuenta | Descripción | Como visitante de la landing page quiero poder ser dirigido fácilmente al apartado de crear cuenta. |
+|---|---|---|---|---|---|
+| Epic ID | EP001 | Usuario | Visitante Landing |  |  |
+| Criterios de aceptación | Escenario 1: Redirigir al visitante al apartado de creación de cuenta<br>Dado que un visitante está en la landing page <br>Y quiere registrarse en MindCare<br>Cuando hace clic en el botón "Crear cuenta"<br>Entonces debería ser enviado a la pestaña de creación de cuentas.<br>Escenario 2: Ingresar datos válidos para crear una cuenta<br>Dado que el visitante está en la pestaña de creación de cuentas<br>Cuando ingresa datos válidos para crear una cuenta<br>Y hace clic en el botón "Crear cuenta"<br>Entonces se crea exitosamente la cuenta y se redirige al usuario a la página principal.<br>Escenario 3: Ingresar datos inválidos para crear una cuenta<br>Dado que el visitante está en la pestaña de creación de cuentas<br>Cuando ingresa datos inválidos para crear una cuenta<br>Y hace clic en el botón "Crear cuenta"<br>Entonces se muestra un mensaje de error indicando que los datos ingresados son inválidos.<br>Escenario 4: Intentar crear una cuenta con un correo electrónico ya registrado<br>Dado que el visitante está en la pestaña de creación de cuentas<br>Y el correo electrónico ingresado ya está asociado a una cuenta existente<br>Cuando intenta crear una cuenta con ese correo electrónico<br>Entonces se muestra un mensaje de error indicando que el correo electrónico ya está registrado. |  |  |  |  |
+
+
+| Story ID | US007 | Título | Visualización y Gestión de Citas para Psicólogos | Descripción | Como psicólogo, quiero gestionar mis citas a través de la plataforma, para tener un control eficiente de mi tiempo y compromisos. |
+|---|---|---|---|---|---|
+| Epic ID | EP003 | Usuario | Psicólogo  |  |  |
+| Criterios de aceptación | Escenario 01: Accede a la plataforma<br>Dado que el psicólogo está registrado en la plataforma<br>Cuando el psicólogo accede a su cuenta con sus credenciales<br>Entonces el sistema lo dirige a su panel de control personalizado<br>Escenario 02: Visualiza sus citas mensuales<br>Dado que el psicólogo ingresa a su panel de control de la plataforma<br>Cuando el psicólogo hace clic en el botón "Calendario"<br>Entonces el sistema muestra el calendario con el estado actual de cada cita que posee el psicólogo ("Programada", "Confirmada", "Cancelada" y “Primeras Sesiones”)<br>Escenario 03: Visualiza sólo las citas programadas en el calendario<br>Dado que el psicólogo está viendo el calendario de citas<br>Cuando el psicólogo selecciona la opción "Citas Programadas"<br>Entonces el sistema muestra solo las citas que están programadas en el calendario.<br>Escenario 04: Visualiza sólo las citas confirmadas en el calendario<br>Dado que el psicólogo está viendo el calendario de citas<br>Cuando el psicólogo selecciona la opción "Citas Confirmadas"<br>Entonces el sistema muestra solo las citas que están confirmadas en el calendario.<br>Escenario 05: Visualiza sólo las citas canceladas en el calendario<br>Dado que el psicólogo está viendo el calendario de citas<br>Cuando el psicólogo selecciona la opción "Citas Canceladas"<br>Entonces el sistema muestra solo las citas que están canceladas en el calendario.<br>Escenario 06: Visualiza solo las primeras sesiones en el calendario<br>Dado que el psicólogo está viendo el calendario de citas<br>Cuando el psicólogo selecciona la opción "Primeras Sesiones"<br>Entonces el sistema muestra solo las primeras sesiones programadas de los pacientes nuevos en el calendario. |  |  |  |  |
+
+
+| Story ID | US008 | Título | Interacción con la sección de “Mi cuenta” | Descripción | Como psicólogo, quiero crear y editar mi perfil profesional para que los pacientes puedan conocerme mejor y elegir mis servicios. |
+|---|---|---|---|---|---|
+| Epic ID | EP004 | Usuario | Psicólogo  |  |  |
+| Criterios de aceptación | Escenario 01: Acceder a la sección de perfil profesional<br>Dado que el psicólogo está registrado en la plataforma<br>Cuando el psicólogo accede a su cuenta con sus credenciales<br>Entonces el sistema lo dirige a su panel de control personalizado<br>Escenario 02: Crear perfil profesional<br>Dado que el psicólogo está en su panel de control de la plataforma<br>Cuando el psicólogo selecciona la opción “Mi cuenta” para crear su perfil profesional<br>Y completa los campos requeridos como nombre, fecha de nacimiento, dni, género, etc.<br>Entonces el sistema guarda automáticamente los datos ingresados<br>Escenario 03: Editar perfil profesional<br>Dado que el psicólogo está en su panel de control de la plataforma<br>Cuando el psicólogo selecciona la opción “Mi cuenta” para editar su perfil profesional<br>Y realiza cambios en los campos existentes,  como nombre, fecha de nacimiento, dni, género, etc.<br>Entonces el sistema actualiza automáticamente los datos ingresados |  |  |  |  |
+
+
+| Story ID | US009 | Título | Comunicación con pacientes | Descripción | Como psicólogo, quiero comunicarme con mis pacientes a través de un sistema de mensajería seguro dentro de la plataforma, para garantizar la confidencialidad de la información. |
+|---|---|---|---|---|---|
+| Epic ID | EP005 | Usuario | Psicólogo  |  |  |
+| Criterios de aceptación | Escenario 01: Iniciar una conversación con un paciente<br>Dado que el psicólogo está autenticado en la plataforma<br>Cuando el psicólogo selecciona a un paciente específico de su lista de pacientes<br>Entonces el sistema proporciona una opción para iniciar una conversación de mensajería con ese paciente<br>Y el psicólogo puede enviar mensajes seguros al paciente a través del sistema de mensajería dentro de la plataforma.<br>Escenario 02: Responder a un mensaje de un paciente<br>Dado que el psicólogo recibe una notificación de que un paciente ha enviado un mensaje<br>Cuando el psicólogo accede a su bandeja de entrada de mensajes dentro de la plataforma<br>Entonces el sistema muestra el mensaje del paciente de manera segura<br>Y el psicólogo puede responder al mensaje del paciente de manera confidencial utilizando el sistema de mensajería seguro dentro de la plataforma. |  |  |  |  |
+
+
+| Story ID | US010 | Título | Integración con plataformas de Videoconferencia | Descripción | Como psicólogo, quiero que la plataforma se integre con herramientas de videoconferencia, para poder realizar sesiones virtuales con mis pacientes. |
+|---|---|---|---|---|---|
+| Epic ID | EP003 | Usuario | Psicólogo |  |  |
+| Criterios de aceptación | Escenario 01: Creación de una sesión virtual<br>Dado que el psicólogo está programando una cita con un paciente<br>Cuando el psicólogo selecciona la opción para programar una sesión virtual<br>Entonces el sistema genera automáticamente un enlace de videoconferencia en zoom<br>Y el sistema incluye el enlace en la invitación de la cita enviada al paciente.<br>Escenario 02: Inicio de la sesión virtual<br>Dado que ha llegado el momento programado para la sesión virtual<br>Cuando el psicólogo y el paciente acceden a la plataforma en el horario acordado<br>Entonces el sistema activa automáticamente la sesión de zoom<br>Y el psicólogo y el paciente pueden iniciar la sesión virtual con un solo clic desde la plataforma. |  |  |  |  |
+
+
+| Story ID | US011 | Título | Búsqueda de Psicólogos por Nombre | Descripción | Como paciente, quiero poder buscar psicólogos por su nombre para encontrar rápidamente al profesional que deseo contactar. |
+|---|---|---|---|---|---|
+| Epic ID | EP006 | Usuario | Paciente |  |  |
+| Criterios de aceptación | Criterios de aceptación<br>Escenario 01: Búsqueda de psicólogos por nombre<br>Dado que el paciente desea buscar psicólogos por su nombre<br>Cuando el paciente accede a la función de búsqueda en la plataforma<br>Entonces el sistema muestra un campo donde el paciente puede ingresar el nombre del psicólogo que está buscando<br>Escenario 02: Resultados de la búsqueda por nombre<br>Dado que el paciente ha ingresado el nombre del psicólogo que está buscando<br>Cuando el paciente presiona el botón de búsqueda<br>Entonces el sistema muestra los resultados que coinciden con el nombre especificado por el paciente. |  |  |  |  |
+
+
+| Story ID | US012 | Título | Agendar Citas con Psicólogos | Descripción | Como paciente, quiero agendar una cita con el psicólogo de mi preferencia mediante la opción de ver sus horarios para poder reservar mi cita efectivamente. |
+|---|---|---|---|---|---|
+| Epic ID | EP006 | Usuario | Paciente |  |  |
+| Criterios de aceptación | Escenario 01: Selección de psicólogo<br>Dado que el paciente desea agendar una cita con un psicólogo<br>Cuando el paciente busca al psicólogo de su preferencia en la plataforma desde la página de inicio<br>Entonces el sistema muestra al psicólogo y su disponibilidad de horarios en su perfil<br>Escenario 02: Reserva de cita<br>Dado que el paciente ha seleccionado al psicólogo de su preferencia <br>y visualiza su disponibilidad de horarios<br>Cuando el paciente elige una fecha disponible en el calendario del psicólogo<br>Entonces el sistema reserva automáticamente la cita para el paciente en esa fecha <br>Escenario 03: Recepción de confirmación de cita<br>Dado que el sistema ha reservado la cita del paciente en el calendario del psicólogo<br>Cuando el sistema envía un mensaje de confirmación de cita al paciente<br>Entonces el paciente recibe la confirmación de la cita mediante el mensaje de “Cita reservada” |  |  |  |  |
+
+
+| Story ID | US013 | Título | Gestionar citas programadas | Descripción | Como paciente, quiero gestionar mis citas programadas desde la sección de citas, donde puedo ver mis citas en orden de fecha y tener opciones para cancelar, reprogramar, pagar o confirmar las citas según sea necesario, y recibir una confirmación de cualquier acción realizada. |
+|---|---|---|---|---|---|
+| Epic ID | EP006 | Usuario | Paciente |  |  |
+| Criterios de aceptación | Escenario 01: Visualización de citas programadas<br>Dado que el paciente desea gestionar sus citas programadas<br>Cuando el paciente accede a la sección de "citas" en la plataforma<br>Entonces el sistema muestra las citas del paciente en orden de fecha, junto con opciones para cada cita, como "cancelar cita", "reprogramar cita", "pagar cita" o "confirmar cita"<br>Escenario 02: Cancelación de cita<br>Dado que el paciente desea cancelar una cita programada<br>Cuando el paciente selecciona la opción "cancelar cita" para la cita deseada<br>Entonces el sistema confirma la cancelación de la cita y actualiza el estado de la cita en consecuencia<br>Escenario 03: Confirmación de asistencia a la cita<br>Dado que el paciente desea confirmar su asistencia a una cita programada<br>Cuando el paciente selecciona la opción "confirmar cita" para la cita deseada<br>Entonces el sistema marca la cita como confirmada y actualiza el estado de la cita<br>Escenario 04: Reprogramación de cita<br>Dado que el paciente desea reprogramar una cita programada<br>Cuando el paciente selecciona la opción "reprogramar cita" para la cita deseada<br>Entonces el sistema permite al paciente seleccionar una nueva fecha y hora para la cita<br>Y el sistema guarda automáticamente los cambios realizados<br>Escenario 05: Confirmación de acción<br>Dado que el paciente ha realizado una acción sobre una cita (cancelar, reprogramar, pagar o confirmar)<br>Cuando el sistema procesa la acción solicitada por el paciente<br>Entonces el sistema envía una confirmación de la acción realizada mediante el mensaje “[acción realizada] con éxito” |  |  |  |  |
+
+
+| Story ID | US014 | Título | Pagar cita | Descripción | Como paciente, quiero pagar mis citas de manera sencilla y recibir una confirmación. |
+|---|---|---|---|---|---|
+| Epic ID | EP006 | Usuario | Paciente |  |  |
+| Criterios de aceptación | Escenario 01: Pago de la cita<br>Dado que el paciente se encuentra en la sección de “citas” <br>Cuando el paciente quiera pagar una cita<br>Entonces hará click a la opción de “Pagar”<br>Escenario 02: Confirmación de pago<br>Dado que el paciente es redirigido a la sección de “Finanzas”<br>Cuando el paciente corrobore los datos de la sesión<br>Y le de click a “Pagar”<br>Y le aparezca una interfaz de pago segura para realizar el abono<br>Entonces el sistema actualizará estado de la cita y notifica al psicólogo sobre la confirmación del pago |  |  |  |  |
+
+
+| Story ID | US015 | Título | Comunicación con Psicólogos | Descripción | Como paciente, quiero comunicarme con mi psicólogo a través de la plataforma para discutir detalles previos a la cita. |
+|---|---|---|---|---|---|
+| Epic ID | EP006 | Usuario | Paciente |  |  |
+| Criterios de aceptación | Escenario 01: Iniciar una conversación con el psicólogo<br>Dado que el paciente desea comunicarse con su psicólogo antes de la cita<br>Cuando el paciente accede a la función de mensajería en la plataforma<br>Entonces el sistema muestra una lista de los psicólogos con los que el paciente tiene citas <br>Escenario 02: Recepción de respuesta del psicólogo<br>Dado que el paciente ha enviado un mensaje al psicólogo<br>Cuando el psicólogo accede a su cuenta en la plataforma<br>Entonces el sistema muestra al psicólogo una notificación de un nuevo mensaje del paciente<br>Y el psicólogo puede leer el mensaje del paciente y responder a él |  |  |  |  |
+
+
+| Story ID | US016 | Título | Configuración de la cuenta | Descripción | Como paciente, quiero visualizar y editar datos de mi información personal en mi cuenta. |
+|---|---|---|---|---|---|
+| Epic ID | EP006 | Usuario | Paciente |  |  |
+| Criterios de aceptación | Escenario 01: Editar datos del perfil<br>Dado que el paciente se encuentra en la sección de “Mi cuenta”<br>Cuando quiera editar algún campo de mi información<br>Y escriba nueva o corrija información<br>Entonces el sistema actualizará sus datos |  |  |  |  |
+
+
+| Story ID | US017 | Título | Chatbot de ayuda | Descripción | Como paciente, quiero acceder al soporte técnico fácilmente a través de un chatbot o mediante la opción de hablar con un asesor humano para resolver cualquier problema que pueda tener con la plataforma. |
+|---|---|---|---|---|---|
+| Epic ID | EP007 | Usuario | Psicólogo  |  |  |
+| Criterios de aceptación | Escenario 01: Acceso al chatbot de soporte técnico<br>Dado que el paciente encuentra un problema con la plataforma<br>Cuando el paciente busca ayuda para resolver el problema<br>Entonces el sistema muestra un icono de chatbot claramente visible en la interfaz<br>Y el paciente hace clic en el icono para iniciar una conversación con el chatbot<br>Escenario 02: Inicio de conversación con el chatbot<br>Dado que el paciente ha accedido al chatbot de soporte técnico<br>Cuando el paciente describe el problema que está experimentando<br>Entonces el chatbot responde con un mensaje de bienvenida y ofrece opciones para ayudar al paciente a solucionar su problema<br>Escenario 03: Interacción con el chatbot para resolver el problema<br>Dado que el paciente está interactuando con el chatbot de soporte técnico<br>Cuando el paciente proporciona detalles adicionales sobre el problema o sigue las indicaciones del chatbot<br>Entonces el chatbot ofrece soluciones para resolver el problema,<br>Y el paciente sigue las instrucciones proporcionadas por el chatbot para solucionar el problema<br>Escenario 04: Transferencia a un asesor humano<br>Dado que el paciente está interactuando con el chatbot de soporte técnico<br>Cuando el paciente no puede resolver el problema utilizando las opciones proporcionadas por el chatbot<br>Entonces el chatbot ofrece al paciente la opción de hablar con un asesor humano<br>Y el paciente solicita hablar con un asesor humano para obtener ayuda adicional<br>Escenario 05: Resolución del problema por parte del asesor humano<br>Dado que el paciente ha sido transferido a un asesor humano<br>Cuando el asesor humano revisa la consulta o problema del paciente<br>Entonces el asesor humano proporciona una solución o respuesta al paciente<br>Y el paciente sigue las instrucciones del asesor humano para resolver el problema |  |  |  |  |
+
+
+| Story ID | US017 | Título | Chatbot de ayuda | Descripción | Como paciente, quiero acceder al soporte técnico fácilmente a través de un chatbot o mediante la opción de hablar con un asesor humano para resolver cualquier problema que pueda tener con la plataforma. |
+|---|---|---|---|---|---|
+| Epic ID | EP007 | Usuario | Psicólogo  |  |  |
+| Criterios de aceptación | Escenario 01: Acceso al chatbot de soporte técnico<br>Dado que el paciente encuentra un problema con la plataforma<br>Cuando el paciente busca ayuda para resolver el problema<br>Entonces el sistema muestra un icono de chatbot claramente visible en la interfaz<br>Y el paciente hace clic en el icono para iniciar una conversación con el chatbot<br>Escenario 02: Inicio de conversación con el chatbot<br>Dado que el paciente ha accedido al chatbot de soporte técnico<br>Cuando el paciente describe el problema que está experimentando<br>Entonces el chatbot responde con un mensaje de bienvenida y ofrece opciones para ayudar al paciente a solucionar su problema<br>Escenario 03: Interacción con el chatbot para resolver el problema<br>Dado que el paciente está interactuando con el chatbot de soporte técnico<br>Cuando el paciente proporciona detalles adicionales sobre el problema o sigue las indicaciones del chatbot<br>Entonces el chatbot ofrece soluciones para resolver el problema,<br>Y el paciente sigue las instrucciones proporcionadas por el chatbot para solucionar el problema<br>Escenario 04: Transferencia a un asesor humano<br>Dado que el paciente está interactuando con el chatbot de soporte técnico<br>Cuando el paciente no puede resolver el problema utilizando las opciones proporcionadas por el chatbot<br>Entonces el chatbot ofrece al paciente la opción de hablar con un asesor humano<br>Y el paciente solicita hablar con un asesor humano para obtener ayuda adicional<br>Escenario 05: Resolución del problema por parte del asesor humano<br>Dado que el paciente ha sido transferido a un asesor humano<br>Cuando el asesor humano revisa la consulta o problema del paciente<br>Entonces el asesor humano proporciona una solución o respuesta al paciente<br>Y el paciente sigue las instrucciones del asesor humano para resolver el problema |  |  |  |  |
+
+
+## 3.3. Impact Mapping.
+![Screenshot 2024-04-20 222939](https://github.com/MindCare-Panqueque/Informe/assets/130580982/1babd5ba-50ab-484a-bb1d-21c4f20ac5ba)
+
 
 ## 3.4. Product Backlog. 
+
+| #Order | User Story ID | Título | Descripción | Story point |
+|---|---|---|---|---|
+| 1 | US001 | Creación de hipervínculos (Header) | Como visitante de la landing page quiero poder interactuar con la landing page. | 3 |
+| 2 | US002 | Sección Servicios | Como visitante de la landing page quiero poder contactarme con MindCare | 5 |
+| 3 | US003 | Seccion Contáctanos | Como visitante de la landing page quiero tener conocimiento de lo que el servicio incluirá. | 3 |
+| 4 | US004 | Seccion Planes | Como visitante de la landing page quiero poder conocer a que planes me puedo afiliar. | 3 |
+| 5 | US005 | Iniciar Sesión | Como visitante de la landing page quiero poder ser dirigido fácilmente al apartado de iniciar sesión. | 3 |
+| 6 | US006 | Crear Cuenta | Como visitante de la landing page quiero poder ser dirigido fácilmente al apartado de crear cuenta. | 3 |
+| 7 | US007 | Visualización y Gestión de Citas para Psicólogos | Como psicólogo, quiero gestionar mis citas a través de la plataforma, para tener un control eficiente de mi tiempo y compromisos. | 8 |
+| 8 | US008 | Interacción con la sección de “Mi cuenta” | Como psicólogo, quiero crear y editar mi perfil profesional para que los pacientes puedan conocerme mejor y elegir mis servicios. | 5 |
+| 9 | US009 | Comunicación con pacientes | Como psicólogo, quiero comunicarme con mis pacientes a través de un sistema de mensajería seguro dentro de la plataforma, para garantizar la confidencialidad de la información. | 8 |
+| 10 | US010 | Integración con plataformas de Videoconferencia | Como psicólogo, quiero que la plataforma se integre con herramientas de videoconferencia, para poder realizar sesiones virtuales con mis pacientes. | 8 |
+| 11 | US011 | Búsqueda de Psicólogos | Como paciente, quiero poder buscar psicólogos por su nombre para encontrar rápidamente al profesional que deseo contactar. | 8 |
+| 12 | US012 | Programar Citas | Como paciente, quiero agendar una cita con el psicólogo de mi preferencia mediante la opción de ver sus horarios para poder reservar mi cita efectivamente. | 8 |
+| 13 | US013 | Gestionar citas programadas | Como paciente, quiero gestionar mis citas programadas desde la sección de citas, donde puedo ver mis citas en orden de fecha y tener opciones para cancelar, reprogramar, pagar o confirmar las citas según sea necesario, y recibir una confirmación de cualquier acción realizada. | 8 |
+| 14 | US014 | Pagar cita | Como paciente, quiero pagar mis citas de manera sencilla y recibir una confirmación. | 5 |
+| 15 | US015 | Comunicación con psicólogos | Como paciente, quiero comunicarme con mi psicólogo a través de la plataforma para discutir detalles previos a la cita. | 5 |
+| 16 | US016 | Configuración de la cuenta | Como paciente, quiero visualizar y editar datos de mi información personal en mi cuenta. | 3 |
+| 17 | US017 | Chatbot de ayuda | Como paciente, quiero acceder al soporte técnico fácilmente a través de un chatbot o mediante la opción de hablar con un asesor humano para resolver cualquier problema que pueda tener con la plataforma. | 8 |
+| 18 | US018 | Confidencialidad de los datos del paciente | Como paciente, quiero que mi información personal y datos de salud estén protegidos y manejados con confidencialidad. | 5 |
+
 
 # Capítulo IV: Product Design. 
 
@@ -1011,147 +1133,142 @@ física.
 
 ## 4.4. Web Applications UX/UI Design.
 
-> Aquí es donde exploraremos cómo diseñamos cuidadosamente la
-> experiencia que los usuarios tendrán al interactuar con nuestra
-> aplicación web. Desde la disposición de los elementos hasta la
-> elección de los colores y las fuentes, cada detalle está pensado para
-> ofrecer una experiencia fluida y atractiva.  
-> Con el siguiente enlace podrá acceder a toda la información sobre los
-> Wireframes y Mockups de la plataforma Mind Care:
-> [<u>figma</u>](https://www.figma.com/file/0xo82rO3Xi1Ma54503YrsT/MindCare?type=design&node-id=209%3A723&mode=design&t=AugqoMDATfAykigD-1).
+Aquí es donde exploraremos cómo diseñamos cuidadosamente la experiencia que los usuarios tendrán al interactuar con nuestra aplicación web. Desde la disposición de los elementos hasta la elección de los colores y las fuentes, cada detalle está pensado para ofrecer una experiencia fluida y atractiva. Con el siguiente enlace podrá acceder a toda la información sobre los Wireframes y Mockups de la plataforma Mind Care:
+
+[<u>figma</u>](https://www.figma.com/file/0xo82rO3Xi1Ma54503YrsT/MindCare?type=design&node-id=209%3A723&mode=design&t=AugqoMDATfAykigD-1).
+
 
 ### 4.4.1. Web Applications Wireframes.
 
-> **Iniciar sesión:**
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/d775e4bc-82df-4243-9692-a7f13e1c8a5a)
->
-> **Crear cuenta:**
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/e9272ed3-88de-4170-9945-becf2aa5899e)
->
-> **Escoger tu plan:**
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/e9272ed3-88de-4170-9945-becf2aa5899e)
->
-> **Interfaz Psicólogo:**
->
-> En esta etapa, presentaremos los mockups de la interfaz diseñada
-> exclusivamente para los psicólogos. Esta sección representa un
-> análisis exhaustivo de cómo hemos configurado y diseñado la interfaz
-> para ofrecer una experiencia óptima y eficiente a los profesionales de
-> la salud mental.
->
-> **Escoger Paciente:**
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/88bd5519-8572-4850-9919-32287e4a458a)
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/2153600d-5fca-47ed-8d1b-49a15c851533)
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/20cf9a7e-36a6-44a6-8134-248b981b383c)
->
-> **Calendario:**
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/46feb899-3a59-4b81-8419-a740c15b7525)
->
-> **Reuniones:**
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/075bf1e8-fa4b-46c0-93ef-4c51463627ab)
->
-> **Mensajes:**
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/44407a2e-306b-4438-b89b-5cfa0dda3228)
->
-> **Finanzas:**
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/618ac4d7-df3a-4182-88c9-5ee9a2d229f9)
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/e445d82c-65ce-4a36-8a8d-7ffee4f04466)
->
-> **Configuración:**
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/a6f0bbf6-3ffd-4d19-b88e-e82cac539cdf)
+ **Iniciar sesión:**
 
-> **Interfaz Paciente:**
->
-> En esta sección, presentamos los mockups de la interfaz diseñada
-> específicamente para nuestros pacientes. Representa una evaluación
-> minuciosa de cómo hemos estructurado y diseñado la interfaz para
-> ofrecer una experiencia óptima y comprensible a aquellos que buscan
-> apoyo en nuestra plataforma.
->
-> **Escoger Psicólogo:**
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/6af1794b-38c3-412f-8bba-f1039e578fe9)
->
-> **Calendario:**
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/cbbb55c1-20ad-46f9-a974-c391b006fe12)
->
-> **Reuniones:**
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/c3a1c02a-1265-469e-bac1-b2ae78008958)
->
-> **Mensajes:**
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/d56a7500-afc0-42a8-9453-3b49245cf51b)
->
-> **Finanzas:**
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/c787a7a9-23fd-4e05-8dbb-68e9d0465fac)
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/99fba77b-3747-4cbf-8728-8144e2eab63f)
->
-> **Configuración:**
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/7784ff90-533d-4c16-a84f-2be91c1f1f91)
+ ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/d775e4bc-82df-4243-9692-a7f13e1c8a5a)
+
+ **Crear cuenta:**
+
+ ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/e9272ed3-88de-4170-9945-becf2aa5899e)
+
+ **Escoger tu plan:**
+
+ ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/e9272ed3-88de-4170-9945-becf2aa5899e)
+
+ **Interfaz Psicólogo:**
+
+ En esta etapa, presentaremos los mockups de la interfaz diseñada
+ exclusivamente para los psicólogos. Esta sección representa un
+ análisis exhaustivo de cómo hemos configurado y diseñado la interfaz
+ para ofrecer una experiencia óptima y eficiente a los profesionales de
+ la salud mental.
+
+ **Escoger Paciente:**
+
+ ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/88bd5519-8572-4850-9919-32287e4a458a)
+
+ ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/2153600d-5fca-47ed-8d1b-49a15c851533)
+
+ ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/20cf9a7e-36a6-44a6-8134-248b981b383c)
+
+ **Calendario:**
+
+ ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/46feb899-3a59-4b81-8419-a740c15b7525)
+
+ **Reuniones:**
+
+ ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/075bf1e8-fa4b-46c0-93ef-4c51463627ab)
+
+ **Mensajes:**
+
+ ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/44407a2e-306b-4438-b89b-5cfa0dda3228)
+
+ **Finanzas:**
+
+ ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/618ac4d7-df3a-4182-88c9-5ee9a2d229f9)
+
+ ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/e445d82c-65ce-4a36-8a8d-7ffee4f04466)
+
+**Configuración:**
+
+ ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/a6f0bbf6-3ffd-4d19-b88e-e82cac539cdf)
+ **Interfaz Paciente:**
+
+ En esta sección, presentamos los mockups de la interfaz diseñada
+ específicamente para nuestros pacientes. Representa una evaluación
+ minuciosa de cómo hemos estructurado y diseñado la interfaz para
+ ofrecer una experiencia óptima y comprensible a aquellos que buscan
+ apoyo en nuestra plataforma.
+
+ **Escoger Psicólogo:**
+
+ ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/6af1794b-38c3-412f-8bba-f1039e578fe9)
+
+ **Calendario:**
+
+ ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/cbbb55c1-20ad-46f9-a974-c391b006fe12)
+
+ **Reuniones:**
+
+ ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/c3a1c02a-1265-469e-bac1-b2ae78008958)
+
+ **Mensajes:**
+
+ ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/d56a7500-afc0-42a8-9453-3b49245cf51b)
+
+ **Finanzas:**
+
+ ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/c787a7a9-23fd-4e05-8dbb-68e9d0465fac)
+
+ ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/99fba77b-3747-4cbf-8728-8144e2eab63f)
+
+ **Configuración:**
+
+ ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/7784ff90-533d-4c16-a84f-2be91c1f1f91)
+
+
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
-> Enlace para acceder al
-> [<u>lucidchart</u>](https://lucid.app/lucidchart/7bdb2af3-d389-4575-988b-564a9c687ecc/edit?view_items=oJzrl7KeZfjR&invitationId=inv_afca453b-0529-4128-a2eb-140834216d51)
->
-> **User Goal: Registrar nuevo usuario**
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/88c3bb0c-9ebe-442b-905c-414a07f23ceb)
->
-> **User Goal: Iniciar sesión**
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/afdb2352-0949-4fd6-9cb2-1d528605a8b0)
->
-> **Psicólogo:**
->
-> **User Goal: Escoger paciente**
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/95b1aea4-cad3-4366-b0fb-a02b4978b2ed)
->
-> **User Goal: Recordar pago de una reunión**
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/e82a0342-1fa2-4cf3-b63b-82a66584186a)
->
-> **Calendario:**
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/221c0ee9-a8a8-4f67-ba14-2d409ec5f9db)
->
-> **Reuniones:**
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/d9161cf0-466e-4306-9182-6461d7111f40)
->
-> **Mensajes:**
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/2135bb96-f6c1-4da6-a35b-9248c851705f)
->
-> **Configuración:**
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/6892165a-b0b1-4415-8bc1-28b8875891e3)
->
-> **Paciente:**
->
-> **User Goal: Escoger Psicólogo**
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/59f006e4-d313-4f27-848a-71722ac25006)
->
-> **User Goal: Pagar la reunión**
+ Enlace para acceder al
+ [<u>lucidchart</u>](https://lucid.app/lucidchart/7bdb2af3-d389-4575-988b-564a9c687ecc/edit?view_items=oJzrl7KeZfjR&invitationId=inv_afca453b-0529-4128-a2eb-140834216d51)
+
+ **User Goal: Registrar nuevo usuario**
+
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/88c3bb0c-9ebe-442b-905c-414a07f23ceb)
+
+ **User Goal: Iniciar sesión**
+
+ ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/afdb2352-0949-4fd6-9cb2-1d528605a8b0)
+
+ **Psicólogo:**
+
+ **User Goal: Escoger paciente**
+
+ ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/95b1aea4-cad3-4366-b0fb-a02b4978b2ed)
+
+ **User Goal: Recordar pago de una reunión**
+
+ ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/e82a0342-1fa2-4cf3-b63b-82a66584186a)
+
+ **Calendario:**
+
+ ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/221c0ee9-a8a8-4f67-ba14-2d409ec5f9db)
+
+ **Reuniones:**
+ ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/d9161cf0-466e-4306-9182-6461d7111f40)
+
+**Mensajes:**
+
+ ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/2135bb96-f6c1-4da6-a35b-9248c851705f)
+ **Configuración:**
+
+
+ ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/6892165a-b0b1-4415-8bc1-28b8875891e3)
+
+ **Paciente:**
+ **User Goal: Escoger Psicólogo**
+
+ ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/59f006e4-d313-4f27-848a-71722ac25006)
+
+ **User Goal: Pagar la reunión**
 >
 > ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/be10bc5a-c176-4a12-b228-fb8146f08a63)
 > **Calendario:**
@@ -1218,143 +1335,163 @@ Esta sección de Mi cuenta, muestra la foto del perfil del psicólogo y
 sus datos personales incluyendo la información básica como correo
 electrónico, teléfono y código.
 
-> **Pacientes**
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/65db578f-11fa-44ce-9ea0-0804c676442b)
+ **Pacientes**
+
+ ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/65db578f-11fa-44ce-9ea0-0804c676442b)
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
-A continuación, nos complace presentar los diagramas de flujo de usuario
-para nuestras aplicaciones web. Estos diagramas representan una
-visualización detallada y estructurada de los pasos que los usuarios
-seguirán al interactuar con nuestra plataforma en línea.
+A continuación, nos complace presentar los diagramas de flujo de usuario para nuestras aplicaciones web. Estos diagramas representan una visualización detallada y estructurada de los pasos que los usuarios seguirán al interactuar con nuestra plataforma en línea.
+Link de los User Flow: [Diagramas Lucid Chart](https://lucid.app/lucidchart/7bdb2af3-d389-4575-988b-564a9c687ecc/edit?viewport_loc=-800%2C3559%2C2325%2C1031%2C.56rLDpdq2Cm&invitationId=inv_afca453b-0529-4128-a2eb-140834216d51)
 
-Link de los UserFlow : [<u>Diagramas
-Lucidchart</u>](https://lucid.app/lucidchart/7bdb2af3-d389-4575-988b-564a9c687ecc/edit?viewport_loc=-800%2C3559%2C2325%2C1031%2C.56rLDpdq2Cm&invitationId=inv_afca453b-0529-4128-a2eb-140834216d51)
+**Sección de psicólogos**
 
-> User Goal: Como usuario quiero iniciar sesión en MindCare.
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/4dcd4daa-4eba-4a41-9ac2-907ba5a1c72a)
->
-> User Goal: Como usuario quiero crear una cuenta en MindCare.
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/e9aee1d2-682f-46d7-8da5-a692e90168ae)
-> User Goal: Como usuario quiero seleccionar un paciente en MindCare.
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/4aedb907-b7e1-468d-a9de-093ebb7a0f09)
->
-> User Goal: Como usuario quiero entrar a la sección de Mensajes en
-> MindCare.
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/52b328fb-d0c9-4003-bf75-ad41400861df)
->
-> User Goal: Como usuario quiero entrar a la sección de Reuniones en
-> MindCare.
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/99993448-4548-46c2-b133-a0ed2721167c)
->
-> User Goal: Como usuario quiero navegar en la sección de Finanzas en
-> MindCare.
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/ba88b70b-5035-46bb-9c2e-7901d6a70e41)
->
-> User Goal: Como usuario quiero entrar a la sección Mi cuenta en
-> MindCare.
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/0d1c4046-6be3-48e2-aee9-cc5a7fe45e7c)
->
-> User Goal: Como usuario quiero entrar a la sección Calendario en
-> MindCare.
->
-> ![image](https://github.com/MindCare-Panqueque/Informe/assets/133830443/fa03bb84-0369-4b62-98cc-f8064f8fbbf4)
+User Goal: Como usuario quiero iniciar sesión en MindCare.
+Para lograrlo, primero ingreso a la sección de "Inicio de Sesión" desde la página principal. Luego, introduzco mis credenciales de inicio de sesión (nombre de usuario y contraseña). Si los datos son correctos, el sistema me redirecciona automáticamente a la interfaz de Inicio.
+En caso de que los datos sean incorrectos, se me solicita que vuelva a ingresar mis credenciales.
+
+![1](https://github.com/MindCare-Panqueque/Informe/assets/134560396/e1d55151-579a-4bfc-8098-d70a3e272a9a)
+
+
+User Goal: Como usuario quiero crear una cuenta en MindCare.
+Para lograrlo, accedo a la sección de "Crear Cuenta" desde la página principal. Completo todos los campos requeridos con la información personal y profesional solicitada. Una vez que todos los datos son ingresados correctamente, el sistema verifica la información. Si los datos son válidos, se crea la cuenta y se accede automáticamente a la interfaz de Inicio. 
+Si el sistema detecta que estoy intentando crear una cuenta ya registrada, se me redirecciona a la interfaz de Inicio de Sesión.
+
+![2](https://github.com/MindCare-Panqueque/Informe/assets/134560396/e0f4b7b2-0ca8-40a6-ab8b-20fa1cbd79d5)
+
+
+User Goal: Como usuario quiero seleccionar un paciente en MindCare.
+Para lograrlo, ingreso a la sección de "Seleccionar Paciente" desde la interfaz de Inicio. Luego, elijo al paciente específico con el que deseo interactuar. Al seleccionar al paciente, se muestra un resumen de sus datos personales y un calendario con las citas programadas.
+
+![3](https://github.com/MindCare-Panqueque/Informe/assets/134560396/4e2d2b4b-4313-4fd8-9a54-70dcdf8e0535)
+
+
+User Goal: Como usuario quiero entrar a la sección de Mensajes en MindCare.
+Para lograrlo, accedo a la sección de "Mensajes" desde la interfaz de Inicio. Dentro de esta sección, visualizo todas las conversaciones que tengo con mis pacientes.
+
+![4](https://github.com/MindCare-Panqueque/Informe/assets/134560396/c70f462c-bf7f-4d5f-839e-83e346d959ca)
+
+
+User Goal: Como usuario quiero entrar a la sección de Reuniones en MindCare.
+Para lograrlo, desde la interfaz de Inicio, ingreso a la sección de "Reuniones". Aquí puedo ver tanto las reuniones programadas como las grabaciones de reuniones anteriores.
+
+![5](https://github.com/MindCare-Panqueque/Informe/assets/134560396/4077b3ac-d3df-4292-b887-1976a086d8ce)
+
+
+User Goal: Como usuario quiero navegar en la sección de Finanzas en MindCare.
+Para lograrlo, accedo a la sección de "Finanzas" desde la interfaz de Inicio. Aquí puedo ver todas las boletas electrónicas pendientes de pago por parte de los pacientes.
+
+![6](https://github.com/MindCare-Panqueque/Informe/assets/134560396/27fc11f2-3f6c-45c9-aa38-8d38e859c7ef)
+
+
+User Goal: Como usuario quiero entrar a la sección Mi cuenta en MindCare.
+Para lograrlo, desde la interfaz de Inicio, accedo a la sección "Mi cuenta ". Aquí puedo visualizar y gestionar todos mis datos personales y de contacto.
+
+![7](https://github.com/MindCare-Panqueque/Informe/assets/134560396/8d180554-1fa9-49d6-92c0-d81b0ece5817)
+
+User Goal: Como usuario quiero entrar a la sección Calendario en MindCare.
+Para lograrlo, desde la interfaz de Inicio, ingreso a la sección de "Calendario". Aquí puedo ver de manera general las citas programadas que tengo.
+
+![8](https://github.com/MindCare-Panqueque/Informe/assets/134560396/883a02af-153a-4ffb-b9da-bdfee61330d5)
+
+User Goal: Como usuario quiero poder acceder a el soporte técnico 
+Para obtener soporte técnico, ingreso a la sección de "Soporte Técnico" desde la interfaz de Inicio. Interactúo con un chatbot que proporciona respuestas predeterminadas. Si necesito ayuda adicional, tengo la opción de solicitar asistencia de un asesor humano.
+
+![9](https://github.com/MindCare-Panqueque/Informe/assets/134560396/a470a88f-a0c0-4a69-b89e-b3122d75315c)
+
+
+**Sección pacientes**
+
+User Goal: Como usuario, quiero visualizar la información de mi psicólogo de preferencia, donde pueda ver su horario disponible y sus datos de contacto. 
+Para lograrlo, debo ir a la pestaña principal y después de revisar la lista de psicólogos disponibles, selecciono uno de mi preferencia para ver su información.
+
+![1](https://github.com/MindCare-Panqueque/Informe/assets/134560396/38827173-0f85-498f-985e-2a28911d98d4)
+
+
+User Goal: Como usuario, quiero poder reservar una cita con mi psicólogo de mi preferencia.
+Para lograrlo, debo entrar a la pantalla de inicio y luego escoger al psicólogo con el cual quiero programar una cita, después de seleccionar la fecha y hora, le doy clic a la fecha para confirmar mi reserva,  y automáticamente el sistema reservará esa fecha para mi sesión terapéutica.
+
+![2](https://github.com/MindCare-Panqueque/Informe/assets/134560396/ff8506aa-a9fc-409b-90d2-981134a082a6)
+
+
+User Goal: Como usuario, deseo poder visualizar las citas que reservé. 
+Para lograrlo, primero accedo a la página de inicio. Luego, voy a la sección de citas, donde puedo ver una galería de citas que reservé y que me mostrará opciones de pago, reprogramación, cancelar o confirmar la cita.
+
+![3](https://github.com/MindCare-Panqueque/Informe/assets/134560396/be1f29b0-c7fc-4e73-a014-f52ec6870ee8)
+
+
+User Goal: Como usuario, deseo  visualizar las reuniones que tengo con mi psicólogo.
+Para lograrlo, el usuario debe ingresar directamente a la sección de Reuniones, donde podrá visualizar todas sus reuniones programadas, dando clic al link de la reunión escogida podrá ser redireccionado a zoom.
+
+![4](https://github.com/MindCare-Panqueque/Informe/assets/134560396/8ced73ad-4da1-4a08-a25f-4b6b217ccbb7)
+
+
+User Goal: Como usuario, deseo realizar el pago de mi sesión. 
+Para lograrlo, primero accedo a la página de inicio, luego voy a la sección de finanzas y selecciono la boleta electrónica donde puedo ver el monto y los datos específicos de mi sesión y el pago a realizar. Si tengo suficiente saldo para efectuar el pago, aparecerá un mensaje de "Pago exitoso"; de lo contrario, recibiré un mensaje que indique "Vuelve e inténtalo de nuevo”.
+
+![5](https://github.com/MindCare-Panqueque/Informe/assets/134560396/562a0b58-23da-41ef-a4a3-1f1c9832b338)
+
+
+User Goal: Como usuario quiero comunicarme por mensajería con mi psicólogo de preferencia.
+Para lograrlo, el usuario debe ingresar a la sección de Mensajes, donde podrá visualizar todas las conversaciones que tiene con sus psicólogos, además tiene la opción de iniciar conversaciones nuevas con algún psicólogo que haya reservado su cita.
+
+![6](https://github.com/MindCare-Panqueque/Informe/assets/134560396/d32a5ede-6874-456d-a882-15453c110ce3)
+
+
+User Goal: Como usuario quiero poder acceder a el soporte técnico 
+Para poder lograrlo, el usuario ingresará a la sección de Soporte Técnico, y podrá interactuar con un chat bot que le ayudará a primera instancia con respuestas predeterminadas, si esto no es de suficiente agrado al usuario, se le proporcionará una ayuda de un asesor humano.
+
+![7](https://github.com/MindCare-Panqueque/Informe/assets/134560396/4c5a302a-5024-4a49-935e-3e0bc3cbb0cf)
+
 
 ## 4.5. Web Applications Prototyping.
 
-> Prototipo de Aplicación Web: "MindCare"
->
-> Página de Inicio:
+Link al prototipo de Aplicación Web: [MindCare](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210778_upc_edu_pe/ET_KLXK0o8BNibOmcdwaPncBBaonWqPxgbIjvULdxjfiyw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AZ308y)
 
-- Bienvenida y Descripción: Una breve introducción a MindCare,
-  destacando su enfoque en brindar un espacio seguro y confiable para
-  profesionales en salud mental y pacientes.
+![prototyping](https://github.com/MindCare-Panqueque/Informe/assets/134560396/5dccc267-1307-47ae-8794-c1e9a848248e)
 
-- Registro/Inicio de Sesión: Opciones claras para que los profesionales
-  en salud mental y los pacientes puedan registrarse o iniciar sesión en
-  sus cuentas respectivas.
+Página de Inicio:
 
-> Perfil del Profesional:
+Bienvenida y Descripción: Una breve introducción a MindCare, destacando su enfoque en brindar un espacio seguro y confiable para profesionales en salud mental y pacientes.
 
-- Perfil Personal: Detalles del perfil del profesional, incluyendo su
-  nombre, especialización, experiencia y calificaciones.
+Registro/Inicio de Sesión: Opciones claras para que los profesionales en salud mental y los pacientes puedan registrarse o iniciar sesión en sus cuentas respectivas.
 
-- Disponibilidad: Calendario donde los profesionales pueden administrar
-  sus horarios y establecer su disponibilidad para citas.
+Perfil del Profesional:
+Perfil Personal: Detalles del perfil del profesional, incluyendo su nombre, fecha de nacimiento, DNI, género. etc.
 
-- Conexión con Pacientes: Funcionalidad para recibir y gestionar
-  solicitudes de citas de los pacientes.
+Conexión con Pacientes: Funcionalidad para gestionar las citas de los pacientes.
 
-- Recursos y Herramientas: Acceso a recursos y herramientas útiles para
-  la práctica clínica, como artículos, guías y herramientas de
-  evaluación.
+Reuniones: Funcionalidad para poder administrar las sesiones que tendrá el psicólogo con el paciente, así como poder visualizar las grabaciones de la misma.
 
-> Perfil del Paciente:
 
-- Perfil Personal: Detalles del perfil del paciente, incluyendo
-  información básica y preferencias.
+Perfil del Paciente:
 
-- Búsqueda de Profesionales: Funcionalidad para buscar y filtrar
-  profesionales en salud mental por especialización, ubicación y
-  disponibilidad.
+Perfil Personal: Detalles del perfil del paciente, incluyendo información básica y preferencias.
 
-- Reserva de Citas: Calendario donde los pacientes pueden ver la
-  disponibilidad de los profesionales y reservar citas según su
-  conveniencia.
+Búsqueda de Profesionales: Funcionalidad para buscar y filtrar profesionales en salud mental por nombre.
 
-- Recursos de Salud Mental: Acceso a recursos educativos sobre salud
-  mental, incluyendo artículos, videos y ejercicios prácticos.
+Gestión de Citas: Galería donde los pacientes pueden ver las citas programadas con diferentes psicólogos que haya escogido tener.
 
-> Funcionalidades Generales:
+Funcionalidades Generales:
 
-- Chat Seguro: Sistema de mensajería integrado que permite a
-  profesionales y pacientes comunicarse de forma segura y confidencial.
+Chat Seguro: Sistema de mensajería integrado que permite a profesionales y pacientes comunicarse de forma segura y confidencial.
 
-- Notificaciones Personalizadas: Notificaciones automáticas sobre citas
-  programadas, mensajes recibidos y actualizaciones de la plataforma.
+Calendario Integrado: Calendario que muestra las citas programadas y eventos importantes para ambos, profesionales y pacientes.
 
-- Calendario Integrado: Calendario que muestra las citas programadas y
-  eventos importantes para ambos, profesionales y pacientes.
+Finanzas: Funcionalidad de cobro de las sesiones entre el psicólogo y paciente.
 
-- Historial de Sesiones: Registro de todas las sesiones realizadas,
-  incluyendo notas del profesional y retroalimentación del paciente.
+Contacto y Soporte:
 
-> Página de Recursos:
+Formulario de Contacto: Formulario donde los usuarios pueden enviar consultas, sugerencias o reportar problemas técnicos.
 
-- Artículos y Guías: Recopilación de artículos y guías escritas por
-  profesionales en salud mental sobre una variedad de temas
-  relacionados.
+Soporte Técnico: Información de contacto para recibir soporte técnico en caso de problemas con la aplicación mediante un chatbot o 
+asesor humano.
 
-- Videos y Podcasts: Biblioteca de contenido multimedia, incluyendo
-  videos educativos y podcasts sobre salud mental y bienestar emocional.
+Footer:
 
-- Herramientas de Autoayuda: Herramientas interactivas y ejercicios
-  prácticos diseñados para ayudar a los usuarios a gestionar su
-  bienestar emocional.
+Enlaces a políticas de privacidad, términos de servicio y redes sociales de la empresa.
 
-> Contacto y Soporte:
 
-- Formulario de Contacto: Formulario donde los usuarios pueden enviar
-  consultas, sugerencias o reportar problemas técnicos.
-
-- Preguntas Frecuentes: Sección con respuestas a preguntas comunes sobre
-  el uso de la plataforma y los servicios ofrecidos.
-
-- Soporte Técnico: Información de contacto para recibir soporte técnico
-  en caso de problemas con la aplicación.
-
-> Footer:
-
-- Enlaces a políticas de privacidad, términos de servicio y redes
-  sociales de la empresa.
 
 ## 4.6. Domain-Driven Software Architecture. 
 
@@ -1721,6 +1858,38 @@ Tabla para poder identificarnos:
 
 ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/8324ae1c-c2a1-487b-9d65-0fd5870b6d79)
 
-Enlace para acceder a la landing page:https://mindcare-panqueque.github.io/MindCare-LandingPage/
+# Conclusiones
+El desarrollo de MindCare ha sido un proceso desafiante pero gratificante. El equipo ha demostrado un gran compromiso, trabajo en equipo y capacidad para resolver problemas, logrando identificar las necesidades de los usuarios, diseñar una plataforma fácil de usar, desarrollar una plataforma robusta, probar y validar la plataforma.
 
-Video exposicion TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210778_upc_edu_pe/EeLAAyU7LRJCiLIMK0e_ItMBjm98u7Da-aDZBhOVb174qA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=KdiYfN
+A lo largo del proyecto, el equipo ha adquirido valiosa experiencia en metodología de desarrollo de software, trabajo en equipo y resolución de problemas. Se recomiendan para futuros proyectos involucrar a los usuarios desde el principio, realizar pruebas continuas, ser flexible y adaptable a los cambios, y comunicarse de manera efectiva.
+
+En conclusión, el desarrollo de esta plataforma digital ha sido una experiencia enriquecedora que ha permitido al equipo aprender, crecer y fortalecer sus habilidades. Las lecciones aprendidas y las recomendaciones para futuros proyectos servirán como base sólida para el desarrollo de iniciativas futuras, con el objetivo de continuar conectando a personas que buscan apoyo en salud mental con profesionales calificados y comprometidos con su bienestar.
+
+# Bibliografía
+
+Gómez, A. V. (2024, 14 enero). “Perú es un país deprimido”: los elevados costos de consultas psicológicas impactan en la salud mental de la población. Infobae. [https://www.infobae.com/peru/2024/01/13/peru-es-un-pais-deprimido-los-elevados-costos-de-consultas-psicologicas-impactan-en-la-salud-mental-de-la-poblacion/](https://www.infobae.com/peru/2024/01/13/peru-es-un-pais-deprimido-los-elevados-costos-de-consultas-psicologicas-impactan-en-la-salud-mental-de-la-poblacion/)
+
+Lr, R. (s. f.). Sin cobertura para salud mental: aseguradoras privadas excluyen tratamientos y el Estado no se da abasto. [https://data.larepublica.pe/sin-cobertura-para-salud-mental-aseguradoras-privadas-excluyen-tratamientos-y-el-estado-no-se-da-abasto/#:~:text=Las%20brechas%20de%20acceso%20a%20la%20salud,y%20la%20mayor%C3%ADa%20se%20concentra%20en%20Lima](https://data.larepublica.pe/sin-cobertura-para-salud-mental-aseguradoras-privadas-excluyen-tratamientos-y-el-estado-no-se-da-abasto/#:~:text=Las%20brechas%20de%20acceso%20a%20la%20salud,y%20la%20mayor%C3%ADa%20se%20concentra%20en%20Lima)
+
+
+Molero, J. (2023, 24 febrero). ¿Cuál es la situación actual de la salud mental en el Perú? Peru21.
+[https://peru21.pe/vida/salud/cual-es-la-situacion-actual-de-la-salud-mental-en-el-peru-salud-mental-salud-mental-en-el-peru-trastornos-mentales-depresion-ansiedad-articulo-noticia/#:~:text=De%20acuerdo%20a%20la%20informaci%C3%B3n%20del%20Ministerio,por%20falta%20de%20atenci%C3%B3n%20m%C3%A9dica%20o%20estigmatizaci%C3%B3n](https://peru21.pe/vida/salud/cual-es-la-situacion-actual-de-la-salud-mental-en-el-peru-salud-mental-salud-mental-en-el-peru-trastornos-mentales-depresion-ansiedad-articulo-noticia/#:~:text=De%20acuerdo%20a%20la%20informaci%C3%B3n%20del%20Ministerio,por%20falta%20de%20atenci%C3%B3n%20m%C3%A9dica%20o%20estigmatizaci%C3%B3n)
+
+Stakeholders. (2017, 28 abril). Salud mental: ¿Cuál es su situación real en el Perú? Stakeholders. 
+[https://stakeholders.com.pe/noticias-sh/salud-mental-cual-es-la-situacion-real-en-el-peru/#:~:text=El%20escenario%20actual%20De%20acuerdo%20con%20cifras,15%%20se%20vincula%20con%20trastornos%20m%C3%A1s%20complejos](https://stakeholders.com.pe/noticias-sh/salud-mental-cual-es-la-situacion-real-en-el-peru/#:~:text=El%20escenario%20actual%20De%20acuerdo%20con%20cifras,15%%20se%20vincula%20con%20trastornos%20m%C3%A1s%20complejos)
+
+
+Tiffin University. (2023, 6 julio). El impacto de las nuevas tecnologías en la psicología - Tiffin University.[https://global.tiffin.edu/noticias/como-las-nuevas-tecnologias-estan-impactando-en-la-psicologia](https://global.tiffin.edu/noticias/como-las-nuevas-tecnologias-estan-impactando-en-la-psicologia)
+
+World Health Organization: WHO. (2022, 17 junio). Salud mental: fortalecer nuestra respuesta. [https://www.who.int/es/news-room/fact-sheets/detail/mental-health-strengthening-our-response](https://www.who.int/es/news-room/fact-sheets/detail/mental-health-strengthening-our-response)
+
+
+
+# Anexos
+Enlace para acceder a la landing page: [https://mindcare-panqueque.github.io/MindCare-LandingPage/](https://mindcare-panqueque.github.io/MindCare-LandingPage/)
+
+Video exposición TB1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210778_upc_edu_pe/EeLAAyU7LRJCiLIMK0e_ItMBjm98u7Da-aDZBhOVb174qA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=KdiYfN](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210778_upc_edu_pe/EeLAAyU7LRJCiLIMK0e_ItMBjm98u7Da-aDZBhOVb174qA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=KdiYfN)
+
+Enlace para acceder a los diagramas de UserFlow y Wireflow: [https://lucid.app/lucidchart/7bdb2af3-d389-4575-988b-564a9c687ecc/edit?view_items=B1jwHUFhGa_Z&invitationId=inv_afca453b-0529-4128-a2eb-140834216d51](https://lucid.app/lucidchart/7bdb2af3-d389-4575-988b-564a9c687ecc/edit?view_items=B1jwHUFhGa_Z&invitationId=inv_afca453b-0529-4128-a2eb-140834216d51)
+
+Enlace para acceder a la Web Application: [https://www.figma.com/file/0xo82rO3Xi1Ma54503YrsT/MindCare?type=design&node-id=24%3A86&mode=design&t=1BGyPqcLkGcEoJ0M-1](https://www.figma.com/file/0xo82rO3Xi1Ma54503YrsT/MindCare?type=design&node-id=24%3A86&mode=design&t=1BGyPqcLkGcEoJ0M-1)
