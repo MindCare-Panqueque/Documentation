@@ -60,157 +60,85 @@ URL del repositorio del proyecto:[https://github.com/MindCare-Panqueque](https:/
 # Contenido
 
 **Capítulo I: Introducción**
-
-> 1.1. Startup Profile
->
-> 1.1.1. Descripción de la Startup
->
-> 1.1.2. Perfiles de integrantes del equipo
->
-> 1.2. Solution Profile
->
-> 1.2.1 Antecedentes y problemática
->
-> 1.2.2 Lean UX Process.
->
-> 1.2.2.1. Lean UX Problem Statements.
->
-> 1.2.2.2. Lean UX Assumptions.
->
-> 1.2.2.3. Lean UX Hypothesis Statements.
->
-> 1.2.2.4. Lean UX Canvas.
->
-> 1.3. Segmentos objetivo.
+1.1. Startup Profile
+1.1.1. Descripción de la Startup
+1.1.2. Perfiles de integrantes del equipo
+1.2. Solution Profile
+1.2.1 Antecedentes y problemática
+1.2.2 Lean UX Process.
+1.2.2.1. Lean UX Problem Statements.
+1.2.2.2. Lean UX Assumptions.
+1.2.2.3. Lean UX Hypothesis Statements.
+1.2.2.4. Lean UX Canvas.
+1.3. Segmentos objetivo.
 
 **Capítulo II: Requirements Elicitation & Analysis.**
-
-> 2.1. Competidores.
->
-> 2.1.1. Análisis competitivo.
->
-> 2.1.2. Estrategias y tácticas frente a competidores.
->
-> 2.2. Entrevistas.
->
-> 2.2.1. Diseño de entrevistas.
->
-> 2.2.2. Registro de entrevistas.
->
-> 2.2.3. Análisis de entrevistas.
->
-> 2.3. Needfinding.
->
-> 2.3.1. User Personas
->
-> 2.3.2. User Task Matrix.
->
-> 2.3.3. User Journey Mapping
->
-> 2.3.4. Empathy Mapping
->
-> 2.3.5. As-is Scenario Mapping
->
-> 2.4. Ubiquitous Language (Barbs)
+2.1. Competidores.
+2.1.1. Análisis competitivo.
+2.1.2. Estrategias y tácticas frente a competidores.
+2.2. Entrevistas.
+2.2.1. Diseño de entrevistas.
+2.2.2. Registro de entrevistas.
+2.2.3. Análisis de entrevistas.
+2.3. Needfinding.
+2.3.1. User Personas
+2.3.2. User Task Matrix.
+2.3.3. User Journey Mapping
+2.3.4. Empathy Mapping
+2.3.5. As-is Scenario Mapping
+2.4. Ubiquitous Language (Barbs)
 
 **Capítulo III: Requirements Specification.**
-
-> 3.1. To-Be Scenario Mapping.
->
-> 3.2. User Stories.
->
-> 3.3. Impact Mapping.
->
-> 3.4. Product Backlog.
+3.1. To-Be Scenario Mapping.
+3.2. User Stories.
+3.3. Impact Mapping.
+3.4. Product Backlog.
 
 **Capítulo IV: Product Design.**
-
-> 4.1. Style Guidelines.
->
-> 4.1.1. General Style Guidelines.
->
-> 4.1.2. Web Style Guidelines
->
-> 4.2. Information Architecture.
->
-> 4.2.1. Organization Systems.
->
-> 4.2.2. Labeling Systems.
->
-> 4.2.3. SEO Tags and Meta Tags
->
-> 4.2.4. Searching Systems.
->
-> 4.2.5. Navigation Systems.
->
-> 4.3. Landing Page UI Design.
->
-> 4.3.1. Landing Page Wireframe
->
-> 4.3.2. Landing Page Mock-up
->
-> 4.4. Web Applications UX/UI Design
->
-> 4.4.1. Web Applications Wireframes
->
-> 4.4.2. Web Applications Wireflow Diagrams Diagrams.
->
-> 4.4.2. Web Applications Mock-ups.
->
-> 4.4.3. Web Applications User Flow Diagrams.
->
-> 4.5. Web Applications Prototyping.
->
-> 4.6. Domain-Driven Software Architecture
->
-> 4.6.1. Software Architecture Context Diagram
->
-> 4.6.2. Software Architecture Container Diagrams
->
-> 4.6.3. Software Architecture Components Diagrams
->
-> 4.7. Software Object-Oriented Design
->
-> 4.7.1. Class Diagrams.
->
-> 4.7.2. Class Dictionary.
->
-> 4.8. Database Design.
->
-> 4.8.1. Database Diagram.
+4.1. Style Guidelines.
+4.1.1. General Style Guidelines.
+4.1.2. Web Style Guidelines
+4.2. Information Architecture.
+4.2.1. Organization Systems.
+4.2.2. Labeling Systems.
+4.2.3. SEO Tags and Meta Tags
+4.2.4. Searching Systems.
+4.2.5. Navigation Systems.
+4.3. Landing Page UI Design.
+4.3.1. Landing Page Wireframe
+4.3.2. Landing Page Mock-up
+4.4. Web Applications UX/UI Design
+4.4.1. Web Applications Wireframes
+4.4.2. Web Applications Wireflow Diagrams Diagrams.
+4.4.2. Web Applications Mock-ups.
+4.4.3. Web Applications User Flow Diagrams.
+4.5. Web Applications Prototyping.
+4.6. Domain-Driven Software Architecture
+4.6.1. Software Architecture Context Diagram
+4.6.2. Software Architecture Container Diagrams
+4.6.3. Software Architecture Components Diagrams
+4.7. Software Object-Oriented Design
+4.7.1. Class Diagrams.
+4.7.2. Class Dictionary.
+4.8. Database Design.
+4.8.1. Database Diagram.
 
 **Capítulo V: Product Implementation, Validation & Deployment.**
-
-> 5.1. Software Configuration Management.
->
-> 5.1.1. Software Development Environment Configuration.
->
-> 5.1.2. Source Code Management.
->
-> 5.1.3. Source Code Style Guide & Conventions.
->
-> 5.1.4. Software Deployment Configuration.
->
-> 5.2. Landing Page, Services & Applications Implementation.
->
-> 5.2.1. Sprint 1
->
-> 5.2.1.1. Sprint Planning 1.
->
-> 5.2.1.2. Sprint Backlog 1.
->
-> 5.2.1.3. Development Evidence for Sprint Review
->
-> 5.2.1.4. Testing Suite Evidence for Sprint Review
->
-> 5.2.1.5. Execution Evidence for Sprint Review
->
-> 5.2.1.6. Services Documentation Evidence for Sprint Review
->
-> 5.2.1.7. Software Deployment Evidence for Sprint Review
->
-> 5.2.1.8. Team Collaboration Insights during Spring
-
+5.1. Software Configuration Management.
+5.1.1. Software Development Environment Configuration.
+5.1.2. Source Code Management.
+5.1.3. Source Code Style Guide & Conventions.
+5.1.4. Software Deployment Configuration.
+5.2. Landing Page, Services & Applications Implementation.
+5.2.1. Sprint 1
+5.2.1.1. Sprint Planning 1.
+5.2.1.2. Sprint Backlog 1.
+5.2.1.3. Development Evidence for Sprint Review
+5.2.1.4. Testing Suite Evidence for Sprint Review
+5.2.1.5. Execution Evidence for Sprint Review
+5.2.1.6. Services Documentation Evidence for Sprint Review
+5.2.1.7. Software Deployment Evidence for Sprint Review
+5.2.1.8. Team Collaboration Insights during Spring
 
 
 ### Studen Outcome
@@ -300,37 +228,39 @@ puntos y actividades con respecto a este proyecto.
 Con el propósito de obtener una comprensión más profunda de las necesidades de nuestros dos segmentos, emplearemos la técnica de las "5W y 2H" para examinar los antecedentes históricos y los desafíos asociados. A continuación, compartimos la información recopilada.
 •	What (Qué):
 ¿Cuál es la relación del problema con las personas?
-El problema al que se dirige esta plataforma está relacionado con la dificultad que enfrentan las personas para acceder a servicios de salud mental de manera conveniente y confiable, así como gozar de los beneficios que ofrece llevar una vida de terapia psicológica con profesionales de primera.
+Antes de la existencia de nuestra solución, los usuarios enfrentaban dificultades significativas para acceder a servicios de salud mental convenientes y confiables. Esto resultaba en una falta de apoyo profesional para abordar problemas emocionales y mentales, lo que podía llevar a un deterioro en su bienestar psicológico y emocional.
 
 •	When (Cuándo):
 ¿Cuándo sucede el problema?
-El problema de sentirse sin herramientas para poder enfrentar problemas de salud mental puede surgir en cualquier momento en el que una persona necesite apoyo o atención.
+El problema de acceso limitado a servicios de salud mental podría surgir en cualquier momento en que los usuarios necesitarán apoyo o atención para enfrentar desafíos emocionales y mentales. Esta falta de acceso a menudo se manifestaba en momentos de crisis o estrés, cuando la ayuda profesional era crucial pero difícil de obtener.
 
 ¿Cuándo utiliza el cliente el servicio?
-Los clientes pueden utilizar el servicio en momentos de estrés, ansiedad, depresión u otros problemas de salud mental que busquen tratar o buscar consejos profesionales de cómo controlarlos, así como en momentos programados para citas y sesiones terapéuticas.
+Antes de utilizar nuestra solución, los clientes podían recurrir a opciones limitadas y a menudo inadecuadas, como largas listas de espera para citas con profesionales de la salud mental, servicios costosos y no siempre accesibles, o la falta de opciones de tratamiento personalizado.
 
 •	Where (Dónde):
 ¿Dónde está el cliente cuando usa el producto?
-Los clientes pueden usar el producto desde cualquier lugar con acceso a internet, como sus hogares, lugares de trabajo o cualquier otro entorno privado. Pues nuestra plataforma busca atender las necesidades de nuestros pacientes en cualquier momento del día.
+Los clientes se encontraban no solo en sus hogares, sino también en sus lugares de trabajo, donde acceder instantáneamente a ayuda profesional era un desafío que a menudo resultaba en la decisión de no buscar ayuda con psicólogos. Esto se debía a la falta de adaptación de los servicios de psicología a entornos virtuales, lo que dificultaba aún más el acceso a la ayuda necesaria.
 
 •	Who (Quién):
 ¿Quiénes están involucrados?
-Los principales involucrados en este contexto son los profesionales en salud mental, que abarcan psicólogos, psiquiatras, terapeutas y consejeros, quienes ofrecen sus servicios a través de nuestra plataforma digital. Además, los pacientes que buscan apoyo para enfrentar una variedad de desafíos emocionales y mentales también forman parte fundamental de nuestro ecosistema.
+Antes de nuestra solución, los principales involucrados incluían a los usuarios que buscaban apoyo para problemas emocionales y mentales, así como a los profesionales de la salud mental que intentaban proporcionar servicios en un sistema que a menudo era ineficiente y limitado en recursos.
 
 ¿Quién lo utilizará?
-La plataforma está diseñada específicamente para que la utilicen profesionales en salud mental que deseen ofrecer sus servicios a pacientes que requieran atención sobre sus problemas emocionales y personas que buscan apoyo para tratar profesionalmente su bienestar emocional.
+Los más afectados por la falta de acceso eran aquellos usuarios que enfrentaban desafíos emocionales y mentales sin el apoyo adecuado: los pacientes en busca de ayuda y orientación. A su vez, los profesionales que ofrecen esta ayuda, como los psicólogos. Además, según el Plan de Fortalecimiento de la Salud Mental Comunitaria 2018-2021, existen 265 psiquiatras por cada Diresa del Minsa para atender a más 33 millones de habitantes. La mayoría de ellos se concentran en Lima Metropolitana. (Lr, s. f.-b)
+![antecedentes-imagen](https://github.com/MindCare-Panqueque/Informe/assets/134560396/556231f2-5b45-424c-8d3f-a7864391aa44)
+_Fuente: La republica_
 
 •	Why (Por qué):
 
 ¿Cuál es la causa del problema?
-La causa del problema puede ser la falta de acceso fácil y confiable a servicios de salud mental, esto puede estar vinculado a la escasez de recursos en ciertas áreas geográficas, largos tiempos de espera para citas con profesionales de la salud mental y limitaciones en los sistemas de atención médica pública o privada. De la misma manera, otra causa es la estigmatización asociada con buscar ayuda para problemas de salud mental, pues, el miedo al juicio de los demás, la preocupación por el impacto en la carrera profesional, y la falta de comprensión sobre la salud mental pueden contribuir a esta estigmatización.
+La falta de acceso a servicios de salud mental adecuados estaba vinculada a una serie de factores, incluida la escasez de recursos en ciertas áreas geográficas, largos tiempos de espera para citas, estigmatización asociada con buscar ayuda y limitaciones en los sistemas de atención médica pública o privada. Según Infobae Perú, pedir ayuda psicológica frecuentemente se ve como una señal de debilidad, relegando el cuidado de la salud mental a un segundo plano (Gómez, 2024).
 
 •	How (Cómo):
 ¿En qué condiciones los clientes usan nuestro producto?
-Los clientes pueden usar el producto en momentos de necesidad o según sus horarios disponibles. Pueden utilizar la plataforma cada vez que busquen tratar su problema emocional con un profesional confiable. Básicamente, las condiciones pueden ser diversas, desde situaciones cotidianas sobre los problemas personales de cada uno como en situaciones específicas donde signifique seguir exhaustivamente un tratamiento.
+Los clientes enfrentaban el problema en condiciones de estrés, ansiedad, depresión u otras condiciones de salud mental, a menudo exacerbadas por la falta de acceso a servicios de salud mental adecuados. Esto podría llevar a un deterioro en su salud mental y emocional.
 
-¿Cómo nos conocieron los compradores?
-Los compradores pueden conocer el servicio a través de publicidad en línea, recomendaciones de profesionales de la salud, redes sociales, etc. Además, los médicos de atención primaria, los psicólogos y otros especialistas en salud mental pueden referir a sus pacientes a nuestra plataforma como una opción confiable para recibir atención especializada.
+¿Cómo conocían los clientes sobre servicios similares?
+Los clientes podían conocer sobre servicios similares a través de recomendaciones de amigos o familiares, búsquedas en línea, publicidad tradicional, etc. Sin embargo, la falta de opciones accesibles y confiables a menudo dificultaba su búsqueda de ayuda adecuada.
 
 ¿Cómo prefieren los lectores acceder a nuestro contenido?
 Los lectores pueden preferir acceder al contenido a través de nuestra aplicación, pues proporciona una plataforma fácil de usar para interactuar con toda la comunidad y recibir notificaciones personalizadas sobre actualizaciones de los servicios que tenemos.
@@ -342,14 +272,17 @@ Las personas pueden encontrarse en situaciones de estrés, ansiedad, depresión 
 ¿Cuánto están dispuestos a pagar los clientes por el servicio?
 Es posible ofrecer opciones de pago flexibles, como paquetes de sesiones o planes de suscripción, para adaptarse a las diferentes necesidades y presupuestos de los clientes. Nuestra plataforma está muy bien equipada con herramientas que tanto los psicólogos como pacientes podrán gozar y todo dependerá de los planes de suscripción de cada usuario.
 
+
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
+El propósito es mejorar el acceso a servicios de salud mental tanto para individuos que enfrentan desafíos emocionales y mentales como para profesionales de la salud mental, proporcionando una solución confiable y conveniente que se adapte a las necesidades específicas de ambas partes.
 
-El problema al que nos dirigimos con nuestra plataforma es la dificultad que enfrentan las personas para acceder a cuidado psicológico de manera conveniente y confiable. Esto se debe a la falta de recursos en ciertas áreas geográficas, largos tiempos de espera para citas con profesionales de la salud mental y limitaciones en los sistemas de atención médica pública o privada, así como la estigmatización asociada con buscar ayuda para problemas de salud mental. Por otro lado, las personas se encuentran en situaciones de estrés, ansiedad, depresión u otras condiciones de salud mental debido a una variedad de factores personales, laborales y familiares, lo que hace que busquen apoyo profesional, pero a menudo se sienten limitados por estas barreras.
+Es difícil encontrar servicios de salud mental buenos y confiables. A veces, las personas tienen que esperar mucho tiempo para conseguir una cita, o no pueden encontrar un terapeuta que se adapte a sus necesidades. Además, para los psicólogos, es complicado hacerse conocer y establecer su práctica. La competencia es fuerte y puede ser difícil para ellos encontrar y retener clientes. Sumado a esto, la falta de conocimiento sobre cómo promocionarse en línea y adaptarse a las nuevas tecnologías también representa un desafío para muchos psicólogos.
 
-Nuestra plataforma busca abordar estas preocupaciones al ofrecer un espacio digital seguro y confiable para profesionales en salud mental y para aquellos que buscan apoyo. Con herramientas para administrar horarios, conectarse con pacientes interesados y acceso a una red de expertos en diversas áreas de la salud mental, buscamos proporcionar atención y apoyo adecuados a los pacientes, junto con recursos e información precisa sobre el cuidado de la salud mental.
+Hemos observado que, tanto las personas que buscan ayuda como los psicólogos tienen problemas. Las personas se sienten más estresadas y deprimidas porque no pueden encontrar ayuda cuando la necesitan. Y para los psicólogos, puede ser difícil conseguir clientes y hacer que su práctica despegue. Además, muchos psicólogos tienen dificultades para adaptarse al mundo en línea y promover sus servicios en la comunidad. Esto puede llevar a que muchas personas no encuentren la ayuda que necesitan y a que los psicólogos luchen por establecer una base de clientes sólida.
 
-	¿Cómo podemos ayudar ?
+¿Cómo podemos hacer que sea más fácil para las personas encontrar ayuda rápida y confiable para sus problemas mentales y emocionales? Y, al mismo tiempo, ¿cómo podemos ayudar a los psicólogos a conseguir más clientes, a hacer crecer sus prácticas y a adaptarse mejor al entorno en línea, para que puedan llegar a más personas y ofrecer su ayuda de manera efectiva?
+
 
 #### 1.2.2.2. Lean UX Assumptions
 
@@ -408,9 +341,13 @@ Para los pacientes, nuestra plataforma ofrece la garantía de acceder a profesio
 |                                                            | Oportunidades                                                                                                                                 | Reducir barreras y problemas relacionados con la búsqueda de atención psicológica                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Competencia en línea y dependencia tecnológica                                                                                   | Limitaciones de la terapia en línea, costo para los terapeutas                                                           | Dependencia de la plataforma web y competencia en línea                                                                       |
 |                                                            | Amenazas                                                                                                                                      | Competencia de otras plataformas similares de telepsicología, así como de servicios de atención médica tradicionales                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Cambios en las regulaciones y competencia creciente                                                                              | Regulaciones cambiantes, competencia creciente                                                                           | Cambios en las regulaciones y competencia creciente                                                                           |
 
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
-Para destacarnos en el competitivo mercado de salud mental y emocional, nuestras estrategias se centran en la diferenciación de nuestra plataforma, colaboraciones estratégicas, innovación continua y enfoque en la experiencia del usuario. Nos distinguimos por nuestra accesibilidad y conveniencia, junto con una interfaz intuitiva y herramientas avanzadas de colaboración. Estableceremos asociaciones con empresas para ofrecer programas de bienestar a empleados, aprovechando nuestra amplia gama de servicios. Nos comprometemos a mantenernos a la vanguardia tecnológica, superando las resistencias al cambio con capacitación y soporte para profesionales. Además, nos esforzaremos por mejorar constantemente la experiencia del usuario, recopilando comentarios y realizando actualizaciones para abordar barreras en la búsqueda de atención psicológica. Estas estrategias nos permitirán fortalecer nuestra posición en el mercado y ofrecer un valor excepcional a nuestra audiencia.
+Por ello para dar frente a las plataformas que ya cuentan con tiempo y ser competitivos en el mercado de la salud mental y emocional, buscamos ofrecer un espacio digital donde las personas que requieran el apoyo de un profesional para solucionar algún problema que estén afrontando puedan establecer este contacto y recibir la ayuda que requieran, teniendo una atención de calidad garantizada. Además, el psicólogo contará con un espacio donde podrá visualizar a todos sus pacientes de forma organizada teniendo una gestión limpia que les facilitará el poder seguir sus casos.
+
+Para destacarnos en el competitivo mercado de salud mental y emocional, nuestras estrategias se centran en la diferenciación de nuestra plataforma, colaboraciones estratégicas, innovación continua y enfoque en la experiencia del usuario. Nos distinguimos por nuestra accesibilidad y conveniencia, junto con una interfaz intuitiva y herramientas avanzadas de colaboración. Estableceremos asociaciones con empresas para ofrecer programas de bienestar a empleados, aprovechando nuestra amplia gama de servicios. Nos comprometemos a mantenernos a la vanguardia tecnológica, superando las resistencias al cambio con capacitación y soporte para profesionales. Además, nos esforzamos por mejorar constantemente la experiencia del usuario, recopilando comentarios y realizando actualizaciones para abordar barreras en la búsqueda de atención psicológica. Estas estrategias nos permitirán fortalecer nuestra posición en el mercado y ofrecer un valor excepcional a nuestra audiencia.
+
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
@@ -469,14 +406,44 @@ Duración: 9:47
 Resumen:
 El psicólogo Fabián comentó que uno de los desafíos más frecuentes a los que se enfrenta es al estigma asociado a buscar ayuda. Ahora, la manera en la que trabaja, generalmente utiliza herramientas digitales para gestionar horarios y conectarse con los pacientes. Prioriza la seguridad y confiabilidad al elegir plataformas de servicio. La tecnología es fundamental en su práctica diaria, desde tomar notas hasta grabar sesiones. Él intenta promover la normalización de la asistencia psicológica a través de publicaciones en línea. Así mismo, garantiza la confidencialidad de los pacientes y se mantiene actualizado con investigaciones y prácticas. De igual manera, evalúa la efectividad de las sesiones mediante comentarios y referencias de pacientes. Una idea que ofreció fue mejorar la calidad de los servicios digitales, enfocándonos en la privacidad, el anonimato y métodos de pago transparentes.
 
-Segmento de pacientes
+**### Segmento de pacientes**
 
 1.
 Sexo: Masculino
 Edad: 19 años
 Ubicaciones: Callao
-Link: https://drive.google.com/file/d/1UxNvJD1ELRn6rFeu9Q4g0sGyk8q5sZpH/view?usp=sharing 
+Link: [https://drive.google.com/file/d/1UxNvJD1ELRn6rFeu9Q4g0sGyk8q5sZpH/view?usp=sharing](https://drive.google.com/file/d/1UxNvJD1ELRn6rFeu9Q4g0sGyk8q5sZpH/view?usp=sharing )
 Duración: 7:45
+![jimena-fabian-castro](https://github.com/MindCare-Panqueque/Informe/assets/134560396/99626ee2-da48-4e85-8668-5fd6f6421ef3)
+Resumen:
+En una entrevista, Ricardo Rivas compartió su experiencia positiva al buscar apoyo psicológico en línea a través de plataformas de búsqueda de psicólogos. Destacó la conveniencia y accesibilidad de encontrar profesionales calificados desde la comodidad de su hogar, lo que le brindó una sensación de control sobre su proceso de bienestar emocional. Ricardo enfatizó la importancia de sentirse cómodo y conectado con su terapeuta, y encontró que las opciones en línea le proporcionaron una amplia variedad de especialidades para elegir. Esta experiencia le permitió a Ricardo superar barreras geográficas y de tiempo, facilitando su acceso a la atención psicológica cuando más la necesitaba.
+
+Sexo: Masculino
+Edad: 26 años
+Ubicación: Huaral
+Link:[https://drive.google.com/file/d/1F-Q_fHcuICIHxOkiFg04s8OGttceqfsp/view?usp=sharing](https://drive.google.com/file/d/1F-Q_fHcuICIHxOkiFg04s8OGttceqfsp/view?usp=sharing)
+Duración: 4:57
+![sebastian-francesko-montesinos](https://github.com/MindCare-Panqueque/Informe/assets/134560396/f3d8bbaa-f4b1-4e50-8e4f-8278ef601fde)
+Resumen:
+Franchesco Montesinos, un  psicólogo, compartió en una entrevista su experiencia en el campo de la psicología, destacando la importancia de la conexión humana y la empatía en su práctica. Señaló que el uso de plataformas en línea para psicólogos puede ser útil para llegar a más personas y brindar apoyo a aquellos que lo necesitan, pero enfatizó la importancia de mantener un equilibrio entre la tecnología y el contacto personal para ofrecer un tratamiento efectivo y compasivo.
+
+Sexo: Femenino
+Edad: 25 años
+Ubicación: Arequipa
+Link: [https://drive.google.com/file/d/1wAmIM404RD2YmdYmbIlVxO4A2I4i-900/view?usp=sharing](https://drive.google.com/file/d/1wAmIM404RD2YmdYmbIlVxO4A2I4i-900/view?usp=sharing)
+Duración: 15:58
+![barbara-maria-quevedo](https://github.com/MindCare-Panqueque/Informe/assets/134560396/1d1ac33f-4c4c-465d-88fe-bf0f41fbb1cc)
+Resumen: 
+La doctora Mariana Quevedo nos comentó lo difícil que es conectar con otros pacientes, ya que promocionar su trabajo no es tan sencillo como hacerlo con servicios de otras profesiones, como ingeniería, donde se pueden utilizar folletos para llegar a una audiencia más amplia. Además, la falta de una aplicación que pueda gestionar su horario de manera dinámica es la razón por la cual ha tenido problemas con la agenda de sus citas. Por si fuera poco, la doctora Quevedo hace hincapié en la importancia de garantizar seguridad en la relación entre el paciente y el psicólogo en la plataforma. Ella comenta que la encriptación y la autenticación tanto de los psicólogos como de los pacientes son aspectos cruciales.
+
+**### Segmento de pacientes**
+1.
+Sexo: Masculino
+Edad: 19 años
+Ubicación: Callao
+Link: [https://drive.google.com/file/d/1UxNvJD1ELRn6rFeu9Q4g0sGyk8q5sZpH/view?usp=sharing](https://drive.google.com/file/d/1UxNvJD1ELRn6rFeu9Q4g0sGyk8q5sZpH/view?usp=sharing)
+Duración: 7:45
+![sebastian-ricardo](https://github.com/MindCare-Panqueque/Informe/assets/134560396/f549e39a-bd82-4dee-a17f-8292b65ff78c)
 Resumen:
 En una entrevista, Ricardo Rivas compartió su experiencia positiva al buscar apoyo psicológico en línea a través de plataformas de búsqueda de psicólogos. Destacó la conveniencia y accesibilidad de encontrar profesionales calificados desde la comodidad de su hogar, lo que le brindó una sensación de control sobre su proceso de bienestar emocional. Ricardo enfatizó la importancia de sentirse cómodo y conectado con su terapeuta, y encontró que las opciones en línea le proporcionaron una amplia variedad de especialidades para elegir. Esta experiencia le permitió a Ricardo superar barreras geográficas y de tiempo, facilitando su acceso a la atención psicológica cuando más la necesitaba.
 
@@ -485,59 +452,38 @@ Sexo: Masculino
 Edad: 18 años
 Ubicación: Ica
 Duración: 9:00
-
+Link: [https://drive.google.com/file/d/18HcLwNpPgfEgJz8Zi4CQHDRxmg0hkNJg/view?usp=sharing](https://drive.google.com/file/d/18HcLwNpPgfEgJz8Zi4CQHDRxmg0hkNJg/view?usp=sharing)
+Duración: 8:39
+![elias-edgar](https://github.com/MindCare-Panqueque/Informe/assets/134560396/688e0f87-3a92-44cc-8e62-3dd844e25829)
 Resumen:
 En la entrevista, Rodrigo Pisconti Palacios  abordó varios aspectos cruciales sobre la búsqueda de ayuda para problemas de salud mental y la utilización de plataformas de salud mental en línea. 
 De los cuales tenemos:
-
 Desafíos en la Búsqueda de Ayuda: El entrevistado identificó los principales desafíos como el estigma asociado a la salud mental, la falta de recursos o profesionales disponibles en mi área, y las dificultades para encontrar un terapeuta con quien pueda establecer una conexión genuina.    
-
 Importancia en la elección de un terapeuta: Para él, es crucial que el terapeuta o consejero tenga una especialización adecuada en los problemas específicos que estoy enfrentando, además de una actitud empática y un enfoque terapéutico que resuene conmigo.
-
 Preferencia por el Apoyo en Línea: Optó por el apoyo en línea debido a su accesibilidad inmediata, la comodidad de no tener que desplazarse físicamente, y la mayor facilidad para encontrar un terapeuta que se ajuste específicamente a mis necesidades.
-
 Preocupaciones y Obstáculos Acceso a Servicios de Salud Mental: Sus principales preocupaciones incluyen la falta de acceso a servicios asequibles y la escasez de información sobre las opciones de tratamiento disponibles.
 
 3.
-Sexo: Masculino
-Edad: 26 años
-Ubicaciones: Huaral
-Link: https://drive.google.com/file/d/1F-Q_fHcuICIHxOkiFg04s8OGttceqfsp/view?usp=sharing 
-Duración: 4:57
-Resumen:
-Franchesco Montesinos, un  psicólogo, compartió en una entrevista su experiencia en el campo de la psicología, destacando la importancia de la conexión humana y la empatía en su práctica. Señaló que el uso de plataformas en línea para psicólogos puede ser útil para llegar a más personas y brindar apoyo a aquellos que lo necesitan, pero enfatizó la importancia de mantener un equilibrio entre la tecnología y el contacto personal para ofrecer un tratamiento efectivo y compasivo.
-4.
-Sexo:Femenino
-Edad:72
-Ubicaciones:Ventanilla
-Link:hilma mauricio-paciente.mp4
+Sexo: Femenino
+Edad: 72
+Ubicación: Ventanilla
+Link: [https://drive.google.com/file/d/1sH0QoAVbiLKWaVB0LIv0E33WtiGp9KHp/view?usp=drive_link](https://drive.google.com/file/d/1sH0QoAVbiLKWaVB0LIv0E33WtiGp9KHp/view?usp=drive_link)
 Duración: 2:59
+![enzo-hilma](https://github.com/MindCare-Panqueque/Informe/assets/134560396/8298b247-7600-4677-8d6b-8d80986530b3)
 Resumen:
 Durante la entrevista, Hilma Mauricio, una paciente, expresó su deseo de recibir apoyo psicológico para mejorar su calidad de vida. Destacó la importancia de encontrar un especialista en salud mental que le brinde atención personalizada y sesiones altamente confidenciales, ya que desea mantener la privacidad de su tratamiento y evitar que información sensible se divulgue a sus conocidos. Prefiere la modalidad de consulta presencial, considerando que le resulta más práctico para abordar sus problemas de manera efectiva.
 En cuanto a nuestra página web, Hilma enfatizó que valora principalmente la calidad de los especialistas en salud mental que ofrecemos, más que la estética o el diseño del sitio. Aunque no ha podido encontrar un especialista hasta el momento, expresó su interés en utilizar una plataforma en línea donde pueda buscar ayuda psicológica tanto en modalidad presencial como en línea.
 Al finalizar la entrevista, Hilma manifestó su disposición a utilizar una página web que facilite la búsqueda de ayuda psicológica, reconociendo la importancia de tener acceso a profesionales capacitados y confiables.
 
+
 ### 2.2.3. Análisis de entrevistas
 
-Respecto a las entrevistas registradas, realizamos un análisis de estas, donde daremos a conocer los hallazgos que obtuvimos gracias a los psicólogos y a los pacientes.
+Los participantes en el estudio destacaron con frecuencia el estigma asociado a la búsqueda de ayuda psicológica, lo que puede dificultar que las personas den el primer paso para buscar tratamiento. Además, las barreras geográficas y de acceso a los servicios de salud mental tradicionales pueden limitar las opciones disponibles para las personas.
+Sin embargo, la tecnología se presentó como una herramienta crucial para la prestación de servicios de salud mental. Las plataformas en línea pueden ofrecer conveniencia y accesibilidad, superando las barreras físicas y de tiempo. Por ejemplo, la tecnología puede facilitar la gestión de citas, la conectividad con los terapeutas y la grabación de sesiones. Las plataformas en línea también pueden ser útiles para promocionar los servicios de salud mental y llegar a una audiencia más amplia.
+Si bien la tecnología ofrece muchas ventajas, los participantes enfatizaron la importancia de mantener un equilibrio entre la tecnología y el contacto humano en la terapia. Reconocieron que las plataformas en línea pueden ser útiles, pero no deben reemplazar por completo la interacción personal con un terapeuta. La relación terapéutica y la conexión personal con el terapeuta siguen siendo aspectos esenciales de la atención de salud mental efectiva.
+Los participantes valoraron la conveniencia y la accesibilidad de la ayuda psicológica en línea. Poder acceder a servicios desde la comodidad del propio hogar y en un horario flexible puede ser una gran ventaja para muchas personas. Esto puede ser particularmente útil para aquellos que tienen dificultades para acceder a servicios de salud mental tradicionales debido a su ubicación, horario laboral u otras limitaciones.
+La confidencialidad y la conexión personal con el terapeuta fueron aspectos críticos para muchos participantes. Es importante que las personas se sientan seguras y protegidas al compartir información personal con su terapeuta, y que desarrollen una relación de confianza.
 
-En el segmento Psicólogos:
-Integración de tecnología en la práctica de los psicólogos.
-Hallazgos:
-Promoción de la normalización de la asistencia psicológica mediante publicaciones en redes.
-Preocupación por la privacidad y la protección de los datos de los pacientes en el entorno digital.
-
-
-En el segmento Pacientes:
-Buscar psicólogos o especialista de calidad para la mayor satisfacción del paciente 
-
-
-
-Hallazgos: 
-
-La accesibilidad inmediata y la conveniencia de recibir terapia sin desplazamientos físicos son factores significativos que impulsan a los individuos a buscar apoyo en línea.
-
-La habilidad de encontrar terapeutas que no solo posean una especialización relevante sino que también generen una conexión genuina y empática con el paciente es crucial.
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
