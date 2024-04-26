@@ -1,4 +1,3 @@
-<div align="center">
 
 # Universidad Peruana de ciencias aplicadas
 ### Informe del trabajo
@@ -33,9 +32,6 @@ Relación de integrantes:
 
 
 ### Marzo del 2024
-</div>
-
-<div align="justify">
 
 
 | Versión   | Fecha       | Autor      | Descripción                                                                                      
@@ -571,9 +567,9 @@ Segmento Pacientes:
 
 ### 2.3.3. User Journey Mapping. 
 
-![imagen](https://github.com/MindCare-Panqueque/Informe/assets/130580982/d7fa1997-2ef3-4983-88ce-5a028017589c)
+![imagen](https://github.com/MindCare-Panqueque/Informe/assets/130580982/62a44ddd-689f-46b5-9df5-36384c9fd830)
 
-![imagen](https://github.com/MindCare-Panqueque/Informe/assets/130580982/b4b489d4-b819-41f9-83a0-f02ef8256b4d)
+![imagen](https://github.com/MindCare-Panqueque/Informe/assets/130580982/e4a9cd1c-39ae-40fe-9277-651cde3428b6)
 
 ### 2.3.4. Empathy Mapping.
 
@@ -736,7 +732,9 @@ Botones
 
 ### 4.2.1. Organization Systems. 
 
-![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/ca03eca5-e1ea-4bc6-b55e-5d5701162cad)![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/2cdc5d78-8a59-4bd0-a888-94350b207b62)
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/ca03eca5-e1ea-4bc6-b55e-5d5701162cad)
+
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/2cdc5d78-8a59-4bd0-a888-94350b207b62)
 
 
 ### 4.2.2. Labeling Systems.
@@ -826,27 +824,6 @@ de forma clara y fácil de entender para nuestros visitantes y usuarios.
     imagen que se mostrará cuando se comparta tu página en redes
     sociales.* **\<meta property="og:image" content="URL de la
     imagen"\>**
- ##4.2.3. SEO Tags and Meta Tags
-
-- **Título de la Página (Title Tag):** `<title> MINDCARE (Encuentra Psicólogos: Terapia y Asesoramiento Profesional) </title>`
-
-- **Meta Descripción (Meta Description):** `<meta name="description" content="Encuentra psicólogos cerca o lejos de ti para terapia y asesoramiento profesional. Busca por especialización, ubicación y más. ¡Mejora tu bienestar hoy mismo!">`
-
-- **Meta Palabras Clave (Meta Keywords):** Nota: Aunque los motores de búsqueda como Google no suelen considerar las meta palabras clave para clasificar el contenido, aún se puede incluir si se desea. `<meta name="keywords" content="psicólogo, terapia, asesoramiento, salud mental, bienestar, encuentro, ayuda, consejo, consulta">`
-
-- **Meta Etiqueta de Autor (Author Meta Tag):** `<meta name="author" content=" MINDCARE ">`
-
-- **Meta Etiqueta de Robots (Robots Meta Tag):** Nota: Esto ayuda a controlar cómo los motores de búsqueda rastrean e indexan tu sitio. `<meta name="robots" content="index, follow">`
-
-- **Etiqueta Canonical (Canonical Tag):** Si tu sitio tiene contenido duplicado o similar en varias páginas, la etiqueta canonical ayuda a los motores de búsqueda a determinar la página preferida para indexar. `<link rel="canonical" href="URL de la página principal">`
-
-- **Etiqueta hreflang (Hreflang Tag):** Si el sitio está disponible en varios idiomas, estas etiquetas indican a los motores de búsqueda qué versión del contenido mostrar según el idioma del usuario en este caso solo nos especializamos en el idioma español. `<link rel="alternate" hreflang="es" href="URL de la versión en español">`
-
-- **Etiqueta de Título Social (Social Title Tag):** Especificar el título que se mostrará cuando se comparta tu página en redes sociales. `<meta property="og:title" content=" MINDCARE (Encuentra Psicólogos: Terapia y Asesoramiento Profesional)">`
-
-- **Etiqueta de Descripción Social (Social Description Tag):** Especifica la descripción que se mostrará cuando se comparta tu página en redes sociales. `<meta property="og:description" content=" Encuentra psicólogos cerca o lejos de ti para terapia y asesoramiento profesional. Busca por especialización, ubicación y más. ¡Mejora tu bienestar hoy mismo!">`
-
-- **Etiqueta de Imagen Social (Social Image Tag):** Especificar la imagen que se mostrará cuando se comparta tu página en redes sociales. `<meta property="og:image" content="URL de la imagen">`
 
 ### 4.2.4. Searching Systems. 
 
@@ -1757,4 +1734,6 @@ Tabla para poder identificarnos:
 
 ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/8324ae1c-c2a1-487b-9d65-0fd5870b6d79)
 
-</div>
+Enlace para acceder a la landing page:https://mindcare-panqueque.github.io/MindCare-LandingPage/
+
+Video exposicion TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210778_upc_edu_pe/EeLAAyU7LRJCiLIMK0e_ItMBjm98u7Da-aDZBhOVb174qA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=KdiYfN
