@@ -498,24 +498,40 @@ La doctora Mariana Quevedo nos comentó lo difícil que es conectar con otros pa
 
 
 ** Segmento de pacientes**
+
 1.
 Sexo: Masculino
+
 Edad: 19 años
+
 Ubicación: Callao
+
 Link: [https://drive.google.com/file/d/1UxNvJD1ELRn6rFeu9Q4g0sGyk8q5sZpH/view?usp=sharing](https://drive.google.com/file/d/1UxNvJD1ELRn6rFeu9Q4g0sGyk8q5sZpH/view?usp=sharing)
+
 Duración: 7:45
+
 ![sebastian-ricardo](https://github.com/MindCare-Panqueque/Informe/assets/134560396/f549e39a-bd82-4dee-a17f-8292b65ff78c)
+
 Resumen:
+
 En una entrevista, Ricardo Rivas compartió su experiencia positiva al buscar apoyo psicológico en línea a través de plataformas de búsqueda de psicólogos. Destacó la conveniencia y accesibilidad de encontrar profesionales calificados desde la comodidad de su hogar, lo que le brindó una sensación de control sobre su proceso de bienestar emocional. Ricardo enfatizó la importancia de sentirse cómodo y conectado con su terapeuta, y encontró que las opciones en línea le proporcionaron una amplia variedad de especialidades para elegir. Esta experiencia le permitió a Ricardo superar barreras geográficas y de tiempo, facilitando su acceso a la atención psicológica cuando más la necesitaba.
 
-2.
+3.
+
 Sexo: Masculino
+
 Edad: 18 años
+
 Ubicación: Ica
+
 Duración: 9:00
+
 Link: [https://drive.google.com/file/d/18HcLwNpPgfEgJz8Zi4CQHDRxmg0hkNJg/view?usp=sharing](https://drive.google.com/file/d/18HcLwNpPgfEgJz8Zi4CQHDRxmg0hkNJg/view?usp=sharing)
+
 Duración: 8:39
+
 ![elias-edgar](https://github.com/MindCare-Panqueque/Informe/assets/134560396/688e0f87-3a92-44cc-8e62-3dd844e25829)
+
 Resumen:
 En la entrevista, Rodrigo Pisconti Palacios  abordó varios aspectos cruciales sobre la búsqueda de ayuda para problemas de salud mental y la utilización de plataformas de salud mental en línea. 
 De los cuales tenemos:
@@ -524,13 +540,20 @@ Importancia en la elección de un terapeuta: Para él, es crucial que el terapeu
 Preferencia por el Apoyo en Línea: Optó por el apoyo en línea debido a su accesibilidad inmediata, la comodidad de no tener que desplazarse físicamente, y la mayor facilidad para encontrar un terapeuta que se ajuste específicamente a mis necesidades.
 Preocupaciones y Obstáculos Acceso a Servicios de Salud Mental: Sus principales preocupaciones incluyen la falta de acceso a servicios asequibles y la escasez de información sobre las opciones de tratamiento disponibles.
 
-3.
+4.
+
 Sexo: Femenino
+
 Edad: 72
+
 Ubicación: Ventanilla
+
 Link: [https://drive.google.com/file/d/1sH0QoAVbiLKWaVB0LIv0E33WtiGp9KHp/view?usp=drive_link](https://drive.google.com/file/d/1sH0QoAVbiLKWaVB0LIv0E33WtiGp9KHp/view?usp=drive_link)
+
 Duración: 2:59
+
 ![enzo-hilma](https://github.com/MindCare-Panqueque/Informe/assets/134560396/8298b247-7600-4677-8d6b-8d80986530b3)
+
 Resumen:
 Durante la entrevista, Hilma Mauricio, una paciente, expresó su deseo de recibir apoyo psicológico para mejorar su calidad de vida. Destacó la importancia de encontrar un especialista en salud mental que le brinde atención personalizada y sesiones altamente confidenciales, ya que desea mantener la privacidad de su tratamiento y evitar que información sensible se divulgue a sus conocidos. Prefiere la modalidad de consulta presencial, considerando que le resulta más práctico para abordar sus problemas de manera efectiva.
 En cuanto a nuestra página web, Hilma enfatizó que valora principalmente la calidad de los especialistas en salud mental que ofrecemos, más que la estética o el diseño del sitio. Aunque no ha podido encontrar un especialista hasta el momento, expresó su interés en utilizar una plataforma en línea donde pueda buscar ayuda psicológica tanto en modalidad presencial como en línea.
