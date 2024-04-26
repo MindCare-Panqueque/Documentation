@@ -458,6 +458,8 @@ Link: [https://drive.google.com/file/d/1EZDtghFixeNYTTxErvgZ4lRc7WjbvLZe/view?us
 
 Duración: 9:47
 
+![jimena-fabian-castro](https://github.com/MindCare-Panqueque/Informe/assets/134560396/99626ee2-da48-4e85-8668-5fd6f6421ef3)
+
 Resumen:
 El psicólogo Fabián comentó que uno de los desafíos más frecuentes a los que se enfrenta es al estigma asociado a buscar ayuda. Ahora, la manera en la que trabaja, generalmente utiliza herramientas digitales para gestionar horarios y conectarse con los pacientes. Prioriza la seguridad y confiabilidad al elegir plataformas de servicio. La tecnología es fundamental en su práctica diaria, desde tomar notas hasta grabar sesiones. Él intenta promover la normalización de la asistencia psicológica a través de publicaciones en línea. Así mismo, garantiza la confidencialidad de los pacientes y se mantiene actualizado con investigaciones y prácticas. De igual manera, evalúa la efectividad de las sesiones mediante comentarios y referencias de pacientes. Una idea que ofreció fue mejorar la calidad de los servicios digitales, enfocándonos en la privacidad, el anonimato y métodos de pago transparentes.
 
@@ -652,6 +654,20 @@ Aquí, delineamos las mejoras y optimizaciones que hemos implementado para garan
 | EP007   | Funcionalidades técnicas                     |
 
 
+| Story ID | US001 | Título | Interacción con hipervínculos en la landing page | Descripción | Como visitante en MindCare quiero poder interactuar con la landing page. |
+|---|---|---|---|---|---|
+| Epic ID | EP002 | Usuario | Visitante landing |  |  |
+| Criterios de aceptación | Escenario 1: Interacción con hipervínculos <br>Dado que el visitante interactúa con los hipervínculos.<br>Cuando el visitante selecciona una de las secciones.<br>Entonces  el visitante es dirigido a la sección seleccionada. |  |  |  |  |
+
+
+| Story ID | US002 | Título | Interacción con la sección de “Contáctanos” | Descripción | Como visitante de la landing page quiero poder contactarme con MindCare. |
+|---|---|---|---|---|---|
+| Epic ID | EP002 | Usuario | Visitante Landing |  |  |
+| Criterios de aceptación | Escenario 1: Interacción con el hipervínculo<br>Dado que el visitante se encuentra en la landing page<br>Cuando el visitante haga clic en el hipervínculo de "Contáctanos"<br>Entonces el sistema dirigirá al visitante a la sección de contacto.<br><br>Escenario 2: Ingresa datos<br>Dado que el visitante se encuentra en la sección de contacto<br>Cuando el visitante haga clic en las barras de texto<br>Entonces el sistema guardará automáticamente el texto ingresado por el visitante.<br><br>Escenario 3: Enviar datos<br>Dado que el visitante se encuentra en la landing page<br>Cuando el visitante haga clic en el botón "submit"<br>Entonces el sistema leerá los textos ingresados <br>Y serán enviados a nuestro soporte técnico |  |  |  |  |
+
+
+
+## 3.4. Product Backlog. 
 
 # Capítulo IV: Product Design. 
 
