@@ -237,55 +237,81 @@ puntos y actividades con respecto a este proyecto.
 ### 1.2.1 Antecedentes y problemática
 
 Con el propósito de obtener una comprensión más profunda de las necesidades de nuestros dos segmentos, emplearemos la técnica de las "5W y 2H" para examinar los antecedentes históricos y los desafíos asociados. A continuación, compartimos la información recopilada.
+
+
 •	What (Qué):
+
 ¿Cuál es la relación del problema con las personas?
+
 Antes de la existencia de nuestra solución, los usuarios enfrentaban dificultades significativas para acceder a servicios de salud mental convenientes y confiables. Esto resultaba en una falta de apoyo profesional para abordar problemas emocionales y mentales, lo que podía llevar a un deterioro en su bienestar psicológico y emocional.
 
 •	When (Cuándo):
+
 ¿Cuándo sucede el problema?
+
 El problema de acceso limitado a servicios de salud mental podría surgir en cualquier momento en que los usuarios necesitarán apoyo o atención para enfrentar desafíos emocionales y mentales. Esta falta de acceso a menudo se manifestaba en momentos de crisis o estrés, cuando la ayuda profesional era crucial pero difícil de obtener.
 
 ¿Cuándo utiliza el cliente el servicio?
+
 Antes de utilizar nuestra solución, los clientes podían recurrir a opciones limitadas y a menudo inadecuadas, como largas listas de espera para citas con profesionales de la salud mental, servicios costosos y no siempre accesibles, o la falta de opciones de tratamiento personalizado.
 
 •	Where (Dónde):
+
 ¿Dónde está el cliente cuando usa el producto?
+
 Los clientes se encontraban no solo en sus hogares, sino también en sus lugares de trabajo, donde acceder instantáneamente a ayuda profesional era un desafío que a menudo resultaba en la decisión de no buscar ayuda con psicólogos. Esto se debía a la falta de adaptación de los servicios de psicología a entornos virtuales, lo que dificultaba aún más el acceso a la ayuda necesaria.
 
 •	Who (Quién):
+
 ¿Quiénes están involucrados?
+
 Antes de nuestra solución, los principales involucrados incluían a los usuarios que buscaban apoyo para problemas emocionales y mentales, así como a los profesionales de la salud mental que intentaban proporcionar servicios en un sistema que a menudo era ineficiente y limitado en recursos.
 
 ¿Quién lo utilizará?
 Los más afectados por la falta de acceso eran aquellos usuarios que enfrentaban desafíos emocionales y mentales sin el apoyo adecuado: los pacientes en busca de ayuda y orientación. A su vez, los profesionales que ofrecen esta ayuda, como los psicólogos. Además, según el Plan de Fortalecimiento de la Salud Mental Comunitaria 2018-2021, existen 265 psiquiatras por cada Diresa del Minsa para atender a más 33 millones de habitantes. La mayoría de ellos se concentran en Lima Metropolitana. (Lr, s. f.-b)
+
 ![antecedentes-imagen](https://github.com/MindCare-Panqueque/Informe/assets/134560396/556231f2-5b45-424c-8d3f-a7864391aa44)
+
 _Fuente: La republica_
+
 
 •	Why (Por qué):
 
 ¿Cuál es la causa del problema?
+
 La falta de acceso a servicios de salud mental adecuados estaba vinculada a una serie de factores, incluida la escasez de recursos en ciertas áreas geográficas, largos tiempos de espera para citas, estigmatización asociada con buscar ayuda y limitaciones en los sistemas de atención médica pública o privada. Según Infobae Perú, pedir ayuda psicológica frecuentemente se ve como una señal de debilidad, relegando el cuidado de la salud mental a un segundo plano (Gómez, 2024).
 
 •	How (Cómo):
+
 ¿En qué condiciones los clientes usan nuestro producto?
+
 Los clientes enfrentaban el problema en condiciones de estrés, ansiedad, depresión u otras condiciones de salud mental, a menudo exacerbadas por la falta de acceso a servicios de salud mental adecuados. Esto podría llevar a un deterioro en su salud mental y emocional.
 
+
 ¿Cómo conocían los clientes sobre servicios similares?
+
 Los clientes podían conocer sobre servicios similares a través de recomendaciones de amigos o familiares, búsquedas en línea, publicidad tradicional, etc. Sin embargo, la falta de opciones accesibles y confiables a menudo dificultaba su búsqueda de ayuda adecuada.
 
+
 ¿Cómo prefieren los lectores acceder a nuestro contenido?
+
 Los lectores pueden preferir acceder al contenido a través de nuestra aplicación, pues proporciona una plataforma fácil de usar para interactuar con toda la comunidad y recibir notificaciones personalizadas sobre actualizaciones de los servicios que tenemos.
 
+
 ¿Qué llevó a la persona a esta situación?
+
 Las personas pueden encontrarse en situaciones de estrés, ansiedad, depresión u otras condiciones de salud mental debido a una variedad de factores, como problemas personales, laborales, familiares, etc.
 
+
 •	How much (Cuánto):
+
 ¿Cuánto están dispuestos a pagar los clientes por el servicio?
 Es posible ofrecer opciones de pago flexibles, como paquetes de sesiones o planes de suscripción, para adaptarse a las diferentes necesidades y presupuestos de los clientes. Nuestra plataforma está muy bien equipada con herramientas que tanto los psicólogos como pacientes podrán gozar y todo dependerá de los planes de suscripción de cada usuario.
 
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
+
 El propósito es mejorar el acceso a servicios de salud mental tanto para individuos que enfrentan desafíos emocionales y mentales como para profesionales de la salud mental, proporcionando una solución confiable y conveniente que se adapte a las necesidades específicas de ambas partes.
 
 Es difícil encontrar servicios de salud mental buenos y confiables. A veces, las personas tienen que esperar mucho tiempo para conseguir una cita, o no pueden encontrar un terapeuta que se adapte a sus necesidades. Además, para los psicólogos, es complicado hacerse conocer y establecer su práctica. La competencia es fuerte y puede ser difícil para ellos encontrar y retener clientes. Sumado a esto, la falta de conocimiento sobre cómo promocionarse en línea y adaptarse a las nuevas tecnologías también representa un desafío para muchos psicólogos.
@@ -298,15 +324,25 @@ Hemos observado que, tanto las personas que buscan ayuda como los psicólogos ti
 #### 1.2.2.2. Lean UX Assumptions
 
 Creo que mis clientes necesitan una plataforma digital donde puedan interactuar mutuamente para poder tratar un problema de salud mental, en donde también encuentren un medio por el cual brindar apoyo e información.
+
 Estas necesidades se pueden resolver con una plataforma diseñada para pacientes y psicólogos que incluya características como agendar citas con los psicólogos,  ver el horario de los psicólogos, así como para los psicólogos desvirar casos con otros psicólogos y publicar plantillas de tratamientos.
+
 Mis clientes iniciales serán psicólogos y psiquiatras en áreas urbanas, específicamente en Lima Metropolitana, donde haya una alta concentración de profesionales de la salud mental.
+
 El valor #1 que un cliente quiere de mi servicio es la accesibilidad y conveniencia para acceder a cuidado psicológico de calidad.
+
 El cliente también puede obtener estos beneficios adicionales como interactuar con otros profesionales de la salud mental para desvirtuar casos y compartir mejores prácticas. En el caso de los pacientes, podrán tener un plan de tratamiento personalizado.
+
 Voy a adquirir la mayoría de mis clientes a través de publicidad en redes sociales dirigida a profesionales de la salud mental en Lima Metropolitana, así como campañas de correo electrónico dirigidas a mi base de datos de contactos.
+
 Haré dinero a través de modelos de suscripción para psicólogos y psiquiatras que deseen utilizar nuestra plataforma.
+
 Mi competencia principal en el mercado serán otras plataformas similares que ofrecen servicios de telepsicología y gestión de citas para profesionales de la salud mental. También competiremos con los servicios de atención médica tradicionales, como clínicas y consultorios privados.
+
 Los venceremos distinguiéndonos de la competencia mediante una interfaz intuitiva, personalizada y fácil de usar, así como herramientas avanzadas de colaboración entre profesionales de la salud mental.
+
 Mi mayor riesgo es la resistencia al cambio por parte de algunos psicólogos hacia la adopción de tecnología.
+
 Resolveremos esto a través de la capacitación y soporte técnico integral para los usuarios. Además, ofreceremos períodos de prueba gratuitos para que los psicólogos experimenten con la plataforma y vean sus beneficios directamente.
 
 
@@ -323,6 +359,7 @@ Resolveremos esto a través de la capacitación y soporte técnico integral para
 ### 1.2.2.4. Lean UX Canvas
 
 ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/22784e8b-06e3-4b05-b801-7b24f47c5a52)
+
 
 ## 1.3. Segmentos objetivo
 
@@ -408,46 +445,57 @@ Pacientes:
 
 ### 2.2.2. Registro de entrevistas
 
-Segmento de psicólogos
+**Segmento de psicólogos**
+1.
+
 Sexo: Masculino
+
 Edad: 27 años
+
 Ubicación: Magdalena
-Link: Fabian_Lujan_Entrevista
+
+Link: [https://drive.google.com/file/d/1EZDtghFixeNYTTxErvgZ4lRc7WjbvLZe/view?usp=drive_link](https://drive.google.com/file/d/1EZDtghFixeNYTTxErvgZ4lRc7WjbvLZe/view?usp=drive_link)
+
 Duración: 9:47
+
 Resumen:
 El psicólogo Fabián comentó que uno de los desafíos más frecuentes a los que se enfrenta es al estigma asociado a buscar ayuda. Ahora, la manera en la que trabaja, generalmente utiliza herramientas digitales para gestionar horarios y conectarse con los pacientes. Prioriza la seguridad y confiabilidad al elegir plataformas de servicio. La tecnología es fundamental en su práctica diaria, desde tomar notas hasta grabar sesiones. Él intenta promover la normalización de la asistencia psicológica a través de publicaciones en línea. Así mismo, garantiza la confidencialidad de los pacientes y se mantiene actualizado con investigaciones y prácticas. De igual manera, evalúa la efectividad de las sesiones mediante comentarios y referencias de pacientes. Una idea que ofreció fue mejorar la calidad de los servicios digitales, enfocándonos en la privacidad, el anonimato y métodos de pago transparentes.
 
-**### Segmento de pacientes**
-
-1.
-Sexo: Masculino
-Edad: 19 años
-Ubicaciones: Callao
-Link: [https://drive.google.com/file/d/1UxNvJD1ELRn6rFeu9Q4g0sGyk8q5sZpH/view?usp=sharing](https://drive.google.com/file/d/1UxNvJD1ELRn6rFeu9Q4g0sGyk8q5sZpH/view?usp=sharing )
-Duración: 7:45
-![jimena-fabian-castro](https://github.com/MindCare-Panqueque/Informe/assets/134560396/99626ee2-da48-4e85-8668-5fd6f6421ef3)
-Resumen:
-En una entrevista, Ricardo Rivas compartió su experiencia positiva al buscar apoyo psicológico en línea a través de plataformas de búsqueda de psicólogos. Destacó la conveniencia y accesibilidad de encontrar profesionales calificados desde la comodidad de su hogar, lo que le brindó una sensación de control sobre su proceso de bienestar emocional. Ricardo enfatizó la importancia de sentirse cómodo y conectado con su terapeuta, y encontró que las opciones en línea le proporcionaron una amplia variedad de especialidades para elegir. Esta experiencia le permitió a Ricardo superar barreras geográficas y de tiempo, facilitando su acceso a la atención psicológica cuando más la necesitaba.
+2.
 
 Sexo: Masculino
+
 Edad: 26 años
+
 Ubicación: Huaral
+
 Link:[https://drive.google.com/file/d/1F-Q_fHcuICIHxOkiFg04s8OGttceqfsp/view?usp=sharing](https://drive.google.com/file/d/1F-Q_fHcuICIHxOkiFg04s8OGttceqfsp/view?usp=sharing)
+
 Duración: 4:57
+
 ![sebastian-francesko-montesinos](https://github.com/MindCare-Panqueque/Informe/assets/134560396/f3d8bbaa-f4b1-4e50-8e4f-8278ef601fde)
+
 Resumen:
 Franchesco Montesinos, un  psicólogo, compartió en una entrevista su experiencia en el campo de la psicología, destacando la importancia de la conexión humana y la empatía en su práctica. Señaló que el uso de plataformas en línea para psicólogos puede ser útil para llegar a más personas y brindar apoyo a aquellos que lo necesitan, pero enfatizó la importancia de mantener un equilibrio entre la tecnología y el contacto personal para ofrecer un tratamiento efectivo y compasivo.
 
+3.
 Sexo: Femenino
+
 Edad: 25 años
+
 Ubicación: Arequipa
+
 Link: [https://drive.google.com/file/d/1wAmIM404RD2YmdYmbIlVxO4A2I4i-900/view?usp=sharing](https://drive.google.com/file/d/1wAmIM404RD2YmdYmbIlVxO4A2I4i-900/view?usp=sharing)
+
 Duración: 15:58
+
 ![barbara-maria-quevedo](https://github.com/MindCare-Panqueque/Informe/assets/134560396/1d1ac33f-4c4c-465d-88fe-bf0f41fbb1cc)
+
 Resumen: 
 La doctora Mariana Quevedo nos comentó lo difícil que es conectar con otros pacientes, ya que promocionar su trabajo no es tan sencillo como hacerlo con servicios de otras profesiones, como ingeniería, donde se pueden utilizar folletos para llegar a una audiencia más amplia. Además, la falta de una aplicación que pueda gestionar su horario de manera dinámica es la razón por la cual ha tenido problemas con la agenda de sus citas. Por si fuera poco, la doctora Quevedo hace hincapié en la importancia de garantizar seguridad en la relación entre el paciente y el psicólogo en la plataforma. Ella comenta que la encriptación y la autenticación tanto de los psicólogos como de los pacientes son aspectos cruciales.
 
-**### Segmento de pacientes**
+
+** Segmento de pacientes**
 1.
 Sexo: Masculino
 Edad: 19 años
@@ -591,53 +639,19 @@ Aquí, delineamos las mejoras y optimizaciones que hemos implementado para garan
 
 ## 3.2. User Stories
 
-| Historia de Usuario     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                         |                 |                    |                  |
-|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|-----------------|--------------------|------------------|
-| Número                  | US001                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Usuario                 | Psicólogo       | Nombre HU          | Gestión de Citas |
-| Prioridad               | Alta                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Riesgo                  | Medio           | Iteración          | Sprint 1         |
-| Estimación              | 5 horas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Programador responsable | Barbara Quezada | Actividades claves |                  |
-| Descripción             | Como psicólogo, quiero gestionar mis citas (agendar, reagendar, cancelar) a través de la plataforma, para tener un control eficiente de mi tiempo y compromisos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                         |                 |                    |                  |
-| Criterios de aceptacion | Escenario 01: Accede a la plataforma Dado que el psicólogo está registrado en la plataforma Cuando el psicólogo accede a su cuenta con sus credenciales Entonces el sistema lo dirige a su panel de control personalizado Escenario 02: Visualiza las etiquetas del estado de las citas Dado que el psicólogo ingresa a su panel de control de la plataforma Cuando el psicólogo hace clic en el botón “Gestión de mis citas” Y el psicólogo selecciona “Ver mis citas” Entonces el sistema muestra el estado actual de cada cita que posee el psicólogo (“Programada", "Confirmada", "Cancelada") Escenario 03: Agenda una nueva cita Dado que el psicólogo hace clic en el botón “Gestión de mis citas” Cuando el psicólogo selecciona la opción para agendar una nueva cita Entonces el sistema abre un formulario donde el psicólogo puede ingresar la fecha, hora y detalles del paciente para programar la cita correctamente Escenario 04: Reagenda una cita existente Dado que el psicólogo hace clic en el botón “Gestión de mis citas” Cuando el psicólogo selecciona una cita existente en su calendario Y elige la opción para reagendarla Entonces el sistema abre un formulario donde el psicólogo puede modificar la fecha y hora de la cita y confirmar los cambios Y el sistema le envía una notificación automática al paciente informando los cambios Escenario 05: Cancela una cita Dado que el psicólogo hace clic en el botón “Gestión de mis citas” Cuando el psicólogo selecciona una cita existente en su calendario Y  el psicólogo elige la opción para cancelarla Entonces el sistema muestra un mensaje de confirmación y, al confirmar la cancelación, la cita se elimina del calendario y se registra la cancelación Y el sistema le envía una notificación automática al paciente informando los cambios |                         |                 |                    |                  |
+**Épicas**
 
-## 3.3. Impact Mapping
+| Epic ID | Detalle                                      |
+|---------|----------------------------------------------|
+| EP001   | Gestión de Acceso de Usuarios                |
+| EP002   | Experiencia del Usuario en la Landing Page   |
+| EP003   | Gestión de Citas para Psicólogos             |
+| EP004   | Perfil y Autenticación de Psicólogos         |
+| EP005   | Herramientas de Comunicación para Psicólogos |
+| EP006   | Funcionalidades del Paciente                 |
+| EP007   | Funcionalidades técnicas                     |
 
-![imagen](https://github.com/MindCare-Panqueque/Informe/assets/130580982/1babd5ba-50ab-484a-bb1d-21c4f20ac5ba)
 
-## 3.4. Product Backlog
-
-Product Backlog de los psicólogos
-
-| #Order | User Story ID | Título                                          | Descripción                                                                                                                                                                                    | Story point |
-|--------|---------------|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| 1      | US001         | Gestión de Citas                                | Como psicólogo, quiero gestionar mis citas (agendar, reagendar, cancelar) a través de la plataforma, para tener un control eficiente de mi tiempo y compromisos.                               | 8           |
-| 2      | US002         | Perfil del Psicólogo                            | Como psicólogo, quiero crear y editar mi perfil profesional, incluyendo mi experiencia, especialidades y disponibilidad, para que los pacientes puedan conocerme mejor y elegir mis servicios. | 5           |
-| 3      | US003         | Historial de Pacientes                          | Como psicólogo, quiero acceder al historial clínico de mis pacientes, para tener un seguimiento detallado de su evolución y tratamientos previos.                                              | 10          |
-| 4      | US004         | Comunicación Segura                             | Como psicólogo, quiero comunicarme con mis pacientes a través de un sistema de mensajería seguro dentro de la plataforma, para garantizar la confidencialidad de la información.               | 8           |
-| 5      | US005         | Alertas y Recordatorios                         | Como psicólogo, quiero recibir alertas y recordatorios de mis próximas citas, para asegurarme de no olvidar ningún compromiso.                                                                 | 3           |
-| 6      | US006         | Registro y Autenticación                        | Como psicólogo, quiero registrarme y autenticarme en la plataforma de manera segura, para poder acceder a mis herramientas de trabajo y gestionar mis citas.                                   | 8           |
-| 7      | US007         | Feedback de Pacientes                           | Como psicólogo, quiero recibir valoraciones y comentarios de mis pacientes, para mejorar continuamente la calidad de mi atención.                                                              | 3           |
-| 8      | US008         | Integración con Plataformas de Videoconferencia | Como psicólogo, quiero que la plataforma se integre con herramientas de videoconferencia, para poder realizar sesiones virtuales con mis pacientes.                                            | 8           |
-
-Product Backlog de los pacientes:
-
-| #Order | User Story ID | Título                      | Descripción                                                                                                                             | Story point |
-|--------|---------------|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| 1      | US009         | Registro de Paciente        | Como paciente, quiero registrarme fácilmente en la plataforma para poder programar citas con psicólogos.                                | 3           |
-| 2      | US010         | Búsqueda de Psicólogos      | como paciente, quiero buscar psicólogos por especialidad, ubicación y valoraciones para encontrar el más adecuado para mis necesidades. | 5           |
-| 3      | US011         | Programar Citas             | Como paciente, quiero programar citas con psicólogos de manera sencilla y recibir confirmaciones y recordatorios de estas.              | 8           |
-| 4      | US012         | Historial de Citas          | Como paciente, quiero ver mi historial de citas pasadas y futuras para llevar un control de mis sesiones.                               | 5           |
-| 5      | US013         | Comunicación con Psicólogos | Como paciente, quiero comunicarme con mi psicólogo a través de la plataforma para discutir detalles previos a la cita.                  | 8           |
-| 6      | US014         | Valoraciones y Reseñas      | Como paciente, quiero dejar valoraciones y reseñas sobre los psicólogos con los que me he consultado para ayudar a otros pacientes.     | 3           |
-| 7      | US015         | Soporte Técnico             | Como paciente, quiero acceder a soporte técnico fácilmente para resolver cualquier problema que pueda tener con la plataforma.          | 3           |
-| 8      | US016         | Privacidad de Datos         | Como paciente, quiero que mi información personal y datos de salud estén protegidos y manejados con confidencialidad.                   | 10          |
-
-| #Order | User Story ID | Título                             | Descripción                                                                                           | Story point |
-|--------|---------------|------------------------------------|-------------------------------------------------------------------------------------------------------|-------------|
-| 1      | US017         | Creación de hipervínculos (Header) | Como visitante de la landing page quiero poder interactuar con la landing page.                       | 3           |
-| 2      | US018         | Sección Servicios                  | Como visitante de la landing page quiero poder contactarme con MindCare                               | 3           |
-| 3      | US019         | Seccion Contáctanos                | Como visitante de la landing page quiero tener conocimiento de lo que el servicio incluirá.           | 3           |
-| 4      | US020         | Seccion Planes                     | Como visitante de la landing page quiero poder conocer a que planes me puedo afiliar.                 | 3           |
-| 5      | US021         | Iniciar Sesión                     | Como visitante de la landing page quiero poder ser dirigido facilmente al apartado de iniciar sesión. | 3           |
 
 # Capítulo IV: Product Design. 
 
