@@ -1909,10 +1909,10 @@ World Health Organization: WHO. (2022, 17 junio). Salud mental: fortalecer nuest
 
 
 # Anexos
-Enlace para acceder a la landing page: [https://mindcare-panqueque.github.io/MindCare-LandingPage/](https://mindcare-panqueque.github.io/MindCare-LandingPage/)
+Enlace para acceder a la landing page: [https://si729-2401-ws51-grupo3.github.io/landing-page/](https://si729-2401-ws51-grupo3.github.io/landing-page/)
 
 Video exposición TB1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210778_upc_edu_pe/EeLAAyU7LRJCiLIMK0e_ItMBjm98u7Da-aDZBhOVb174qA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=KdiYfN](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210778_upc_edu_pe/EeLAAyU7LRJCiLIMK0e_ItMBjm98u7Da-aDZBhOVb174qA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=KdiYfN)
 
 Enlace para acceder a los diagramas de UserFlow y Wireflow: [https://lucid.app/lucidchart/7bdb2af3-d389-4575-988b-564a9c687ecc/edit?view_items=B1jwHUFhGa_Z&invitationId=inv_afca453b-0529-4128-a2eb-140834216d51](https://lucid.app/lucidchart/7bdb2af3-d389-4575-988b-564a9c687ecc/edit?view_items=B1jwHUFhGa_Z&invitationId=inv_afca453b-0529-4128-a2eb-140834216d51)
 
-Enlace para acceder a la Web Application: [https://www.figma.com/file/0xo82rO3Xi1Ma54503YrsT/MindCare?type=design&node-id=24%3A86&mode=design&t=1BGyPqcLkGcEoJ0M-1](https://www.figma.com/file/0xo82rO3Xi1Ma54503YrsT/MindCare?type=design&node-id=24%3A86&mode=design&t=1BGyPqcLkGcEoJ0M-1)
+Enlace para acceder a los mockups del Web Application: [https://www.figma.com/file/0xo82rO3Xi1Ma54503YrsT/MindCare?type=design&node-id=24%3A86&mode=design&t=1BGyPqcLkGcEoJ0M-1](https://www.figma.com/file/0xo82rO3Xi1Ma54503YrsT/MindCare?type=design&node-id=24%3A86&mode=design&t=1BGyPqcLkGcEoJ0M-1)
