@@ -1918,7 +1918,13 @@ Durante este segundo sprint los integrantes del equipo desarrollaron las distint
 
 - Elias Yauri
 
+
+
 - Barbara Quezada
+
+![image](https://github.com/si729-2401-WS51-grupo3/documentation/assets/130580982/10abfdcb-b0c3-4168-9562-7a601ee3fb84)
+
+![image](https://github.com/si729-2401-WS51-grupo3/documentation/assets/130580982/b25d6c6b-a695-43ce-a06e-6e0cc24ca2e5)
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
