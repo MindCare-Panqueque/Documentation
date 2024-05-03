@@ -57,77 +57,81 @@ URL del repositorio del proyecto:[https://github.com/si729-2401-WS51-grupo3](htt
 | Elias Yauri Paucar | Realize la implementación de los wireframes y mockups de la landing page, incluyendo los estilos, tipografia y contenidos ya previamente asignados para que se nos sea mas facil la codificiación de la landing page                                                                                                                     |
 
 # Contenido
-- [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+- [Universidad Peruana de ciencias aplicadas](#universidad-peruana-de-ciencias-aplicadas)
+    - [Informe del trabajo](#informe-del-trabajo)
+    - [Marzo del 2024](#marzo-del-2024)
+- [Registro de versiones del informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
 - [Contenido](#contenido)
-- [Student Outcome](#student-outcome)
+    - [Studen Outcome](#studen-outcome)
 - [Capítulo I: Introducción](#capítulo-i-introducción)
-  * [1.1. Startup Profile](#11-startup-profile)
-    + [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
-    + [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-  * [1.2. Solution Profile](#12-solution-profile)
-    + [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
-    + [1.2.2 Lean UX Process.](#122-lean-ux-process)
-      - [1.2.2.1. Lean UX Problem Statements.](#1221-lean-ux-problem-statements)
-      - [1.2.2.2. Lean UX Assumptions.](#1222-lean-ux-assumptions)
-      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-      - [1.2.2.4. Lean UX Canvas.](#1224-lean-ux-canvas)
-  * [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-- [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
-  * [2.1. Competidores](#21-competidores)
-    + [2.1.1. Análisis competitivo](#211-análisis-competitivo)
-    + [2.1.2. Estrategias y tácticas frente a competidores.](#212-estrategias-y-tácticas-frente-a-competidores)
-  * [2.2. Entrevistas](#22-entrevistas)
-    + [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-    + [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-    + [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-  * [2.3. Needfinding](#23-needfinding)
-    + [2.3.1. User Personas](#231-user-personas)
-    + [2.3.2. User Task Matrix](#232-user-task-matrix)
-    + [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-    + [2.3.4. Empathy Mapping](#234-empathy-mapping)
-    + [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+  - [1.1. Startup Profile](#11-startup-profile)
+    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+  - [1.2 Solution Profile](#12-solution-profile)
+    - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [1.2.2 Lean UX Process](#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+    - [1.2.2.3. Lean UX Hypothesis Statements.](#1223-lean-ux-hypothesis-statements)
+    - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+  - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
+- [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
+  - [2.1. Competidores](#21-competidores)
+    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2. Entrevistas](#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+  - [2.3. Needfinding](#23-needfinding)
+    - [2.3.1. User Personas](#231-user-personas)
+    - [2.3.2. User Task Matrix.](#232-user-task-matrix)
+    - [2.3.3. User Journey Mapping.](#233-user-journey-mapping)
+    - [2.3.4. Empathy Mapping.](#234-empathy-mapping)
+    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
 - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
-  * [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-  * [3.2. User Stories](#32-user-stories)
-  * [3.3. Impact Mapping](#33-impact-mapping)
-  * [3.4. Product Backlog](#34-product-backlog)
-- [Capítulo IV: Product Design](#capítulo-iv-product-design)
-  * [4.1. Style Guidelines](#41-style-guidelines)
-    + [4.1.1. General Style Guidelines](#411-general-style-guidelines)
-    + [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
-  * [4.2. Information Architecture](#42-information-architecture)
-    + [4.2.1. Organization Systems](#421-organization-systems)
-    + [4.2.2. Labeling Systems](#422-labeling-systems)
-    + [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-    + [4.2.4. Searching Systems](#424-searching-systems)
-    + [4.2.5. Navigation Systems](#425-navigation-systems)
-  * [4.3. Landing Page UI Design](#43-landing-page-ui-design)
-    + [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-    + [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
-  * [4.4. Web Applications UX/UI Design](#44-web-applications-ux-ui-design)
-    + [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
-    + [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-    + [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
-    + [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
-  * [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
-  * [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-    + [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
-    + [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
-    + [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
-  * [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
-    + [4.7.1. Class Diagrams](#471-class-diagrams)
-    + [4.7.2. Class Dictionary](#472-class-dictionary)
-  * [4.8. Database Design](#48-database-design)
-    + [4.8.1. Database Diagram](#481-database-diagram)
-- [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
-  * [5.1. Software Configuration Management](#51-software-configuration-management)
-    + [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
-    + [5.1.2. Source Code Management](#512-source-code-management)
-    + [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide---conventions)
-    + [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-  * [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services---applications-implementation)
-    + [5.2.1. Sprint 1](#521-sprint-1)
+  - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+  - [3.2. User Stories](#32-user-stories)
+  - [3.3. Impact Mapping.](#33-impact-mapping)
+  - [3.4. Product Backlog.](#34-product-backlog)
+- [Capítulo IV: Product Design.](#capítulo-iv-product-design)
+  - [4.1. Style Guidelines.](#41-style-guidelines)
+    - [4.1.1. General Style Guidelines.](#411-general-style-guidelines)
+    - [4.1.2. Web Style Guidelines.](#412-web-style-guidelines)
+  - [4.2. Information Architecture.](#42-information-architecture)
+    - [4.2.1. Organization Systems.](#421-organization-systems)
+    - [4.2.2. Labeling Systems.](#422-labeling-systems)
+    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    - [4.2.4. Searching Systems.](#424-searching-systems)
+    - [4.2.5. Navigation Systems.](#425-navigation-systems)
+  - [4.3. Landing Page UI Design.](#43-landing-page-ui-design)
+    - [4.3.1. Landing Page Wireframe.](#431-landing-page-wireframe)
+    - [4.3.2. Landing Page Mock-up.](#432-landing-page-mock-up)
+  - [4.4. Web Applications UX/UI Design.](#44-web-applications-uxui-design)
+    - [4.4.1. Web Applications Wireframes.](#441-web-applications-wireframes)
+    - [4.4.2. Web Applications Wireflow Diagrams.](#442-web-applications-wireflow-diagrams)
+    - [4.4.2. Web Applications Mock-ups.](#442-web-applications-mock-ups)
+    - [4.4.3. Web Applications User Flow Diagrams.](#443-web-applications-user-flow-diagrams)
+  - [4.5. Web Applications Prototyping.](#45-web-applications-prototyping)
+  - [4.6. Domain-Driven Software Architecture.](#46-domain-driven-software-architecture)
+    - [4.6.1. Software Architecture Context Diagram.](#461-software-architecture-context-diagram)
+    - [4.6.2. Software Architecture Container Diagrams.](#462-software-architecture-container-diagrams)
+    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+  - [4.7. Software Object-Oriented Design.](#47-software-object-oriented-design)
+    - [4.7.1. Class Diagrams.](#471-class-diagrams)
+    - [4.7.2. Class Dictionary.](#472-class-dictionary)
+  - [4.8. Database Design.](#48-database-design)
+    - [4.8.1. Database Diagram.](#481-database-diagram)
+- [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
+  - [5.1. Software Configuration Management](#51-software-configuration-management)
+    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+    - [5.1.2. Source Code Management](#512-source-code-management)
+    - [5.1.3. Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
+    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+  - [5.2. Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
+    - [5.2.1. Sprint 1](#521-sprint-1)
       - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
       - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
       - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
@@ -135,22 +139,19 @@ URL del repositorio del proyecto:[https://github.com/si729-2401-WS51-grupo3](htt
       - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-    + [5.2.2. Sprint 2](#522-sprint-2)
-      - [5.2.1.1. Sprint Planning 2](#5221-sprint-planning-2)
-      - [5.2.1.2. Sprint Backlog 2](#5222-sprint-backlog-2)
-      - [5.2.1.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
-      - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
-      - [5.2.1.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
-      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
-      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-      - [5.2.1.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+      - [5.2.1.8. Team Collaboration Insights during Spring](#5218-team-collaboration-insights-during-spring)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1.Sprint Planning 2.](#5221sprint-planning-2)
+      - [5.2.2.2.Sprint Backlog 2.](#5222sprint-backlog-2)
+      - [5.2.2.3.Development Evidence for Sprint Review.](#5223development-evidence-for-sprint-review)
+      - [5.2.2.4.Testing Suite Evidence for Sprint Review.](#5224testing-suite-evidence-for-sprint-review)
+      - [5.2.2.5.Execution Evidence for Sprint Review.](#5225execution-evidence-for-sprint-review)
+      - [5.2.2.6.Services Documentation Evidence for Sprint Review.](#5226services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7.Software Deployment Evidence for Sprint Review.](#5227software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8.Team Collaboration Insights during Sprint.](#5228team-collaboration-insights-during-sprint)
 - [Conclusiones](#conclusiones)
-  * [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
-  * [Video About-the-Team](#video-about-the-team)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
-- 
 
 ### Studen Outcome
 | Criterio específico                                                                                                                                                                    | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Conclusiones |
@@ -714,76 +715,30 @@ Aquí, delineamos las mejoras y optimizaciones que hemos implementado para garan
 | Criterios de aceptación | Escenario 1: Redirigir al visitante al apartado de creación de cuenta<br>Dado que un visitante está en la landing page <br>Y quiere registrarse en MindCare<br>Cuando hace clic en el botón "Crear cuenta"<br>Entonces debería ser enviado a la pestaña de creación de cuentas.<br>Escenario 2: Ingresar datos válidos para crear una cuenta<br>Dado que el visitante está en la pestaña de creación de cuentas<br>Cuando ingresa datos válidos para crear una cuenta<br>Y hace clic en el botón "Crear cuenta"<br>Entonces se crea exitosamente la cuenta y se redirige al usuario a la página principal.<br>Escenario 3: Ingresar datos inválidos para crear una cuenta<br>Dado que el visitante está en la pestaña de creación de cuentas<br>Cuando ingresa datos inválidos para crear una cuenta<br>Y hace clic en el botón "Crear cuenta"<br>Entonces se muestra un mensaje de error indicando que los datos ingresados son inválidos.<br>Escenario 4: Intentar crear una cuenta con un correo electrónico ya registrado<br>Dado que el visitante está en la pestaña de creación de cuentas<br>Y el correo electrónico ingresado ya está asociado a una cuenta existente<br>Cuando intenta crear una cuenta con ese correo electrónico<br>Entonces se muestra un mensaje de error indicando que el correo electrónico ya está registrado. |  |  |  |  |
 
 
-| Story ID | US007 | Título | Visualización y Gestión de Citas para Psicólogos | Descripción | Como psicólogo, quiero gestionar mis citas a través de la plataforma, para tener un control eficiente de mi tiempo y compromisos. |
+| Story ID | US007 | Título | Ingreso a la interfaz de Crear Cuenta del Psicólogo | Descripción | Como usuario que escogió ser psicólogo, quiero poder ser dirigido fácilmente al apartado de crear cuenta para poder gozar de los servicios de ser psicólogo en MindCare. |
+|---|---|---|---|---|---|
+| Epic ID | EP002 | Usuario | Psicólogo |  |  |
+| Criterios de aceptación | Escenario 1: Redirigir al psicólogo al apartado de creación de cuenta<br>Dado que un visitante está en la landing page<br>Cuando selecciona la opción "Crear cuenta"<br>Entonces el sistema  redirige al visitante a la página de selección de plan.<br>Escenario 2: Seleccionar el plan de psicólogo<br>Dado que el visitante está en la página de selección de plan<br>Cuando selecciona el plan de "Psicólogo"<br>Entonces el sistema redirige al visitante a la interfaz de creación de cuenta para psicólogo.<br>Escenario 3: Ingresar datos válidos para crear una cuenta de psicólogo<br>Dado que el psicólogo está en la interfaz de creación de cuenta para psicólogo<br>Cuando proporciona un correo electrónico, nombre, apellidos, nombre de la institución y adjunta archivos que prueben sus estudios<br>Y crea su contraseña<br>Y hace clic en el botón "Crear cuenta"<br>Entonces el sistema crea exitosamente la cuenta <br>Y redirige al psicólogo a la página principal de su interfaz.<br>Escenario 4: Ingresar datos inválidos para crear una cuenta de psicólogo<br>Dado que el psicólogo está en la interfaz de creación de cuenta para psicólogo<br>Cuando ingresa datos inválidos para crear una cuenta<br>Y hace clic en el botón "Crear cuenta"<br>Entonces el sistema muestra un mensaje de error indicando que los datos ingresados son inválidos. |  |  |  |  |
+
+
+| Story ID | US008 | Título | Visualización y Gestión de Citas para Psicólogos | Descripción | Como psicólogo, quiero gestionar mis citas a través de la plataforma, para tener un control eficiente de mi tiempo y compromisos. |
 |---|---|---|---|---|---|
 | Epic ID | EP003 | Usuario | Psicólogo  |  |  |
 | Criterios de aceptación | Escenario 01: Accede a la plataforma<br>Dado que el psicólogo está registrado en la plataforma<br>Cuando el psicólogo accede a su cuenta con sus credenciales<br>Entonces el sistema lo dirige a su panel de control personalizado<br>Escenario 02: Visualiza sus citas mensuales<br>Dado que el psicólogo ingresa a su panel de control de la plataforma<br>Cuando el psicólogo hace clic en el botón "Calendario"<br>Entonces el sistema muestra el calendario con el estado actual de cada cita que posee el psicólogo ("Programada", "Confirmada", "Cancelada" y “Primeras Sesiones”)<br>Escenario 03: Visualiza sólo las citas programadas en el calendario<br>Dado que el psicólogo está viendo el calendario de citas<br>Cuando el psicólogo selecciona la opción "Citas Programadas"<br>Entonces el sistema muestra solo las citas que están programadas en el calendario.<br>Escenario 04: Visualiza sólo las citas confirmadas en el calendario<br>Dado que el psicólogo está viendo el calendario de citas<br>Cuando el psicólogo selecciona la opción "Citas Confirmadas"<br>Entonces el sistema muestra solo las citas que están confirmadas en el calendario.<br>Escenario 05: Visualiza sólo las citas canceladas en el calendario<br>Dado que el psicólogo está viendo el calendario de citas<br>Cuando el psicólogo selecciona la opción "Citas Canceladas"<br>Entonces el sistema muestra solo las citas que están canceladas en el calendario.<br>Escenario 06: Visualiza solo las primeras sesiones en el calendario<br>Dado que el psicólogo está viendo el calendario de citas<br>Cuando el psicólogo selecciona la opción "Primeras Sesiones"<br>Entonces el sistema muestra solo las primeras sesiones programadas de los pacientes nuevos en el calendario. |  |  |  |  |
 
 
-| Story ID | US008 | Título | Interacción con la sección de “Mi cuenta” | Descripción | Como psicólogo, quiero crear y editar mi perfil profesional para que los pacientes puedan conocerme mejor y elegir mis servicios. |
+| Story ID | US009 | Título | Interacción con la sección de “Mi cuenta” | Descripción | Como psicólogo, quiero crear y editar mi perfil profesional para que los pacientes puedan conocerme mejor y elegir mis servicios. |
 |---|---|---|---|---|---|
-| Epic ID | EP004 | Usuario | Psicólogo  |  |  |
+| Epic ID | EP002 | Usuario | Psicólogo  |  |  |
 | Criterios de aceptación | Escenario 01: Acceder a la sección de perfil profesional<br>Dado que el psicólogo está registrado en la plataforma<br>Cuando el psicólogo accede a su cuenta con sus credenciales<br>Entonces el sistema lo dirige a su panel de control personalizado<br>Escenario 02: Crear perfil profesional<br>Dado que el psicólogo está en su panel de control de la plataforma<br>Cuando el psicólogo selecciona la opción “Mi cuenta” para crear su perfil profesional<br>Y completa los campos requeridos como nombre, fecha de nacimiento, dni, género, etc.<br>Entonces el sistema guarda automáticamente los datos ingresados<br>Escenario 03: Editar perfil profesional<br>Dado que el psicólogo está en su panel de control de la plataforma<br>Cuando el psicólogo selecciona la opción “Mi cuenta” para editar su perfil profesional<br>Y realiza cambios en los campos existentes,  como nombre, fecha de nacimiento, dni, género, etc.<br>Entonces el sistema actualiza automáticamente los datos ingresados |  |  |  |  |
 
 
-| Story ID | US009 | Título | Comunicación con pacientes | Descripción | Como psicólogo, quiero comunicarme con mis pacientes a través de un sistema de mensajería seguro dentro de la plataforma, para garantizar la confidencialidad de la información. |
+| Story ID | US010 | Título | Comunicación con pacientes | Descripción | Como psicólogo, quiero comunicarme con mis pacientes a través de un sistema de mensajería seguro dentro de la plataforma, para garantizar la confidencialidad de la información. |
 |---|---|---|---|---|---|
-| Epic ID | EP005 | Usuario | Psicólogo  |  |  |
+| Epic ID | EP004 | Usuario | Psicólogo  |  |  |
 | Criterios de aceptación | Escenario 01: Iniciar una conversación con un paciente<br>Dado que el psicólogo está autenticado en la plataforma<br>Cuando el psicólogo selecciona a un paciente específico de su lista de pacientes<br>Entonces el sistema proporciona una opción para iniciar una conversación de mensajería con ese paciente<br>Y el psicólogo puede enviar mensajes seguros al paciente a través del sistema de mensajería dentro de la plataforma.<br>Escenario 02: Responder a un mensaje de un paciente<br>Dado que el psicólogo recibe una notificación de que un paciente ha enviado un mensaje<br>Cuando el psicólogo accede a su bandeja de entrada de mensajes dentro de la plataforma<br>Entonces el sistema muestra el mensaje del paciente de manera segura<br>Y el psicólogo puede responder al mensaje del paciente de manera confidencial utilizando el sistema de mensajería seguro dentro de la plataforma. |  |  |  |  |
 
 
-| Story ID | US010 | Título | Integración con plataformas de Videoconferencia | Descripción | Como psicólogo, quiero que la plataforma se integre con herramientas de videoconferencia, para poder realizar sesiones virtuales con mis pacientes. |
-|---|---|---|---|---|---|
-| Epic ID | EP003 | Usuario | Psicólogo |  |  |
-| Criterios de aceptación | Escenario 01: Creación de una sesión virtual<br>Dado que el psicólogo está programando una cita con un paciente<br>Cuando el psicólogo selecciona la opción para programar una sesión virtual<br>Entonces el sistema genera automáticamente un enlace de videoconferencia en zoom<br>Y el sistema incluye el enlace en la invitación de la cita enviada al paciente.<br>Escenario 02: Inicio de la sesión virtual<br>Dado que ha llegado el momento programado para la sesión virtual<br>Cuando el psicólogo y el paciente acceden a la plataforma en el horario acordado<br>Entonces el sistema activa automáticamente la sesión de zoom<br>Y el psicólogo y el paciente pueden iniciar la sesión virtual con un solo clic desde la plataforma. |  |  |  |  |
-
-
-| Story ID | US011 | Título | Búsqueda de Psicólogos por Nombre | Descripción | Como paciente, quiero poder buscar psicólogos por su nombre para encontrar rápidamente al profesional que deseo contactar. |
-|---|---|---|---|---|---|
-| Epic ID | EP006 | Usuario | Paciente |  |  |
-| Criterios de aceptación | Criterios de aceptación<br>Escenario 01: Búsqueda de psicólogos por nombre<br>Dado que el paciente desea buscar psicólogos por su nombre<br>Cuando el paciente accede a la función de búsqueda en la plataforma<br>Entonces el sistema muestra un campo donde el paciente puede ingresar el nombre del psicólogo que está buscando<br>Escenario 02: Resultados de la búsqueda por nombre<br>Dado que el paciente ha ingresado el nombre del psicólogo que está buscando<br>Cuando el paciente presiona el botón de búsqueda<br>Entonces el sistema muestra los resultados que coinciden con el nombre especificado por el paciente. |  |  |  |  |
-
-
-| Story ID | US012 | Título | Agendar Citas con Psicólogos | Descripción | Como paciente, quiero agendar una cita con el psicólogo de mi preferencia mediante la opción de ver sus horarios para poder reservar mi cita efectivamente. |
-|---|---|---|---|---|---|
-| Epic ID | EP006 | Usuario | Paciente |  |  |
-| Criterios de aceptación | Escenario 01: Selección de psicólogo<br>Dado que el paciente desea agendar una cita con un psicólogo<br>Cuando el paciente busca al psicólogo de su preferencia en la plataforma desde la página de inicio<br>Entonces el sistema muestra al psicólogo y su disponibilidad de horarios en su perfil<br>Escenario 02: Reserva de cita<br>Dado que el paciente ha seleccionado al psicólogo de su preferencia <br>y visualiza su disponibilidad de horarios<br>Cuando el paciente elige una fecha disponible en el calendario del psicólogo<br>Entonces el sistema reserva automáticamente la cita para el paciente en esa fecha <br>Escenario 03: Recepción de confirmación de cita<br>Dado que el sistema ha reservado la cita del paciente en el calendario del psicólogo<br>Cuando el sistema envía un mensaje de confirmación de cita al paciente<br>Entonces el paciente recibe la confirmación de la cita mediante el mensaje de “Cita reservada” |  |  |  |  |
-
-
-| Story ID | US013 | Título | Gestionar citas programadas | Descripción | Como paciente, quiero gestionar mis citas programadas desde la sección de citas, donde puedo ver mis citas en orden de fecha y tener opciones para cancelar, reprogramar, pagar o confirmar las citas según sea necesario, y recibir una confirmación de cualquier acción realizada. |
-|---|---|---|---|---|---|
-| Epic ID | EP006 | Usuario | Paciente |  |  |
-| Criterios de aceptación | Escenario 01: Visualización de citas programadas<br>Dado que el paciente desea gestionar sus citas programadas<br>Cuando el paciente accede a la sección de "citas" en la plataforma<br>Entonces el sistema muestra las citas del paciente en orden de fecha, junto con opciones para cada cita, como "cancelar cita", "reprogramar cita", "pagar cita" o "confirmar cita"<br>Escenario 02: Cancelación de cita<br>Dado que el paciente desea cancelar una cita programada<br>Cuando el paciente selecciona la opción "cancelar cita" para la cita deseada<br>Entonces el sistema confirma la cancelación de la cita y actualiza el estado de la cita en consecuencia<br>Escenario 03: Confirmación de asistencia a la cita<br>Dado que el paciente desea confirmar su asistencia a una cita programada<br>Cuando el paciente selecciona la opción "confirmar cita" para la cita deseada<br>Entonces el sistema marca la cita como confirmada y actualiza el estado de la cita<br>Escenario 04: Reprogramación de cita<br>Dado que el paciente desea reprogramar una cita programada<br>Cuando el paciente selecciona la opción "reprogramar cita" para la cita deseada<br>Entonces el sistema permite al paciente seleccionar una nueva fecha y hora para la cita<br>Y el sistema guarda automáticamente los cambios realizados<br>Escenario 05: Confirmación de acción<br>Dado que el paciente ha realizado una acción sobre una cita (cancelar, reprogramar, pagar o confirmar)<br>Cuando el sistema procesa la acción solicitada por el paciente<br>Entonces el sistema envía una confirmación de la acción realizada mediante el mensaje “[acción realizada] con éxito” |  |  |  |  |
-
-
-| Story ID | US014 | Título | Pagar cita | Descripción | Como paciente, quiero pagar mis citas de manera sencilla y recibir una confirmación. |
-|---|---|---|---|---|---|
-| Epic ID | EP006 | Usuario | Paciente |  |  |
-| Criterios de aceptación | Escenario 01: Pago de la cita<br>Dado que el paciente se encuentra en la sección de “citas” <br>Cuando el paciente quiera pagar una cita<br>Entonces hará click a la opción de “Pagar”<br>Escenario 02: Confirmación de pago<br>Dado que el paciente es redirigido a la sección de “Finanzas”<br>Cuando el paciente corrobore los datos de la sesión<br>Y le de click a “Pagar”<br>Y le aparezca una interfaz de pago segura para realizar el abono<br>Entonces el sistema actualizará estado de la cita y notifica al psicólogo sobre la confirmación del pago |  |  |  |  |
-
-
-| Story ID | US015 | Título | Comunicación con Psicólogos | Descripción | Como paciente, quiero comunicarme con mi psicólogo a través de la plataforma para discutir detalles previos a la cita. |
-|---|---|---|---|---|---|
-| Epic ID | EP006 | Usuario | Paciente |  |  |
-| Criterios de aceptación | Escenario 01: Iniciar una conversación con el psicólogo<br>Dado que el paciente desea comunicarse con su psicólogo antes de la cita<br>Cuando el paciente accede a la función de mensajería en la plataforma<br>Entonces el sistema muestra una lista de los psicólogos con los que el paciente tiene citas <br>Escenario 02: Recepción de respuesta del psicólogo<br>Dado que el paciente ha enviado un mensaje al psicólogo<br>Cuando el psicólogo accede a su cuenta en la plataforma<br>Entonces el sistema muestra al psicólogo una notificación de un nuevo mensaje del paciente<br>Y el psicólogo puede leer el mensaje del paciente y responder a él |  |  |  |  |
-
-
-| Story ID | US016 | Título | Configuración de la cuenta | Descripción | Como paciente, quiero visualizar y editar datos de mi información personal en mi cuenta. |
-|---|---|---|---|---|---|
-| Epic ID | EP006 | Usuario | Paciente |  |  |
-| Criterios de aceptación | Escenario 01: Editar datos del perfil<br>Dado que el paciente se encuentra en la sección de “Mi cuenta”<br>Cuando quiera editar algún campo de mi información<br>Y escriba nueva o corrija información<br>Entonces el sistema actualizará sus datos |  |  |  |  |
-
-
-| Story ID | US017 | Título | Chatbot de ayuda | Descripción | Como paciente, quiero acceder al soporte técnico fácilmente a través de un chatbot o mediante la opción de hablar con un asesor humano para resolver cualquier problema que pueda tener con la plataforma. |
-|---|---|---|---|---|---|
-| Epic ID | EP007 | Usuario | Psicólogo  |  |  |
-| Criterios de aceptación | Escenario 01: Acceso al chatbot de soporte técnico<br>Dado que el paciente encuentra un problema con la plataforma<br>Cuando el paciente busca ayuda para resolver el problema<br>Entonces el sistema muestra un icono de chatbot claramente visible en la interfaz<br>Y el paciente hace clic en el icono para iniciar una conversación con el chatbot<br>Escenario 02: Inicio de conversación con el chatbot<br>Dado que el paciente ha accedido al chatbot de soporte técnico<br>Cuando el paciente describe el problema que está experimentando<br>Entonces el chatbot responde con un mensaje de bienvenida y ofrece opciones para ayudar al paciente a solucionar su problema<br>Escenario 03: Interacción con el chatbot para resolver el problema<br>Dado que el paciente está interactuando con el chatbot de soporte técnico<br>Cuando el paciente proporciona detalles adicionales sobre el problema o sigue las indicaciones del chatbot<br>Entonces el chatbot ofrece soluciones para resolver el problema,<br>Y el paciente sigue las instrucciones proporcionadas por el chatbot para solucionar el problema<br>Escenario 04: Transferencia a un asesor humano<br>Dado que el paciente está interactuando con el chatbot de soporte técnico<br>Cuando el paciente no puede resolver el problema utilizando las opciones proporcionadas por el chatbot<br>Entonces el chatbot ofrece al paciente la opción de hablar con un asesor humano<br>Y el paciente solicita hablar con un asesor humano para obtener ayuda adicional<br>Escenario 05: Resolución del problema por parte del asesor humano<br>Dado que el paciente ha sido transferido a un asesor humano<br>Cuando el asesor humano revisa la consulta o problema del paciente<br>Entonces el asesor humano proporciona una solución o respuesta al paciente<br>Y el paciente sigue las instrucciones del asesor humano para resolver el problema |  |  |  |  |
-
-
-| Story ID | US018 | Título | Confidencialidad de los datos del paciente | Descripción | Como paciente, quiero que mi información personal y datos de salud estén protegidos y manejados con confidencialidad. |
-|---|---|---|---|---|---|
-| Epic ID | EP007 | Usuario | Paciente |  |  |
-| Criterios de aceptación | Escenario 01: Garantía de confidencialidad de la información<br>Dado que el paciente confía en la plataforma para proteger su información personal y datos de salud,<br>Cuando el paciente proporciona su información al utilizar la plataforma,<br>Entonces el sistema asegura que todos los datos del paciente se almacenen de forma segura utilizando medidas de seguridad avanzadas, como el cifrado de extremo a extremo y el cumplimiento de estándares de seguridad de la industria. |  |  |  |  |
 
 
 ## 3.3. Impact Mapping.
@@ -792,7 +747,7 @@ Aquí, delineamos las mejoras y optimizaciones que hemos implementado para garan
 
 ## 3.4. Product Backlog. 
 
-| #Order | User Story ID | Título | Descripción | Story point |
+| **#Order** | **User Story ID** | **Título** | **Descripción** | **Story point** |
 |---|---|---|---|---|
 | 1 | US001 | Creación de hipervínculos (Header) | Como visitante de la landing page quiero poder interactuar con la landing page. | 3 |
 | 2 | US002 | Sección Servicios | Como visitante de la landing page quiero poder contactarme con MindCare | 5 |
@@ -800,18 +755,22 @@ Aquí, delineamos las mejoras y optimizaciones que hemos implementado para garan
 | 4 | US004 | Seccion Planes | Como visitante de la landing page quiero poder conocer a que planes me puedo afiliar. | 3 |
 | 5 | US005 | Iniciar Sesión | Como visitante de la landing page quiero poder ser dirigido fácilmente al apartado de iniciar sesión. | 3 |
 | 6 | US006 | Crear Cuenta | Como visitante de la landing page quiero poder ser dirigido fácilmente al apartado de crear cuenta. | 3 |
-| 7 | US007 | Visualización y Gestión de Citas para Psicólogos | Como psicólogo, quiero gestionar mis citas a través de la plataforma, para tener un control eficiente de mi tiempo y compromisos. | 8 |
-| 8 | US008 | Interacción con la sección de “Mi cuenta” | Como psicólogo, quiero crear y editar mi perfil profesional para que los pacientes puedan conocerme mejor y elegir mis servicios. | 5 |
-| 9 | US009 | Comunicación con pacientes | Como psicólogo, quiero comunicarme con mis pacientes a través de un sistema de mensajería seguro dentro de la plataforma, para garantizar la confidencialidad de la información. | 8 |
-| 10 | US010 | Integración con plataformas de Videoconferencia | Como psicólogo, quiero que la plataforma se integre con herramientas de videoconferencia, para poder realizar sesiones virtuales con mis pacientes. | 8 |
-| 11 | US011 | Búsqueda de Psicólogos | Como paciente, quiero poder buscar psicólogos por su nombre para encontrar rápidamente al profesional que deseo contactar. | 8 |
-| 12 | US012 | Programar Citas | Como paciente, quiero agendar una cita con el psicólogo de mi preferencia mediante la opción de ver sus horarios para poder reservar mi cita efectivamente. | 8 |
-| 13 | US013 | Gestionar citas programadas | Como paciente, quiero gestionar mis citas programadas desde la sección de citas, donde puedo ver mis citas en orden de fecha y tener opciones para cancelar, reprogramar, pagar o confirmar las citas según sea necesario, y recibir una confirmación de cualquier acción realizada. | 8 |
-| 14 | US014 | Pagar cita | Como paciente, quiero pagar mis citas de manera sencilla y recibir una confirmación. | 5 |
-| 15 | US015 | Comunicación con psicólogos | Como paciente, quiero comunicarme con mi psicólogo a través de la plataforma para discutir detalles previos a la cita. | 5 |
-| 16 | US016 | Configuración de la cuenta | Como paciente, quiero visualizar y editar datos de mi información personal en mi cuenta. | 3 |
-| 17 | US017 | Chatbot de ayuda | Como paciente, quiero acceder al soporte técnico fácilmente a través de un chatbot o mediante la opción de hablar con un asesor humano para resolver cualquier problema que pueda tener con la plataforma. | 8 |
-| 18 | US018 | Confidencialidad de los datos del paciente | Como paciente, quiero que mi información personal y datos de salud estén protegidos y manejados con confidencialidad. | 5 |
+| 7 | US007 | Ingreso a la de Crear Cuenta del Psicólogo | Como usuario que escogió ser psicólogo, quiero poder ser dirigido fácilmente al apartado de crear cuenta para poder gozar de los servicios de ser psicólogo en MindCare. | 3 |
+| 8 | US008 | Visualización y Gestión de Citas para Psicólogos | Como psicólogo, quiero gestionar mis citas a través de la plataforma, para tener un control eficiente de mi tiempo y compromisos. | 8 |
+| 9 | US009 | Interacción con la sección de “Mi cuenta” | Como psicólogo, quiero crear y editar mi perfil profesional para que los pacientes puedan conocerme mejor y elegir mis servicios. | 5 |
+| 10 | US009 | Comunicación con pacientes | Como psicólogo, quiero comunicarme con mis pacientes a través de un sistema de mensajería seguro dentro de la plataforma, para garantizar la confidencialidad de la información. | 8 |
+| 11 | US011 | Visualizar las notas de cada paciente | Como psicólogo, quiero poder visualizar las notas que hice en cada sesión de un paciente para poder organizar mejor mi documentación de las citas. | 5 |
+| 12 | US012 | Integración con plataformas de Videoconferencia | Como psicólogo, quiero que la plataforma se integre con herramientas de videoconferencia, para poder realizar sesiones virtuales con mis pacientes. | 8 |
+| 13 | US013 | Visualización de Tareas Asignadas | Como paciente, quiero que la plataforma me brinde un espacio de tareas asignadas para poder visualizar las actividades que me dan los psicólogos. | 5 |
+| 14 | US014 | Búsqueda de Psicólogos | Como paciente, quiero poder buscar psicólogos por su nombre para encontrar rápidamente al profesional que deseo contactar. | 8 |
+| 15 | US015 | Programar Citas | Como paciente, quiero agendar una cita con el psicólogo de mi preferencia mediante la opción de ver sus horarios para poder reservar mi cita efectivamente. | 8 |
+| 16 | US016 | Gestionar citas programadas | Como paciente, quiero gestionar mis citas programadas desde la sección de citas, donde puedo ver mis citas en orden de fecha y tener opciones para cancelar, reprogramar, pagar o confirmar las citas según sea necesario, y recibir una confirmación de cualquier acción realizada. | 8 |
+| 17 | US017 | Pagar cita | Como paciente, quiero pagar mis citas de manera sencilla y recibir una confirmación. | 5 |
+| 18 | US018 | Comunicación con psicólogos | Como paciente, quiero comunicarme con mi psicólogo a través de la plataforma para discutir detalles previos a la cita. | 5 |
+| 19 | US019 | Configuración de la cuenta | Como paciente, quiero visualizar y editar datos de mi información personal en mi cuenta. | 3 |
+| 20 | US020 | Chatbot de ayuda | Como paciente, quiero acceder al soporte técnico fácilmente a través de un chatbot o mediante la opción de hablar con un asesor humano para resolver cualquier problema que pueda tener con la plataforma. | 8 |
+| 21 | US021 | Confidencialidad de los datos del paciente | Como paciente, quiero que mi información personal y datos de salud estén protegidos y manejados con confidencialidad. | 5 |
+
 
 
 # Capítulo IV: Product Design. 
@@ -1883,19 +1842,59 @@ Tabla para poder identificarnos:
 
 ### 5.2.2. Sprint 2
 
-
-
 #### 5.2.2.1.Sprint Planning 2.
+
+| **Sprint #** | **Sprint 1** |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|
+| **Sprint Planning Background** |  |  |  |  |  |  |  |
+| **Date** | 22/04/2024 |  |  |  |  |  |  |
+| **Time** | 9:00 AM |  |  |  |  |  |  |
+| **Location** | Reunión virtual en Discord |  |  |  |  |  |  |
+| **Prepared by** | Jimena Cama Salvatierra |  |  |  |  |  |  |
+| **Attendees (to planning meeting)** | Barbara Susana Quezada Portalatino, Jimena Tamara Cama Salvatierra, Sebastian Nicolas Cachis Gonzales, Enzo Paolo Noblecilla Jimenez, Elias Yauri Paucar |  |  |  |  |  |  |
+| **Sprint Goal & User stories** |  |  |  |  |  |  |  |
+| **Sprint 2 Goal** | Implementar los bounded context principales del proyecto en la web application |  |  |  |  |  |  |
+| **Sprint 2 Velocity** | 5 |  |  |  |  |  |  |
+| **Sum of story points** | 9 |  |  |  |  |  |  |
 
 
 
 #### 5.2.2.2.Sprint Backlog 2.
 
+Para el segundo sprint backlog, reunimos las historias de usuario relacionadas con los bounded context principales de nuestra web application. La herramienta que utilizamos fue Trello. Gracias a esta, pudimos dividir las historias de usuario en tareas fáciles de realizar y repartirlas entre los miembros del grupo. Los user stories que realizaremos para esta entrega serán:
+
+
+| **Sprint #**    | **Sprint 2** |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|
+| **User Story** |  | **Work-Item / Task** |  |  |  |  |  |
+| **ID** | **Title** | **ID** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** |  |
+| US005 | Iniciar Sesión | TA001 | Ingreso de datos | Se realiza un forms en donde el usuario ingresa los datos | ½ hora | Enzo Noblecilla |  |
+| US006 | Creación de la cuenta | TA001 | Ingreso de datos | Se realiza un forms en donde el usuario ingresa los datos | 1 hora | Enzo Noblecilla |  |
+| US008 | Visualización y Gestión de Citas para Psicólogos | TA001 | Mostrar calendario | Se muestra el calendario | 2 horas | Sebastian Cachis |  |
+| US010 | Visualizar las notas de cada paciente | TA001 | Mostrar la informacion del paciente | Se realiza una seccion que muestra la foto y la informacion del paciente | ½ hora | Elias Yauri |  |
+|  |  | TA002 | Mostrar las notas que se hicieron durante la reunion | Se realiza una seccion en la que el psicologo pueda escribir sus notas | 3 horas | Elias Yauri |  |
+| US013 | Búsqueda de Psicólogos por Nombre | TA001 | Mostrar una lista de psicologos | Se realiza una seccion que muestre a todos los psicologos | 1 ½hora | Jimena Cama |  |
+|  |  | TA002 | Filtrar por nombre | Se implementa una sección de búsqueda por nombre | 2 horas | Jimena Cama |  |
+| US015 | Búsqueda de Psicólogos por Nombre | TA001 | Mostrar una lista de psicologos | Se realiza una seccion que muestre a todos los psicologos | 1 ½hora | Jimena Cama |  |
+|  |  | TA002 | Filtrar por nombre | Se implementa una sección de búsqueda por nombre | 2 horas | Jimena Cama |  |
+| US016 | Gestionar citas programadas | TA001 | Mostrar los datos de las citas | Se desarrolla una seccion para mostrar las citas y sus caractertisticas | 1 hora | Barbara Quezada |  |
+|  |  | TA002 | Editar el estado de la cita | Se desarrollan botones para poder interactuar con el estado de la cita | 1 hora | Barbara Quezada |  |
+| US012 | Integración con plataformas de Videoconferencia | TA001 | Dividir entre grabadas y programadas | Se desarrolla una seccion en donde se elige que tipo de reunion se quiere visualizar | ½ hora | Bárbara Quezada |  |
+|  |  | TA002 | Mostrar las citas programadas | Se muestra una lista de las citas programadas con su respectivo boton hacia el link | 1 hora | Bárbara Quezada |  |
 
 
 #### 5.2.2.3.Development Evidence for Sprint Review.
 
-
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body |
+|---|---|---|---|---|
+| https://github.com/si729-2401-WS51-grupo3/Testing/commit/d24ed5aa4f3d2a9df71e095798a4e99c48969edc | develop | d24ed5aa4f3d2a9df71e095798a4e99c48969edc | feat: add US005 | feat: add Iniciar Sesión |
+| https://github.com/si729-2401-WS51-grupo3/Testing/commit/f66827de50f4838b0e80725f212c191ac25de372 | develop | f66827de50f4838b0e80725f212c191ac25de372 | feat: add US006 | feat: add Crear cuenta |
+| https://github.com/si729-2401-WS51-grupo3/Testing/commit/054387971ed1612c107cfec2a4134736a47b75c1 | develop | 054387971ed1612c107cfec2a4134736a47b75c1 | feat: add US008 | feat: add Visualización y Gestión de Citas para Psicólogos |
+| https://github.com/si729-2401-WS51-grupo3/Testing/commit/29a3bd10cb47843afedc4eb74139ae8074329492 | develop | 29a3bd10cb47843afedc4eb74139ae8074329492 | feat: add US010 | feat: add Comunicación con pacientes |
+| https://github.com/si729-2401-WS51-grupo3/Testing/commit/9af30ca122b5cc3d9a76e2abd3078ef8fa5210fb | develop | 9af30ca122b5cc3d9a76e2abd3078ef8fa5210fb | feat: add US012 | feat: add Integración con plataformas de Videoconferencia |
+| https://github.com/si729-2401-WS51-grupo3/Testing/commit/7bba82613012ee6424d1ccabe53d704077c65c24 | develop | 7bba82613012ee6424d1ccabe53d704077c65c24 | feat: add US013 | feat: add Visualización de Tareas Asignadas |
+| https://github.com/si729-2401-WS51-grupo3/Testing/commit/f274ecff873168b9dd2113c16dadae40c42349b9 | develop | f274ecff873168b9dd2113c16dadae40c42349b9 | feat: add US015 | feat: add Agendar Citas con Psicólogos |
+| https://github.com/si729-2401-WS51-grupo3/Testing/commit/965dbccfffb448d7ad9fa4b471b5d72000569149 | develop | 965dbccfffb448d7ad9fa4b471b5d72000569149 | feat: add US016 | feat: add Gestionar citas programadas |
 
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
 
