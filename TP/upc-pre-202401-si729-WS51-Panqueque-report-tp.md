@@ -1881,6 +1881,61 @@ Tabla para poder identificarnos:
 
 ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/8324ae1c-c2a1-487b-9d65-0fd5870b6d79)
 
+### 5.2.2. Sprint 2
+
+
+
+#### 5.2.2.1.Sprint Planning 2.
+
+
+
+#### 5.2.2.2.Sprint Backlog 2.
+
+
+
+#### 5.2.2.3.Development Evidence for Sprint Review.
+
+
+
+#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+
+
+
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+
+Durante este segundo sprint los integrantes del equipo desarrollaron las distintas bounded context del dominio de Mind Care, emplenado los conocimientos aprendidos sobre el framework de Angular, usando los componentes de Angular Material y haciendo uso de la estructura.
+
+- Jimena Cama
+
+![image](https://github.com/si729-2401-WS51-grupo3/documentation/assets/130580982/82178193-a96f-491d-b9e7-6276d9df0bbc)
+
+![image](https://github.com/si729-2401-WS51-grupo3/documentation/assets/130580982/6a3b3831-9443-4b97-8411-3c1f47db108f)
+
+- Sebastian Cachis
+
+![image](https://github.com/si729-2401-WS51-grupo3/documentation/assets/130580982/c50aff11-e8bf-458b-b5ba-3215a7aa7089)
+
+![image](https://github.com/si729-2401-WS51-grupo3/documentation/assets/130580982/f1706d1e-fb90-4d51-88d4-cfb99a850350)
+
+- Elias Yauri
+
+- Barbara Quezada
+
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+
+Durante este sprint, nuestro enfoque principal ha sido documentar exhaustivamente los endpoints de nuestros servicios web en Mind Care. Esto nos ha permitido proporcionar una visión clara de las acciones disponibles en nuestra plataforma tanto para usuarios como para psicólogos, facilitando su comprensión y uso. Hemos detallado acciones como listar psicólogos y pacientes, agendar citas, enviar feedback y configurar la privacidad, asegurando que cada endpoint esté bien definido con ejemplos de llamadas y explicaciones claras de las respuestas esperadas.
+
+Además de la documentación, hemos realizado capturas de interacción que muestran cómo se ven estas acciones en la práctica, brindando una guía visual para los usuarios y desarrolladores. Todo este trabajo se ha realizado en nuestro repositorio de Web Services en GitHub, donde hemos vinculado cada documentación con sus respectivos commits para una trazabilidad completa. Este esfuerzo nos ha acercado aún más a nuestro objetivo de brindar una experiencia de usuario informada y satisfactoria en Mind Care, asegurando que nuestros servicios sean accesibles y fáciles de usar para todos los involucrados.
+
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+
+
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
+
+
+
 # Conclusiones
 El desarrollo de MindCare ha sido un proceso desafiante pero gratificante. El equipo ha demostrado un gran compromiso, trabajo en equipo y capacidad para resolver problemas, logrando identificar las necesidades de los usuarios, diseñar una plataforma fácil de usar, desarrollar una plataforma robusta, probar y validar la plataforma.
 
