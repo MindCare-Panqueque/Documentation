@@ -1906,7 +1906,69 @@ Para el segundo sprint backlog, reunimos las historias de usuario relacionadas c
 
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
 
-
+<table>
+<colgroup>
+<col style="width: 29%" />
+<col style="width: 16%" />
+<col style="width: 10%" />
+<col style="width: 15%" />
+<col style="width: 16%" />
+<col style="width: 12%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Repository</th>
+<th>Branch</th>
+<th>Commit Id</th>
+<th><p>Commit</p>
+<p>Message</p></th>
+<th><p>Commit</p>
+<p>Message Body</p></th>
+<th><p>Commited</p>
+<p>on (Date)</p></th>
+</tr>
+<tr class="odd">
+<th rowspan="5">si729-2401-WS51-grupo3/mindcare-front</th>
+<th>feature/SebastianCachis</th>
+<th>5144306</th>
+<th>add: inclde the responsive in the section
+SebastianCachisGonzales</th>
+<th>add: inclde the responsive in the section
+SebastianCachisGonzales</th>
+<th>02/05/2024</th>
+</tr>
+<tr class="header">
+<th>feature/BarbaraQuezada</th>
+<th>f18b457</th>
+<th>adding classes barbaraquezada</th>
+<th>adding classes barbaraquezada</th>
+<th>03/05/2024</th>
+</tr>
+<tr class="odd">
+<th>feature/EliasYauriPaucar</th>
+<th>35d2a99</th>
+<th>feat:added section patient</th>
+<th>feat:added section patient</th>
+<th>03/05/2024</th>
+</tr>
+<tr class="header">
+<th>feature/JimenaCama</th>
+<th>8205df7</th>
+<th>editing icon-page JimenaCama</th>
+<th>editing icon-page JimenaCama</th>
+<th>02/05/2024</th>
+</tr>
+<tr class="odd">
+<th>feature/EnzoNoblecillaJimenez</th>
+<th>-</th>
+<th>-</th>
+<th>-</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
 #### 5.2.2.5.Execution Evidence for Sprint Review.
 
@@ -1926,7 +1988,7 @@ Durante este segundo sprint los integrantes del equipo desarrollaron las distint
 
 - Elias Yauri
 
-
+![image](https://github.com/si729-2401-WS51-grupo3/documentation/assets/133830443/64639225-fdce-41d5-bb69-d97743012f5a)
 
 - Barbara Quezada
 
@@ -1943,11 +2005,85 @@ Además de la documentación, hemos realizado capturas de interacción que muest
 
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 
+Para la entrega del segundo sprint, se desplego el landing page completamente funcional. Cumpliendo los user stories
+correspondientes al entregable. De la misma forma se desplego la web application parcialmente completa, pues falta la
+implementación de algunas secciones que se harán en el siguiente sprint.
 
+Landing page:
+Link de la landing page: https://si729-2401-ws51-grupo3.github.io/landing-page/ 
+
+Contactanos:
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/750dba58-3942-40bd-a23f-6aca836c606d)
+
+Planes:
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/d954a726-3fae-4147-9682-1c88840cfddc)
+
+Sobre Nosotros:
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/b7bf37cf-200f-44f4-b547-9f023a14c104)
+
+Servicios:
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/15a794ae-ae94-4920-a765-e8cc59cf1b1b)
+
+Inicio:
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/7b40fbce-61ff-4bb9-9387-54b6cfe8aab8)
+
+Crear cuenta:
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/e7b6ea72-7489-40ca-9786-161910db9e3b)
+
+Iniciar sesión:
+![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/cb25353e-a649-488c-8c13-338b9d5c2083)
+
+Web Aplication:
+
+- Jimena Cama
+
+![image](https://github.com/si729-2401-WS51-grupo3/documentation/assets/130580982/82178193-a96f-491d-b9e7-6276d9df0bbc)
+
+![image](https://github.com/si729-2401-WS51-grupo3/documentation/assets/130580982/6a3b3831-9443-4b97-8411-3c1f47db108f)
+
+link: https://daos-ws51-searchandmatch.web.app/
+
+- Sebastian Cachis
+
+![image](https://github.com/si729-2401-WS51-grupo3/documentation/assets/130580982/c50aff11-e8bf-458b-b5ba-3215a7aa7089)
+
+![image](https://github.com/si729-2401-WS51-grupo3/documentation/assets/130580982/f1706d1e-fb90-4d51-88d4-cfb99a850350)
+
+link: https://daos-ws51-mind-care.web.app/home 
+
+- Elias Yauri
+
+![image](https://github.com/si729-2401-WS51-grupo3/documentation/assets/133830443/64639225-fdce-41d5-bb69-d97743012f5a)
+
+link: https://daos-ws51-therapy-design.web.app 
+
+- Barbara Quezada
+
+![image](https://github.com/si729-2401-WS51-grupo3/documentation/assets/130580982/10abfdcb-b0c3-4168-9562-7a601ee3fb84)
+
+![image](https://github.com/si729-2401-WS51-grupo3/documentation/assets/130580982/b25d6c6b-a695-43ce-a06e-6e0cc24ca2e5)
+
+link: https://daos-ws51-therapymanagement.web.app/
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
+| Alumno                             | Actividad                                                             |
+|------------------------------------|-----------------------------------------------------------------------|
+| Cama Salvatierra, Jimena Tamara    | Implementación del bounded context search and match en la web app |
+| Cachis Gonzales, Sebastian Nicolas | Implementación del bounded context therapy design y apointment magament de la web app    |
+| Noblecilla Jimenez, Enzo Paolo     | Implementación del bounded context crear cuenta/verificacion de la web app       |
+| Quezada Portalatino, Barbara Susana| Implementación del bounded context therapy management de la web app       |
+| Yauri Paucar, Elias                | Implementación del bounded context therapy design en la web app       |
 
+Repositorio Landing Page:
+
+![image](https://github.com/si729-2401-WS51-grupo3/documentation/assets/133830443/c9bb129c-263b-4dca-9329-63c2e5654f1e)
+![image](https://github.com/si729-2401-WS51-grupo3/documentation/assets/133830443/6c49e89a-cead-46e0-9363-244fe5f8ccec)
+
+Repositorio Web Application:
+
+![image](https://github.com/si729-2401-WS51-grupo3/documentation/assets/133830443/711cf818-2d8d-40aa-86cb-3ee6fcd9af9e)
+![image](https://github.com/si729-2401-WS51-grupo3/documentation/assets/133830443/ec74b3d1-9c16-446e-88ee-58ad8bb35115)
 
 # Conclusiones
 El desarrollo de MindCare ha sido un proceso desafiante pero gratificante. El equipo ha demostrado un gran compromiso, trabajo en equipo y capacidad para resolver problemas, logrando identificar las necesidades de los usuarios, diseñar una plataforma fácil de usar, desarrollar una plataforma robusta, probar y validar la plataforma.
