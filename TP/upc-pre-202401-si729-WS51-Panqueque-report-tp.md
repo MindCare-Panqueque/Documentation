@@ -2013,24 +2013,31 @@ Landing page:
 Link de la landing page: https://si729-2401-ws51-grupo3.github.io/landing-page/ 
 
 Contactanos:
+
 ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/750dba58-3942-40bd-a23f-6aca836c606d)
 
 Planes:
+
 ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/d954a726-3fae-4147-9682-1c88840cfddc)
 
 Sobre Nosotros:
+
 ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/b7bf37cf-200f-44f4-b547-9f023a14c104)
 
 Servicios:
+
 ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/15a794ae-ae94-4920-a765-e8cc59cf1b1b)
 
 Inicio:
+
 ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/7b40fbce-61ff-4bb9-9387-54b6cfe8aab8)
 
 Crear cuenta:
+
 ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/e7b6ea72-7489-40ca-9786-161910db9e3b)
 
 Iniciar sesión:
+
 ![image](https://github.com/MindCare-Panqueque/Informe/assets/130580982/cb25353e-a649-488c-8c13-338b9d5c2083)
 
 Web Aplication:
