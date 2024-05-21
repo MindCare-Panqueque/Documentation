@@ -681,65 +681,105 @@ Aquí, delineamos las mejoras y optimizaciones que hemos implementado para garan
 
 | Story ID | US001 | Título | Interacción con hipervínculos en la landing page | Descripción | Como visitante en MindCare quiero poder interactuar con la landing page. |
 |---|---|---|---|---|---|
-| Epic ID | EP002 | Usuario | Visitante landing |  |  |
+| Epic ID | EP001 | Usuario | Visitante landing |  |  |
 | Criterios de aceptación | Escenario 1: Interacción con hipervínculos <br>Dado que el visitante interactúa con los hipervínculos.<br>Cuando el visitante selecciona una de las secciones.<br>Entonces  el visitante es dirigido a la sección seleccionada. |  |  |  |  |
-
 
 | Story ID | US002 | Título | Interacción con la sección de “Contáctanos” | Descripción | Como visitante de la landing page quiero poder contactarme con MindCare. |
 |---|---|---|---|---|---|
-| Epic ID | EP002 | Usuario | Visitante Landing |  |  |
-| Criterios de aceptación | Escenario 1: Interacción con el hipervínculo<br>Dado que el visitante se encuentra en la landing page<br>Cuando el visitante haga clic en el hipervínculo de "Contáctanos"<br>Entonces el sistema dirigirá al visitante a la sección de contacto.<br><br>Escenario 2: Ingresa datos<br>Dado que el visitante se encuentra en la sección de contacto<br>Cuando el visitante haga clic en las barras de texto<br>Entonces el sistema guardará automáticamente el texto ingresado por el visitante.<br><br>Escenario 3: Enviar datos<br>Dado que el visitante se encuentra en la landing page<br>Cuando el visitante haga clic en el botón "submit"<br>Entonces el sistema leerá los textos ingresados <br>Y serán enviados a nuestro soporte técnico |  |  |  |  |
-
+| Epic ID | EP001 | Usuario | Visitante Landing |  |  |
+| Criterios de aceptación | Escenario 1: Interacción con el hipervínculo<br>Dado que el visitante se encuentra en la landing page<br>Cuando el visitante haga clic en el hipervínculo de "Contáctanos"<br>Entonces el sistema dirigirá al visitante a la sección de contacto.<br>Escenario 2: Ingresa datos<br>Dado que el visitante se encuentra en la sección de contacto<br>Cuando el visitante haga clic en las barras de texto<br>Entonces el sistema guardará automáticamente el texto ingresado por el visitante.<br>Escenario 3: Enviar datos<br>Dado que el visitante se encuentra en la landing page<br>Cuando el visitante haga clic en el botón "submit"<br>Entonces el sistema leerá los textos ingresados <br>Y serán enviados a nuestro soporte técnico |  |  |  |  |
 
 | Story ID | US003 | Título | Interacción con la sección de “Servicios” | Descripción | Como visitante de la landing page quiero tener conocimiento de los servicios que brinda MindCare. |
 |---|---|---|---|---|---|
-| Epic ID | EP002 | Usuario | Visitante Landing |  |  |
+| Epic ID | EP001 | Usuario | Visitante Landing |  |  |
 | Criterios de aceptación | Escenario 1: Interacción con el hipervínculo<br>Dado que el visitante se encuentra en la landing page<br>Cuando haga clic en el hipervínculo de “Servicios”<br>Entonces el sistema dirigirá al visitante a esa sección<br>Escenario 2: Interacción con cartillas<br>Dado que el visitante se encuentra en la sección “Servicios”<br>Entonces el visitante podrá ver más información de los servicios de MindCare |  |  |  |  |
 
 
 | Story ID | US004 | Título | Interacción con la sección de “Planes” | Descripción | Como visitante de la landing page quiero poder conocer a qué planes me puedo afiliar en MindCare. |
 |---|---|---|---|---|---|
-| Epic ID | EP002 | Usuario | Visitante Landing |  |  |
-| Criterios de aceptación | Escenario 1: Interacción con el hipervínculo<br>Dado que el visitante se encuentra en la landing page<br>Cuando haga clic en el hipervínculo de “Planes”<br>Entonces el sistema dirigirá al visitante a esa sección<br>Escenario 2: Interacción con cartillas<br>Dado que el visitante se encuentra en la sección “Planes”<br>Cuando pueda leer la información que ofrece cada plan y el costo<br>Entonces el sistema podrá crear una cuenta al visitante |  |  |  |  |
-
+| Epic ID | EP001 | Usuario | Visitante Landing |  |  |
+| Criterios de aceptación | Escenario 1: Interacción con el hipervínculo<br>Dado que el visitante se encuentra en la landing page<br>Cuando haga clic en el hipervínculo de “Planes”<br>Entonces el sistema dirigirá al visitante a esa sección<br>Escenario 2: Interacción con cartillas<br>Dado que el visitante se encuentra en la sección “Planes”<br>Cuando el visitante terminó de leer la información que ofrece cada plan y el costo<br>Y el visitante elige el plan de su preferencia<br>Entonces el sistema crea una cuenta al visitante según el plan que eligió |  |  |  |  |
 
 | Story ID | US005 | Título | Ingreso a la interfaz de Iniciar Sesión | Descripción | Como visitante de la landing page quiero poder ser dirigido fácilmente al apartado de iniciar sesión. |
 |---|---|---|---|---|---|
-| Epic ID | EP001 | Usuario | Visitante Landing |  |  |
+| Epic ID | EP002 | Usuario | Visitante Landing |  |  |
 | Criterios de aceptación | Escenario 1: Redirigir al visitante al apartado de inicio de sesión<br>Dado que el visitante se encuentra en la landing page y quiere iniciar sesión en MindCare<br>Cuando haga clic al botón de "iniciar sesión" <br>Entonces será enviado a la pestaña de inicio de sesión.<br>Escenario 2: Ingresar datos correctos de su cuenta<br>Dado que el visitante se encuentra en la pestaña de inicio de sesión<br>Cuando ingrese sus datos<br>Y le dé clic a Ingresar<br>Entonces podrá ingresar a las diferentes secciones que posee según su usuario.<br>Escenario 3: Ingresar datos incorrectos de su cuenta<br>Dado que el visitante se encuentra en la pestaña de inicio de sesión<br>Cuando ingrese datos incorrectos<br>Y le dé clic a Ingresar<br>Entonces recibirá un mensaje de error indicando que los datos son incorrectos. |  |  |  |  |
 
-
-| Story ID | US006 | Título | Ingreso a la interfaz de Crear Cuenta | Descripción | Como visitante de la landing page quiero poder ser dirigido fácilmente al apartado de crear cuenta. |
+| Story ID | US006 | Título | Ingreso a la interfaz de Crear Cuenta del Paciente | Descripción | Como paciente, quiero poder ser dirigido fácilmente al apartado de crear cuenta para poder gozar de los servicios de ser paciente en MindCare. |
 |---|---|---|---|---|---|
-| Epic ID | EP001 | Usuario | Visitante Landing |  |  |
-| Criterios de aceptación | Escenario 1: Redirigir al visitante al apartado de creación de cuenta<br>Dado que un visitante está en la landing page <br>Y quiere registrarse en MindCare<br>Cuando hace clic en el botón "Crear cuenta"<br>Entonces debería ser enviado a la pestaña de creación de cuentas.<br>Escenario 2: Ingresar datos válidos para crear una cuenta<br>Dado que el visitante está en la pestaña de creación de cuentas<br>Cuando ingresa datos válidos para crear una cuenta<br>Y hace clic en el botón "Crear cuenta"<br>Entonces se crea exitosamente la cuenta y se redirige al usuario a la página principal.<br>Escenario 3: Ingresar datos inválidos para crear una cuenta<br>Dado que el visitante está en la pestaña de creación de cuentas<br>Cuando ingresa datos inválidos para crear una cuenta<br>Y hace clic en el botón "Crear cuenta"<br>Entonces se muestra un mensaje de error indicando que los datos ingresados son inválidos.<br>Escenario 4: Intentar crear una cuenta con un correo electrónico ya registrado<br>Dado que el visitante está en la pestaña de creación de cuentas<br>Y el correo electrónico ingresado ya está asociado a una cuenta existente<br>Cuando intenta crear una cuenta con ese correo electrónico<br>Entonces se muestra un mensaje de error indicando que el correo electrónico ya está registrado. |  |  |  |  |
+| Epic ID | EP002 | Usuario | Paciente |  |  |
+| Criterios de aceptación | Escenario 1: Redirigir al paciente al apartado de creación de cuenta<br>Dado que un visitante está en la landing page<br>Cuando selecciona la opción "Crear cuenta"<br>Entonces el sistema  redirige al visitante a la página de selección de plan.<br>Escenario 2: Seleccionar el plan de paciente<br>Dado que el visitante está en la página de selección de plan<br>Cuando selecciona el plan de "Paciente"<br>Entonces el sistema redirige al visitante a la interfaz de creación de cuenta para paciente.<br>Escenario 3: Ingresar datos válidos para crear una cuenta<br>Dado que el paciente está en la interfaz de creación de cuenta para paciente<br>Cuando proporciona un correo electrónico y contraseña válidos<br>Y hace clic en el botón "Crear cuenta"<br>Entonces se crea exitosamente la cuenta <br>Y redirige al paciente a la página principal de su interfaz.<br>Escenario 4: Ingresar datos inválidos para crear una cuenta<br>Dado que el paciente está en la interfaz de creación de cuenta para paciente<br>Cuando ingresa datos inválidos para crear una cuenta<br>Y hace clic en el botón "Crear cuenta"<br>Entonces el sistema muestra un mensaje de error indicando que los datos ingresados son inválidos. |  |  |  |  |
 
-
-| Story ID | US007 | Título | Ingreso a la interfaz de Crear Cuenta del Psicólogo | Descripción | Como usuario que escogió ser psicólogo, quiero poder ser dirigido fácilmente al apartado de crear cuenta para poder gozar de los servicios de ser psicólogo en MindCare. |
+| Story ID | US007 | Título | Ingreso a la interfaz de Crear Cuenta del Psicólogo | Descripción | Como psicólogo, quiero poder ser dirigido fácilmente al apartado de crear cuenta para poder gozar de los servicios de ser psicólogo en MindCare. |
 |---|---|---|---|---|---|
 | Epic ID | EP002 | Usuario | Psicólogo |  |  |
 | Criterios de aceptación | Escenario 1: Redirigir al psicólogo al apartado de creación de cuenta<br>Dado que un visitante está en la landing page<br>Cuando selecciona la opción "Crear cuenta"<br>Entonces el sistema  redirige al visitante a la página de selección de plan.<br>Escenario 2: Seleccionar el plan de psicólogo<br>Dado que el visitante está en la página de selección de plan<br>Cuando selecciona el plan de "Psicólogo"<br>Entonces el sistema redirige al visitante a la interfaz de creación de cuenta para psicólogo.<br>Escenario 3: Ingresar datos válidos para crear una cuenta de psicólogo<br>Dado que el psicólogo está en la interfaz de creación de cuenta para psicólogo<br>Cuando proporciona un correo electrónico, nombre, apellidos, nombre de la institución y adjunta archivos que prueben sus estudios<br>Y crea su contraseña<br>Y hace clic en el botón "Crear cuenta"<br>Entonces el sistema crea exitosamente la cuenta <br>Y redirige al psicólogo a la página principal de su interfaz.<br>Escenario 4: Ingresar datos inválidos para crear una cuenta de psicólogo<br>Dado que el psicólogo está en la interfaz de creación de cuenta para psicólogo<br>Cuando ingresa datos inválidos para crear una cuenta<br>Y hace clic en el botón "Crear cuenta"<br>Entonces el sistema muestra un mensaje de error indicando que los datos ingresados son inválidos. |  |  |  |  |
 
-
-| Story ID | US008 | Título | Visualización y Gestión de Citas para Psicólogos | Descripción | Como psicólogo, quiero gestionar mis citas a través de la plataforma, para tener un control eficiente de mi tiempo y compromisos. |
+| Story ID | US008 | Título | Visualización del calendario | Descripción | Como psicólogo, quiero ver mis citas pendientes en un calendario general para una mejor organización. |
 |---|---|---|---|---|---|
 | Epic ID | EP003 | Usuario | Psicólogo  |  |  |
-| Criterios de aceptación | Escenario 01: Accede a la plataforma<br>Dado que el psicólogo está registrado en la plataforma<br>Cuando el psicólogo accede a su cuenta con sus credenciales<br>Entonces el sistema lo dirige a su panel de control personalizado<br>Escenario 02: Visualiza sus citas mensuales<br>Dado que el psicólogo ingresa a su panel de control de la plataforma<br>Cuando el psicólogo hace clic en el botón "Calendario"<br>Entonces el sistema muestra el calendario con el estado actual de cada cita que posee el psicólogo ("Programada", "Confirmada", "Cancelada" y “Primeras Sesiones”)<br>Escenario 03: Visualiza sólo las citas programadas en el calendario<br>Dado que el psicólogo está viendo el calendario de citas<br>Cuando el psicólogo selecciona la opción "Citas Programadas"<br>Entonces el sistema muestra solo las citas que están programadas en el calendario.<br>Escenario 04: Visualiza sólo las citas confirmadas en el calendario<br>Dado que el psicólogo está viendo el calendario de citas<br>Cuando el psicólogo selecciona la opción "Citas Confirmadas"<br>Entonces el sistema muestra solo las citas que están confirmadas en el calendario.<br>Escenario 05: Visualiza sólo las citas canceladas en el calendario<br>Dado que el psicólogo está viendo el calendario de citas<br>Cuando el psicólogo selecciona la opción "Citas Canceladas"<br>Entonces el sistema muestra solo las citas que están canceladas en el calendario.<br>Escenario 06: Visualiza solo las primeras sesiones en el calendario<br>Dado que el psicólogo está viendo el calendario de citas<br>Cuando el psicólogo selecciona la opción "Primeras Sesiones"<br>Entonces el sistema muestra solo las primeras sesiones programadas de los pacientes nuevos en el calendario. |  |  |  |  |
-
+| Criterios de aceptación | Escenario 01: Ingreso a la interfaz de calendario<br>Dado que el psicólogo se encuentra en su cuenta<br>Cuando le de click al icono de calendario<br>Entonces ve un calendario con las citas agendadas para este mes<br>Escenario 2: Interacción con los filtros<br>Dado que el psicólogo se encuentra en la interfaz del calendario de citas<br>Y visualiza sus citas agendadas en el calendario<br>Cuando de click a uno de los filtros "Programadas", "Confirmadas", "Canceladas", "Primeras sesiones"<br>Entonces las citas en el calendario se filtran |  |  |  |  |
 
 | Story ID | US009 | Título | Interacción con la sección de “Mi cuenta” | Descripción | Como psicólogo, quiero crear y editar mi perfil profesional para que los pacientes puedan conocerme mejor y elegir mis servicios. |
 |---|---|---|---|---|---|
 | Epic ID | EP002 | Usuario | Psicólogo  |  |  |
 | Criterios de aceptación | Escenario 01: Acceder a la sección de perfil profesional<br>Dado que el psicólogo está registrado en la plataforma<br>Cuando el psicólogo accede a su cuenta con sus credenciales<br>Entonces el sistema lo dirige a su panel de control personalizado<br>Escenario 02: Crear perfil profesional<br>Dado que el psicólogo está en su panel de control de la plataforma<br>Cuando el psicólogo selecciona la opción “Mi cuenta” para crear su perfil profesional<br>Y completa los campos requeridos como nombre, fecha de nacimiento, dni, género, etc.<br>Entonces el sistema guarda automáticamente los datos ingresados<br>Escenario 03: Editar perfil profesional<br>Dado que el psicólogo está en su panel de control de la plataforma<br>Cuando el psicólogo selecciona la opción “Mi cuenta” para editar su perfil profesional<br>Y realiza cambios en los campos existentes,  como nombre, fecha de nacimiento, dni, género, etc.<br>Entonces el sistema actualiza automáticamente los datos ingresados |  |  |  |  |
 
-
-| Story ID | US010 | Título | Comunicación con pacientes | Descripción | Como psicólogo, quiero comunicarme con mis pacientes a través de un sistema de mensajería seguro dentro de la plataforma, para garantizar la confidencialidad de la información. |
+| Story ID | US010 | Título | Visualizar las notas de cada paciente | Descripción | Como psicólogo, quiero poder visualizar las notas que hice en cada sesión de un paciente para poder organizar mejor mi documentación de las citas. |
 |---|---|---|---|---|---|
 | Epic ID | EP004 | Usuario | Psicólogo  |  |  |
-| Criterios de aceptación | Escenario 01: Iniciar una conversación con un paciente<br>Dado que el psicólogo está autenticado en la plataforma<br>Cuando el psicólogo selecciona a un paciente específico de su lista de pacientes<br>Entonces el sistema proporciona una opción para iniciar una conversación de mensajería con ese paciente<br>Y el psicólogo puede enviar mensajes seguros al paciente a través del sistema de mensajería dentro de la plataforma.<br>Escenario 02: Responder a un mensaje de un paciente<br>Dado que el psicólogo recibe una notificación de que un paciente ha enviado un mensaje<br>Cuando el psicólogo accede a su bandeja de entrada de mensajes dentro de la plataforma<br>Entonces el sistema muestra el mensaje del paciente de manera segura<br>Y el psicólogo puede responder al mensaje del paciente de manera confidencial utilizando el sistema de mensajería seguro dentro de la plataforma. |  |  |  |  |
+| Criterios de aceptación | Escenario 01: Selección de un paciente específico<br>Dado que el psicólogo está en la sección de pacientes<br>Cuando el psicólogo selecciona a un paciente específico de la galería<br>Entonces el sistema muestra las notas asociadas a ese paciente.<br>Escenario 02: Visualización de las notas del paciente<br>Dado que el psicólogo ha seleccionado a un paciente específico<br>Cuando el psicólogo visualiza las notas asociadas a ese paciente<br>Entonces el sistema muestra una lista de notas disponibles para ese paciente.<br>Escenario 03: Visualización de una nota específica<br>Dado que el psicólogo está visualizando las notas de un paciente<br>Cuando el psicólogo hace clic en una nota específica de la lista<br>Entonces el sistema despliega el contenido completo de esa nota.<br>Escenario 04: Creación de una nueva nota<br>Dado que el psicólogo está visualizando las notas de un paciente<br>Cuando el psicólogo decide crear una nueva nota<br>Entonces el sistema proporciona un editor de texto para escribir la nueva nota.<br>Escenario 05: Guardado privado de la nota<br>Dado que el psicólogo ha escrito una nueva nota y desea guardarla<br>Cuando el psicólogo decide guardar la nota de manera privada<br>Entonces el sistema guarda la nota en su perfil de manera privada y no visible para el paciente.<br>Escenario 06: Publicación de la nota para el paciente<br>Dado que el psicólogo ha escrito una nueva nota y desea publicarla para el paciente<br>Cuando el psicólogo decide publicar la nota<br>Entonces el sistema hace visible la nota para el paciente en su perfil. |  |  |  |  |
+
+| Story ID | US011 | Título | Integración con plataformas de Videoconferencia | Descripción | Como psicólogo, quiero que la plataforma se integre con herramientas de videoconferencia, para poder realizar sesiones virtuales con mis pacientes. |
+|---|---|---|---|---|---|
+| Epic ID | EP003 | Usuario | Psicólogo |  |  |
+| Criterios de aceptación | Escenario 01: Creación de una sesión virtual<br>Dado que el psicólogo está programando una cita con un paciente<br>Cuando el psicólogo selecciona la opción para programar una sesión virtual<br>Entonces el sistema genera automáticamente un enlace de videoconferencia en zoom<br>Y el sistema incluye el enlace en la invitación de la cita enviada al paciente.<br>Escenario 02: Inicio de la sesión virtual<br>Dado que ha llegado el momento programado para la sesión virtual<br>Cuando el psicólogo y el paciente acceden a la plataforma en el horario acordado<br>Entonces el sistema activa automáticamente la sesión de zoom<br>Y el psicólogo y el paciente pueden iniciar la sesión virtual con un solo clic desde la plataforma. |  |  |  |  |
+
+| Story ID | US012 | Título | Visualización de Tareas Asignadas | Descripción | Como paciente, quiero que la plataforma me brinde un espacio de tareas asignadas para poder visualizar las actividades que me dan los psicólogos. |
+|---|---|---|---|---|---|
+| Epic ID | EP004 | Usuario | Paciente |  |  |
+| Criterios de aceptación | Escenario 01: Acceso a la sección de tareas asignadas<br>Dado que el paciente desea visualizar las tareas asignadas por su psicólogo<br>Cuando el paciente ingresa a la plataforma y accede a la sección de notas o tareas asignadas<br>Entonces el sistema le muestra una lista de las tareas disponibles.<br>Escenario 02: Visualización de archivos de tareas<br>Dado que el paciente está en la sección de tareas asignadas<br>Cuando el paciente visualiza la lista de tareas disponibles<br>Entonces el sistema muestra los archivos adjuntos asociados a cada tarea.<br>Escenario 03: Visualización del contenido de una tarea<br>Dado que el paciente ha visualizado la lista de tareas y archivos asociados<br>Cuando el paciente hace clic en uno de los archivos de tarea<br>Entonces el sistema despliega el texto de la actividad asignada por el psicólogo, permitiendo al paciente leer y comprender la tarea con detalle. |  |  |  |  |
+
+| Story ID | US013 | Título | Búsqueda de Psicólogos | Descripción | Como paciente, quiero poder buscar psicólogos por su nombre para encontrar rápidamente al profesional que deseo contactar. |
+|---|---|---|---|---|---|
+| Epic ID | EP004 | Usuario | Paciente |  |  |
+| Criterios de aceptación | Criterios de aceptación<br>Escenario 01: Búsqueda de psicólogos por nombre<br>Dado que el paciente desea buscar psicólogos por su nombre<br>Cuando el paciente accede a la función de búsqueda en la plataforma<br>Entonces el sistema muestra un campo donde el paciente puede ingresar el nombre del psicólogo que está buscando<br>Escenario 02: Resultados de la búsqueda por nombre<br>Dado que el paciente ha ingresado el nombre del psicólogo que está buscando<br>Cuando el paciente presiona el botón de búsqueda<br>Entonces el sistema muestra los resultados que coinciden con el nombre. |  |  |  |  |
+
+| Story ID | US014 | Título | Agendar Citas | Descripción | Como paciente, quiero agendar una cita con el psicólogo de mi preferencia mediante la opción de ver sus horarios para reservar mi cita efectivamente. |
+|---|---|---|---|---|---|
+| Epic ID | EP003 | Usuario | Paciente |  |  |
+| Criterios de aceptación | Escenario 01: Selección de psicólogo<br>Dado que el paciente desea agendar una cita con un psicólogo<br>Cuando el paciente busca al psicólogo de su preferencia en la plataforma desde la página de inicio<br>Entonces el sistema muestra al psicólogo y su disponibilidad de horarios en su perfil<br>Escenario 02: Reserva de cita<br>Dado que el paciente ha seleccionado al psicólogo de su preferencia<br>Y visualiza su disponibilidad de horarios<br>Cuando el paciente elige una fecha disponible en el calendario del psicólogo<br>Entonces el sistema le muestra automáticamente un resumen de su sesión reservada.<br>Escenario 03: Pago de la sesión<br>Dado que el paciente visualiza el resumen de su reservada<br>Cuando le da clic a “Ir  a pagar”<br>Entonces el sistema redirige al paciente a la sección de pagos para completar la transacción. |  |  |  |  |
+
+| Story ID | US015 | Título | Gestionar citas programadas | Descripción | Como paciente, quiero gestionar mis citas programadas desde la sección de citas, donde puedo ver mis citas en orden de fecha y tener opciones para cancelar o reprogramar las citas según sea necesario, y recibir una confirmación de cualquier acción realizada. |
+|---|---|---|---|---|---|
+| Epic ID | EP003 | Usuario | Paciente |  |  |
+| Criterios de aceptación | Escenario 01: Visualización de citas programadas<br>Dado que el paciente desea gestionar sus citas programadas<br>Cuando el paciente accede a la sección de "citas" en la plataforma<br>Entonces el sistema muestra las citas del paciente en orden de fecha, junto con opciones para cada cita, como "cancelar cita", "reprogramar cita", "pagar cita" o "confirmar cita".<br>Escenario 02: Cancelación de cita<br>Dado que el paciente desea cancelar una cita programada<br>Cuando el paciente selecciona la opción "cancelar cita" para la cita deseada<br>Entonces el sistema confirma la cancelación de la cita y actualiza el estado de la cita en consecuencia.<br>Escenario 03: Reprogramación de cita<br>Dado que el paciente desea reprogramar una cita programada<br>Cuando el paciente selecciona la opción "reprogramar cita" para la cita deseada<br>Entonces el sistema permite al paciente seleccionar una nueva fecha y hora para la cita<br>Y el sistema guarda automáticamente los cambios realizados.<br>Escenario 04: Confirmación de acción<br>Dado que el paciente ha realizado una acción sobre una cita (cancelar, reprogramar, pagar o confirmar)<br>Cuando el sistema procesa la acción solicitada por el paciente<br>Entonces el sistema envía una confirmación de la acción realizada mediante el mensaje “[acción realizada] con éxito”. |  |  |  |  |
 
 
+| Story ID | US016 | Título | Pagar cita | Descripción | Como paciente, quiero pagar mis citas de manera sencilla y recibir una confirmación. |
+|---|---|---|---|---|---|
+| Epic ID | EP003 | Usuario | Paciente |  |  |
+| Criterios de aceptación | Escenario 01: Pago de la cita<br>Dado que el paciente se encuentra en la sección de “citas” <br>Cuando el paciente quiera pagar una cita<br>Entonces hará click a la opción de “Pagar”<br>Escenario 02: Confirmación de pago<br>Dado que el paciente es redirigido a la sección de “Finanzas”<br>Cuando el paciente corrobore los datos de la sesión<br>Y le de click a “Pagar”<br>Y le aparezca una interfaz de pago segura para realizar el abono<br>Entonces el sistema actualizará estado de la cita y notifica al psicólogo por correo sobre la confirmación del pago |  |  |  |  |
 
+| Story ID | US017 | Título | Configuración de la cuenta | Descripción | Como paciente, quiero visualizar y editar datos de mi información personal en mi cuenta. |
+|---|---|---|---|---|---|
+| Epic ID | EP002 | Usuario | Paciente |  |  |
+| Criterios de aceptación | Escenario 01: Editar datos del perfil<br>Dado que el paciente se encuentra en la sección de “Mi cuenta”<br>Cuando quiera editar algún campo de mi información<br>Y escriba nueva o corrija información<br>Entonces el sistema actualizará sus datos |  |  |  |  |
+
+| Story ID | US018 | Título | Confidencialidad de los datos del paciente | Descripción | Como paciente, quiero que mi información personal y datos de salud estén protegidos y manejados con confidencialidad. |
+|---|---|---|---|---|---|
+| Epic ID | EP006 | Usuario | Paciente |  |  |
+| Criterios de aceptación | Escenario 01: Garantía de confidencialidad de la información<br>Dado que el paciente confía en la plataforma para proteger su información personal y datos de salud,<br>Cuando el paciente proporciona su información al utilizar la plataforma,<br>Entonces el sistema asegura que todos los datos del paciente se almacenen de forma segura utilizando medidas de seguridad avanzadas, como el cifrado de extremo a extremo y el cumplimiento de estándares de seguridad de la industria. |  |  |  |  |
+
+| Story ID | US019 | Título | Búsqueda de Pacientes | Descripción | Como psicólogo, quiero poder encontrar rápidamente a mis pacientes para acceder a su información |
+|---|---|---|---|---|---|
+| Epic ID | EP006 | Usuario | Paciente |  |  |
+| Criterios de aceptación | Escenario 01: Ingreso a la interfaz de búsqueda<br>Dado que el psicólogo se encuentra en su cuenta<br>Cuando el psicólogo le de click al icono de persona<br>Entonces accede a la interfaz de búsqueda de pacientes<br>Escenario 02: Búsqueda por filtros<br>Dado que el psicólogo se encuentra en la interfaz de búsqueda<br>Cuando el psicólogo ingrese un nombre en la sección del filtro de búsqueda<br>Entonces los pacientes registrados se filtran por nombre o apellido ingresado |  |  |  |  |
+
+| Story ID | US020 | Título | Visualización de reuniones | Descripción | Como paciente, quiero poder visualizar las reuniones programadas con mi psicólogo, incluyendo la hora y el enlace para unirme a la reunión.<br>  |
+|---|---|---|---|---|---|
+| Epic ID | EP006 | Usuario | Paciente |  |  |
+| Criterios de aceptación | Escenario 01: Visualización de reuniones programadas<br>Dado que el paciente tiene una cuenta activa en el sistema,<br>cuando el paciente accede a la sección de reuniones,<br>entonces el sistema muestra una lista de las reuniones programadas,<br>y cada reunión muestra el nombre del psicólogo, la hora y el enlace para unirse.<br>Escenario 02: Enlace para unirse a una reunión<br>Dado que el paciente tiene reuniones programadas,<br>cuando el paciente visualiza la sección de reuniones y selecciona una reunión específica,<br>entonces el sistema muestra el nombre del psicólogo, la hora de la reunión y el enlace activo para unirse. |  |  |  |  |
 
 ## 3.3. Impact Mapping.
 ![Screenshot 2024-04-20 222939](https://github.com/MindCare-Panqueque/Informe/assets/130580982/1babd5ba-50ab-484a-bb1d-21c4f20ac5ba)
@@ -747,31 +787,28 @@ Aquí, delineamos las mejoras y optimizaciones que hemos implementado para garan
 
 ## 3.4. Product Backlog. 
 
-| **#Order** | **User Story ID** | **Título** | **Descripción** | **Story point** |
+| #Order | User Story ID | Título | Descripción | Story point |
 |---|---|---|---|---|
-| 1 | US001 | Creación de hipervínculos (Header) | Como visitante de la landing page quiero poder interactuar con la landing page. | 3 |
-| 2 | US002 | Sección Servicios | Como visitante de la landing page quiero poder contactarme con MindCare | 5 |
-| 3 | US003 | Seccion Contáctanos | Como visitante de la landing page quiero tener conocimiento de lo que el servicio incluirá. | 3 |
-| 4 | US004 | Seccion Planes | Como visitante de la landing page quiero poder conocer a que planes me puedo afiliar. | 3 |
-| 5 | US005 | Iniciar Sesión | Como visitante de la landing page quiero poder ser dirigido fácilmente al apartado de iniciar sesión. | 3 |
-| 6 | US006 | Crear Cuenta | Como visitante de la landing page quiero poder ser dirigido fácilmente al apartado de crear cuenta. | 3 |
-| 7 | US007 | Ingreso a la de Crear Cuenta del Psicólogo | Como usuario que escogió ser psicólogo, quiero poder ser dirigido fácilmente al apartado de crear cuenta para poder gozar de los servicios de ser psicólogo en MindCare. | 3 |
-| 8 | US008 | Visualización y Gestión de Citas para Psicólogos | Como psicólogo, quiero gestionar mis citas a través de la plataforma, para tener un control eficiente de mi tiempo y compromisos. | 8 |
+| 1 | US001 | Interacción con hipervínculos en la landing page | Como visitante en MindCare quiero poder interactuar con la landing page. | 3 |
+| 2 | US002 | Interacción con la sección de “Contáctanos” | Como visitante de la landing page quiero poder contactarme con MindCare. | 5 |
+| 3 | US003 | Interacción con la sección de “Servicios” | Como visitante de la landing page quiero tener conocimiento de los servicios que brinda MindCare. | 3 |
+| 4 | US004 | Interacción con la sección de “Planes” | Como visitante de la landing page quiero poder conocer a qué planes me puedo afiliar en MindCare. | 3 |
+| 5 | US005 | Ingreso a la interfaz de Iniciar Sesión | Como visitante de la landing page quiero poder ser dirigido fácilmente al apartado de iniciar sesión. | 3 |
+| 6 | US006 | Ingreso a la interfaz de Crear Cuenta del Paciente | Como paciente, quiero poder ser dirigido fácilmente al apartado de crear cuenta para poder gozar de los servicios de ser paciente en MindCare. | 3 |
+| 7 | US007 | Ingreso a la interfaz de Crear Cuenta del Psicólogo | Como psicólogo, quiero poder ser dirigido fácilmente al apartado de crear cuenta para poder gozar de los servicios de ser psicólogo en MindCare. | 3 |
+| 8 | US008 | Visualización del calendario | Como psicólogo, quiero ver mis citas pendientes en un calendario general para una mejor organización. | 8 |
 | 9 | US009 | Interacción con la sección de “Mi cuenta” | Como psicólogo, quiero crear y editar mi perfil profesional para que los pacientes puedan conocerme mejor y elegir mis servicios. | 5 |
-| 10 | US009 | Comunicación con pacientes | Como psicólogo, quiero comunicarme con mis pacientes a través de un sistema de mensajería seguro dentro de la plataforma, para garantizar la confidencialidad de la información. | 8 |
-| 11 | US011 | Visualizar las notas de cada paciente | Como psicólogo, quiero poder visualizar las notas que hice en cada sesión de un paciente para poder organizar mejor mi documentación de las citas. | 5 |
-| 12 | US012 | Integración con plataformas de Videoconferencia | Como psicólogo, quiero que la plataforma se integre con herramientas de videoconferencia, para poder realizar sesiones virtuales con mis pacientes. | 8 |
-| 13 | US013 | Visualización de Tareas Asignadas | Como paciente, quiero que la plataforma me brinde un espacio de tareas asignadas para poder visualizar las actividades que me dan los psicólogos. | 5 |
-| 14 | US014 | Búsqueda de Psicólogos | Como paciente, quiero poder buscar psicólogos por su nombre para encontrar rápidamente al profesional que deseo contactar. | 8 |
-| 15 | US015 | Programar Citas | Como paciente, quiero agendar una cita con el psicólogo de mi preferencia mediante la opción de ver sus horarios para poder reservar mi cita efectivamente. | 8 |
-| 16 | US016 | Gestionar citas programadas | Como paciente, quiero gestionar mis citas programadas desde la sección de citas, donde puedo ver mis citas en orden de fecha y tener opciones para cancelar, reprogramar, pagar o confirmar las citas según sea necesario, y recibir una confirmación de cualquier acción realizada. | 8 |
-| 17 | US017 | Pagar cita | Como paciente, quiero pagar mis citas de manera sencilla y recibir una confirmación. | 5 |
-| 18 | US018 | Comunicación con psicólogos | Como paciente, quiero comunicarme con mi psicólogo a través de la plataforma para discutir detalles previos a la cita. | 5 |
-| 19 | US019 | Configuración de la cuenta | Como paciente, quiero visualizar y editar datos de mi información personal en mi cuenta. | 3 |
-| 20 | US020 | Chatbot de ayuda | Como paciente, quiero acceder al soporte técnico fácilmente a través de un chatbot o mediante la opción de hablar con un asesor humano para resolver cualquier problema que pueda tener con la plataforma. | 8 |
-| 21 | US021 | Confidencialidad de los datos del paciente | Como paciente, quiero que mi información personal y datos de salud estén protegidos y manejados con confidencialidad. | 5 |
-
-
+| 10 | US010 | Visualizar las notas de cada paciente | Como psicólogo, quiero poder visualizar las notas que hice en cada sesión de un paciente para poder organizar mejor mi documentación de las citas. | 5 |
+| 11 | US011 | Integración con plataformas de Videoconferencia | Como psicólogo, quiero que la plataforma se integre con herramientas de videoconferencia, para poder realizar sesiones virtuales con mis pacientes. | 8 |
+| 12 | US012 | Visualización de Tareas Asignadas | Como paciente, quiero que la plataforma me brinde un espacio de tareas asignadas para poder visualizar las actividades que me dan los psicólogos. | 5 |
+| 13 | US013 | Búsqueda de Psicólogos | Como paciente, quiero poder buscar psicólogos por su nombre para encontrar rápidamente al profesional que deseo contactar. | 8 |
+| 14 | US014 | Agendar Citas | Como paciente, quiero agendar una cita con el psicólogo de mi preferencia mediante la opción de ver sus horarios para poder reservar mi cita efectivamente. | 8 |
+| 15 | US015 | Gestionar citas programadas | Como paciente, quiero gestionar mis citas programadas desde la sección de citas, donde puedo ver mis citas en orden de fecha y tener opciones para cancelar, reprogramar, pagar o confirmar las citas según sea necesario, y recibir una confirmación de cualquier acción realizada. | 8 |
+| 16 | US016 | Pagar cita | Como paciente, quiero pagar mis citas de manera sencilla y recibir una confirmación. | 5 |
+| 17 | US017 | Configuración de la cuenta | Como paciente, quiero visualizar y editar datos de mi información personal en mi cuenta. | 3 |
+| 18 | US018 | Confidencialidad de los datos del paciente | Como paciente, quiero que mi información personal y datos de salud estén protegidos y manejados con confidencialidad. | 5 |
+| 19 | US019 | Búsqueda de Pacientes | Como psicólogo, quiero poder encontrar rápidamente a mis pacientes para acceder a su información. | 5 |
+| 20 | US020 | Visualización de reuniones | Como paciente, quiero poder visualizar las reuniones programadas con mi psicólogo, incluyendo la hora y el enlace para unirme a la reunión. | 5 |
 
 # Capítulo IV: Product Design. 
 
