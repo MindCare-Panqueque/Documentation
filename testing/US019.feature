@@ -8,4 +8,3 @@ Feature: Búsqueda de Pacientes
         Given que el psicólogo se encuentra en la interfaz de búsqueda
         When el psicólogo ingrese un nombre en la sección del filtro de búsqueda
         Then los pacientes registrados se filtran por nombre o apellido ingresado
-
