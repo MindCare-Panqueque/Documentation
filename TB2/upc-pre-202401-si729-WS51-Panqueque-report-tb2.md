@@ -1,6 +1,6 @@
 Universidad Peruana de ciencias aplicadas
 
-<img src=".../media/image127.png"
+<img src="../media/image127.png"
 style="width:2.34375in;height:2.34375in" />
 
 5to ciclo
